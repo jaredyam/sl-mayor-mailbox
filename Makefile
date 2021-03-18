@@ -1,19 +1,26 @@
-.PHONY: update update_history update_readme
+.PHONY: update update_history
 
-update: update_history update_readme
+activate_env := . activate && conda activate scraper
+csvdir := history
+first_file := first_run.csv
+
+update: update_history latest.csv readme_table.csv README.md history/letters history/agencies
 
 update_history:
-	@. activate && conda activate scraper && python scraper.py
+	@$(activate_env) && python scraper.py
 
-csvdir := history
-latest.csv: $(csvdir)
-	@[ -n latest.csv ] && head -1 latest.csv > latest.csv.tmp && mv latest.csv.tmp latest.csv
+latest.csv:$(csvdir)
+	@$(shell if [ -f latest.csv ];then head -1 latest.csv > latest.csv.tmp && mv latest.csv.tmp latest.csv;else head -1 $(csvdir)/$(first_file) > latest.csv;fi)
 	@for i in $(shell ls -t $(csvdir));do tail -n +2 $(csvdir)/$$i >> latest.csv; done
 
-md_table.csv: latest.csv
-	@. activate && conda activate scraper && python prepare.py
+readme_table.md: latest.csv
+	@$(activate_env) && python generate_readme_table.py
 
-update_readme: md_table.csv
-	@cat CONTENT.md > README.md \
-	&& printf "<pre><b>LAST UPDATE : $(shell date +"%Y-%m-%d")</b><br \><b>TOTAL MAILS : %10s</b></pre>\n" $(shell tail -n +2 md_table.csv | wc -l | sed 's/ //g') >> README.md \
-	&& csv2markdown md_table.csv ccll >> README.md
+README.md: CONTENT.md readme_table.md
+	@cat CONTENT.md > README.md && cat readme_table.md  >> README.md
+
+history/letters: latest.csv
+	@$(activate_env) && python generate_mailid_mds.py
+
+history/agencies: latest.csv
+	@$(activate_env) && python generate_reply_agency_mds.py
