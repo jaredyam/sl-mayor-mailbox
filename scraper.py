@@ -5,20 +5,17 @@ import csv
 from bs4 import BeautifulSoup
 import aiohttp
 
-from utils import get_soup, format_date, get_letter_id_from_url
+from utils import SOURCE, get_soup, format_date, get_letter_id_from_url
 
 
 class Scraper:
 
     BASE_URL = 'http://www.shangluo.gov.cn'
     DEFAULT_QUERY = '/zmhd/ldxxlb.jsp'
-    SAVE_DIR = Path('./history')
-    INIT_FILENAME = 'first_run.csv'
-    LATEST_FILENAME = 'latest.csv'
+    FILENAME = SOURCE
 
     def run(self):
-        self.first_run = not (self.SAVE_DIR / self.INIT_FILENAME).exists()
-        if self.first_run:
+        if not Path(self.FILENAME).exists():
             print('first run...')
             self.create()
         elif self.need_update():
@@ -30,40 +27,44 @@ class Scraper:
     def create(self):
         letter_urls = asyncio.run(self.collect_letter_urls())
         records = asyncio.run(self.collect_letters_content(letter_urls))
-        print(f'successfully saved total {len([r for r in records if r is not None])} letters')
+        print(f'successfully saved total {len(records)} letters')
         self.to_csv(records)
 
     def update(self):
         letter_urls = self.get_new_letter_urls()
         records = asyncio.run(self.collect_letters_content(letter_urls))
-        print(f'successfully saved total {len([r for r in records if r is not None])} letters')
+        print(f'successfully added total {len(records)} letters')
         self.to_csv(records)
 
     def need_update(self):
-        with open(self.LATEST_FILENAME, 'r') as f:
-            _ = f.readline()
-            latest_record = f.readline()
-            self.latest_letter_id_of_file = get_letter_id_from_url(
-                latest_record.split(',')[-1])
+        with open(self.FILENAME, newline='') as csvfile:
+            reader = csv.DictReader(csvfile)
+            for i, row in enumerate(reader):
+                if i == 0:
+                    latest_record = row
+                    break
+        self.latest_id_from_file = get_letter_id_from_url(latest_record['url'])
 
         first_page_soup = get_soup(self.get_page(1))
-        self.latest_letter_id_of_webpage = get_letter_id_from_url(
-            first_page_soup.find('span',
-                                 class_='titlestyle1333').parent.get('href'))
+        self.latest_id_from_site = get_letter_id_from_url(
+            first_page_soup.find('span', class_='titlestyle1333'
+                                 ).parent.get('href'))
 
-        return not self.latest_letter_id_of_file == self.latest_letter_id_of_webpage
+        return not self.latest_id_from_file == self.latest_id_from_site
 
     def to_csv(self, records):
-        filename = (self.INIT_FILENAME if self.first_run else
-                    (self.latest_letter_id_of_file + '-'
-                     + self.latest_letter_id_of_webpage + '.csv'))
-        self.SAVE_DIR.mkdir(exist_ok=True)
-        filepath = self.SAVE_DIR / filename
-        with open(filepath, 'w', newline='') as csvfile:
+        if self.need_update:
+            with open(self.FILENAME, newline='') as csvfile:
+                reader = csv.DictReader(csvfile)
+
+        with open(self.FILENAME, 'w', newline='') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=records[0].keys())
             writer.writeheader()
             for row in records:
-                if isinstance(row, dict):
+                writer.writerow(row)
+
+            if self.need_update:
+                for row in reader:
                     writer.writerow(row)
 
     def get_page(self,  num):
@@ -75,6 +76,7 @@ class Scraper:
         soup = get_soup(self.get_page(1))
         total_pages = soup.find(
             'a', class_='Next').parent.find_all('a')[-2].text
+
         return [self.get_page(i + 1) for i in range(int(total_pages))]
 
     def get_new_letter_urls(self):
@@ -83,12 +85,12 @@ class Scraper:
 
         find_latest_item_of_file = False
         while not find_latest_item_of_file:
-            items = current_page_soup.find('table',
-                                           class_='winstyle1333').find_all('tr')[1:]
+            items = current_page_soup.find(
+                'table', class_='winstyle1333').find_all('tr')[1:]
             for item in items:
                 latest_letter_href = item.find_all('td')[1].a.get('href')
                 letter_id = get_letter_id_from_url(latest_letter_href)
-                if letter_id == self.latest_letter_id_of_file:
+                if letter_id == self.latest_id_from_file:
                     find_latest_item_of_file = True
                     break
                 else:
@@ -139,8 +141,9 @@ class Scraper:
         for date in ['query_date', 'reply_date']:
             record[date] = format_date(record[date])
 
-        record['reply_agency'] = record[
-            'reply_agency'].strip().replace('、', ' ')
+        if record['reply_agency'] is not None:
+            record['reply_agency'] = record[
+                'reply_agency'].strip().replace('、', ' ')
 
         print(f'saved letter - query date : {record["query_date"]} - '
               f'reply date : {record["reply_date"]}'
@@ -151,9 +154,9 @@ class Scraper:
 
     async def collect_letter_urls(self):
         async with aiohttp.ClientSession() as session:
-            urls_each_page = await asyncio.gather(*[self.get_letter_urls(page_url, session)
-                                                    for page_url
-                                                    in self.collect_page_urls()])
+            urls_each_page = await asyncio.gather(
+                *[self.get_letter_urls(page_url, session)
+                  for page_url in self.collect_page_urls()])
 
         return [url for letter_urls in urls_each_page for url in letter_urls]
 
