@@ -1,11 +1,11 @@
 from pathlib import Path
-import re
 import asyncio
 import csv
 
-import requests
 from bs4 import BeautifulSoup
 import aiohttp
+
+from utils import get_soup, format_date, get_letter_id_from_url
 
 
 class Scraper:
@@ -43,11 +43,11 @@ class Scraper:
         with open(self.LATEST_FILENAME, 'r') as f:
             _ = f.readline()
             latest_record = f.readline()
-            self.latest_letter_id_of_file = self._get_letter_id_from_url(
+            self.latest_letter_id_of_file = get_letter_id_from_url(
                 latest_record.split(',')[-1])
 
-        first_page_soup = self.get_soup(self.get_page(1))
-        self.latest_letter_id_of_webpage = self._get_letter_id_from_url(
+        first_page_soup = get_soup(self.get_page(1))
+        self.latest_letter_id_of_webpage = get_letter_id_from_url(
             first_page_soup.find('span',
                                  class_='titlestyle1333').parent.get('href'))
 
@@ -71,25 +71,15 @@ class Scraper:
                 + f'formname1333at=54&formname1333ap={num}&formname1333ac=15&'
                 + 'urltype=tree.TreeTempUrl&wbtreeid=1112')
 
-    @staticmethod
-    def get_soup(url):
-        try:
-            response = requests.get(url)
-        except requests.exceptions.ConnectionError:
-            raise requests.exceptions.ConnectionError(
-                'please check your network connection')
-
-        return BeautifulSoup(response.text, 'html.parser')
-
     def collect_page_urls(self):
-        soup = self.get_soup(self.get_page(1))
+        soup = get_soup(self.get_page(1))
         total_pages = soup.find(
             'a', class_='Next').parent.find_all('a')[-2].text
         return [self.get_page(i + 1) for i in range(int(total_pages))]
 
     def get_new_letter_urls(self):
         new_letter_urls = []
-        current_page_soup = self.get_soup(self.get_page(1))
+        current_page_soup = get_soup(self.get_page(1))
 
         find_latest_item_of_file = False
         while not find_latest_item_of_file:
@@ -97,7 +87,7 @@ class Scraper:
                                            class_='winstyle1333').find_all('tr')[1:]
             for item in items:
                 latest_letter_href = item.find_all('td')[1].a.get('href')
-                letter_id = self._get_letter_id_from_url(latest_letter_href)
+                letter_id = get_letter_id_from_url(latest_letter_href)
                 if letter_id == self.latest_letter_id_of_file:
                     find_latest_item_of_file = True
                     break
@@ -109,7 +99,7 @@ class Scraper:
                 next_page_url = (self.BASE_URL
                                  + self.DEFAULT_QUERY + '?'
                                  + next_page_href)
-                current_page_soup = self.get_soup(next_page_url)
+                current_page_soup = get_soup(next_page_url)
 
         return new_letter_urls
 
@@ -147,7 +137,10 @@ class Scraper:
 
         record['url'] = letter_url
         for date in ['query_date', 'reply_date']:
-            record[date] = self._format_date(record[date])
+            record[date] = format_date(record[date])
+
+        record['reply_agency'] = record[
+            'reply_agency'].strip().replace('、', ' ')
 
         print(f'saved letter - query date : {record["query_date"]} - '
               f'reply date : {record["reply_date"]}'
@@ -168,17 +161,6 @@ class Scraper:
         async with aiohttp.ClientSession() as session:
             return await asyncio.gather(*[self.get_letter_content(url, session)
                                           for url in letter_urls])
-
-    @staticmethod
-    def _get_letter_id_from_url(url):
-        return re.findall(r'leadermailid=(\d+)', url)[0]
-
-    @staticmethod
-    def _format_date(date):
-        if date is None:
-            return None
-
-        return '-'.join(re.findall(r'(\d{4})年(\d{1,2})月(\d{1,2})日', date)[0])
 
 
 if __name__ == '__main__':
