@@ -6,9 +6,12 @@ A searchable alternative to the Shangluo Govt. Mayor's Mailbox.
 👇 Mailbox
 ----------
 
-<pre><b>LAST UPDATE : 2021-03-19</b><br/><b>TOTAL MAILS :        805</b></pre>
+<pre><b>LAST UPDATE : 2021-03-19</b><br/><b>TOTAL MAILS :        808</b></pre>
 <pre>
+- <a href="category/letters/7038.md">拖欠农民工工资五年</a><br/>  Query Date : <b>2021-03-18</b> - Reply Date : <b>2021-03-19</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
+- <a href="category/letters/7037.md">大学生回乡创业</a><br/>  Query Date : <b>2021-03-18</b> - Reply Date : <b>2021-03-19</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
 - <a href="category/letters/7030.md">咨询户口迁出</a><br/>  Query Date : <b>2021-03-17</b> - Reply Date : <b>2021-03-17</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
+- <a href="category/letters/7020.md">公积金异地贷款买房</a><br/>  Query Date : <b>2021-03-13</b> - Reply Date : <b>2021-03-16</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
 - <a href="category/letters/7016.md">事业招考岗位表下载不了不清</a><br/>  Query Date : <b>2021-03-11</b> - Reply Date : <b>2021-03-12</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
 - <a href="category/letters/7014.md">询问事业单位考试时间</a><br/>  Query Date : <b>2021-03-11</b> - Reply Date : <b>2021-03-11</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
 - <a href="category/letters/7013.md">关于电动车上路的要求</a><br/>  Query Date : <b>2021-03-11</b> - Reply Date : <b>2021-03-12</b> - Reply Agency : <a href="category/agencies/市交警支队.md">市交警支队</a>
