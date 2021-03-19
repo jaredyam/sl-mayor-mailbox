@@ -12,10 +12,9 @@ class Scraper:
 
     BASE_URL = 'http://www.shangluo.gov.cn'
     DEFAULT_QUERY = '/zmhd/ldxxlb.jsp'
-    FILENAME = SOURCE
 
     def run(self):
-        if not Path(self.FILENAME).exists():
+        if not Path(SOURCE).exists():
             print('first run...')
             self.create()
         elif self.need_update():
@@ -37,7 +36,7 @@ class Scraper:
         self.to_csv(records)
 
     def need_update(self):
-        with open(self.FILENAME, newline='') as csvfile:
+        with open(SOURCE, newline='') as csvfile:
             reader = csv.DictReader(csvfile)
             for i, row in enumerate(reader):
                 if i == 0:
@@ -53,18 +52,19 @@ class Scraper:
         return not self.latest_id_from_file == self.latest_id_from_site
 
     def to_csv(self, records):
-        if self.need_update:
-            with open(self.FILENAME, newline='') as csvfile:
-                reader = csv.DictReader(csvfile)
+        update = Path(SOURCE).exists()
+        if update:
+            with open(SOURCE, newline='') as csvfile:
+                history_records = csv.DictReader(csvfile)
 
-        with open(self.FILENAME, 'w', newline='') as csvfile:
+        with open(SOURCE, 'w', newline='') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=records[0].keys())
             writer.writeheader()
             for row in records:
                 writer.writerow(row)
 
-            if self.need_update:
-                for row in reader:
+            if update:
+                for row in history_records:
                     writer.writerow(row)
 
     def get_page(self,  num):
