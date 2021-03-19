@@ -26,14 +26,19 @@ class Scraper:
     def create(self):
         letter_urls = asyncio.run(self.collect_letter_urls())
         records = asyncio.run(self.collect_letters_content(letter_urls))
+
         print(f'successfully saved total {len(records)} letters')
         self.to_csv(records)
 
     def update(self):
         letter_urls = self.get_new_letter_urls()
         records = asyncio.run(self.collect_letters_content(letter_urls))
+
+        csvfile = open(SOURCE, newline='')
+        history_records = [r for r in csv.DictReader(csvfile)]
+
         print(f'successfully added total {len(records)} letters')
-        self.to_csv(records)
+        self.to_csv(records + history_records)
 
     def need_update(self):
         with open(SOURCE, newline='') as csvfile:
@@ -52,20 +57,11 @@ class Scraper:
         return not self.latest_id_from_file == self.latest_id_from_site
 
     def to_csv(self, records):
-        update = Path(SOURCE).exists()
-        if update:
-            with open(SOURCE, newline='') as csvfile:
-                history_records = csv.DictReader(csvfile)
-
         with open(SOURCE, 'w', newline='') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=records[0].keys())
             writer.writeheader()
             for row in records:
                 writer.writerow(row)
-
-            if update:
-                for row in history_records:
-                    writer.writerow(row)
 
     def get_page(self,  num):
         return (self.BASE_URL + self.DEFAULT_QUERY + '?'
@@ -85,25 +81,27 @@ class Scraper:
 
         find_latest_item_of_file = False
         while not find_latest_item_of_file:
-            items = current_page_soup.find(
-                'table', class_='winstyle1333').find_all('tr')[1:]
-            for item in items:
-                latest_letter_href = item.find_all('td')[1].a.get('href')
-                letter_id = get_letter_id_from_url(latest_letter_href)
+            urls = self.get_letter_urls_from_page_soup(current_page_soup)
+            for url in urls:
+                letter_id = get_letter_id_from_url(url)
                 if letter_id == self.latest_id_from_file:
                     find_latest_item_of_file = True
                     break
                 else:
-                    new_letter_urls.append(self.BASE_URL + latest_letter_href)
+                    new_letter_urls.append(url)
             else:
-                next_page_href = self.first_page_soup.find(
+                next_page_href = self.current_page_soup.find(
                     'a', class_='Next').get('href')
-                next_page_url = (self.BASE_URL
-                                 + self.DEFAULT_QUERY + '?'
-                                 + next_page_href)
-                current_page_soup = get_soup(next_page_url)
+                current_page_soup = get_soup(self.BASE_URL
+                                             + self.DEFAULT_QUERY + '?'
+                                             + next_page_href)
 
         return new_letter_urls
+
+    def get_letter_urls_from_page_soup(self, page_soup):
+        main_table = page_soup.find('table', class_='winstyle1333')
+        return [self.BASE_URL + item.a.get('href')
+                for item in main_table.find_all('tr')[1:]]
 
     async def get_html_text(self, url, session):
         async with session.get(url) as response:
@@ -112,11 +110,9 @@ class Scraper:
     async def get_letter_urls(self, page_url, session):
         text = await self.get_html_text(page_url, session)
         soup = BeautifulSoup(text, 'html.parser')
-        main_table = soup.find('table', class_='winstyle1333')
 
         print(f'collecting letter urls from web page: {page_url}...')
-        return [self.BASE_URL + item.a.get('href') for item in
-                main_table.find_all('tr')[1:]]
+        return self.get_letter_urls_from_page_soup(soup)
 
     async def get_letter_content(self, letter_url, session):
         text = await self.get_html_text(letter_url, session)
