@@ -9,7 +9,7 @@ update:
 	@$(activate_env) && python scraper.py
 
 README.md: CONTENT.md latest.csv
-	@cat CONTENT.md > README.md && $(activate_env) && python append_readme_table.py
+	@cat CONTENT.md > README.md && $(activate_env) && python append_readme_table.py && python plots.py
 
 category/letters: latest.csv
 	@$(activate_env) && python generate_mailid_mds.py

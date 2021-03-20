@@ -1,12 +1,17 @@
-shangluo.gov.cn Mayor's Mailbox
-===============================
+<h1 align="center">
+  <br>
+  <a href="https://github.com/jaredyam/sl-mayor-mailbox"><img src="imgs/year_mails_count.png"></a>
+  <br>
+  shangluo.gov.cn Mayor's Mailbox
+  <br>
+</h1>
 
-A searchable alternative to the Shangluo Govt. Mayor's Mailbox.
+<h4 align="center">A searchable alternative to the Shangluo Govt. Mayor's Mailbox.</h4>
 
 👇 Mailbox
 ----------
 
-<pre><b>LAST UPDATE : 2021-03-19</b><br/><b>TOTAL MAILS :        808</b></pre>
+<pre><b>LAST UPDATE : 2021-03-20</b><br/><b>TOTAL MAILS :        808</b></pre>
 <pre>
 - <a href="category/letters/7038.md">拖欠农民工工资五年</a><br/>  Query Date : <b>2021-03-18</b> - Reply Date : <b>2021-03-19</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
 - <a href="category/letters/7037.md">大学生回乡创业</a><br/>  Query Date : <b>2021-03-18</b> - Reply Date : <b>2021-03-19</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
