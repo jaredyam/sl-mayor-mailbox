@@ -1,11 +1,11 @@
 from pathlib import Path
-import asyncio
 import csv
+import asyncio
 
 from bs4 import BeautifulSoup
 import aiohttp
 
-from utils import SOURCE, get_soup, format_date, get_letter_id_from_url
+from utils import LATEST_DATA, get_soup, format_date, get_letter_id_from_url
 
 
 class Scraper:
@@ -14,7 +14,7 @@ class Scraper:
     DEFAULT_QUERY = '/zmhd/ldxxlb.jsp'
 
     def run(self):
-        if not Path(SOURCE).exists():
+        if not Path(LATEST_DATA).exists():
             print('first run...')
             self.create()
         elif self.need_update():
@@ -34,14 +34,14 @@ class Scraper:
         letter_urls = self.get_new_letter_urls()
         records = asyncio.run(self.collect_letters_content(letter_urls))
 
-        csvfile = open(SOURCE, newline='')
+        csvfile = open(LATEST_DATA, newline='')
         history_records = [r for r in csv.DictReader(csvfile)]
 
         print(f'successfully added total {len(records)} letters')
         self.to_csv(records + history_records)
 
     def need_update(self):
-        with open(SOURCE, newline='') as csvfile:
+        with open(LATEST_DATA, newline='') as csvfile:
             reader = csv.DictReader(csvfile)
             for i, row in enumerate(reader):
                 if i == 0:
@@ -57,7 +57,7 @@ class Scraper:
         return not self.latest_id_from_file == self.latest_id_from_site
 
     def to_csv(self, records):
-        with open(SOURCE, 'w', newline='') as csvfile:
+        with open(LATEST_DATA, 'w', newline='') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=records[0].keys())
             writer.writeheader()
             for row in records:
