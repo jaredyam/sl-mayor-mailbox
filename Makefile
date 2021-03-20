@@ -1,6 +1,6 @@
 .PHONY: all update
 
-activate_env := . activate && conda activate scraper
+activate_env := source .venv/bin/activate
 csvdir := category
 
 all: update README.md category/letters category/agencies
@@ -16,3 +16,6 @@ category/letters: latest.csv
 
 category/agencies: latest.csv
 	@$(activate_env) && python generate_reply_agency_mds.py
+
+create_environment:
+	pip -m venv .venv && $(activate_env) && pip install -r requirements.txt
