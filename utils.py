@@ -13,9 +13,9 @@ AGENCY_PATH = Path('category') / 'agencies'
 def get_soup(url):
     try:
         response = requests.get(url)
-    except requests.exceptions.ConnectionError:
+    except requests.exceptions.ConnectionError as e:
         raise requests.exceptions.ConnectionError(
-            'please check your network connection')
+            'please check your network connection') from e
 
     return BeautifulSoup(response.text, 'html.parser')
 
