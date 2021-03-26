@@ -11,8 +11,10 @@
 👇 Mailbox
 ----------
 
-<pre><b>LAST UPDATE : 2021-03-24</b><br/><b>TOTAL MAILS :        810</b></pre>
+<pre><b>LAST UPDATE : 2021-03-26</b><br/><b>TOTAL MAILS :        812</b></pre>
 <pre>
+- <a href="category/letters/7072.md">关于三支一扶人员乡镇补贴的咨询</a><br/>  Query Date : <b>2021-03-25</b> - Reply Date : <b>2021-03-26</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
+- <a href="category/letters/7068.md">商洛市上上洛项目违规违纪</a><br/>  Query Date : <b>2021-03-24</b> - Reply Date : <b>2021-03-26</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
 - <a href="category/letters/7066.md">关于商洛市2021年暑期大学生政府见习</a><br/>  Query Date : <b>2021-03-24</b> - Reply Date : <b>2021-03-24</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
 - <a href="category/letters/7056.md">驾校报名是否可以异地转</a><br/>  Query Date : <b>2021-03-22</b> - Reply Date : <b>2021-03-24</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
 - <a href="category/letters/7038.md">拖欠农民工工资五年</a><br/>  Query Date : <b>2021-03-18</b> - Reply Date : <b>2021-03-19</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
