@@ -1,21 +1,20 @@
-.PHONY: all update
-
-activate_env := source .venv/bin/activate
-csvdir := category
+VENV := .venv
+BIN := $(VENV)/bin
 
 all: update README.md category/letters category/agencies
 
+.PHONY: update
 update:
-	@$(activate_env) && python scraper.py
+	@$(BIN)/python scraper.py
 
 README.md: CONTENT.md latest.csv
-	@cat CONTENT.md > README.md && $(activate_env) && python append_readme_table.py && python plots.py
+	@cat CONTENT.md > README.md && $(BIN)/python append_readme_table.py && $(BIN)/python plots.py
 
 category/letters: latest.csv
-	@$(activate_env) && python generate_mailid_mds.py
+	@$(BIN)/python generate_mailid_mds.py
 
 category/agencies: latest.csv
-	@$(activate_env) && python generate_reply_agency_mds.py
+	@$(BIN)/python generate_reply_agency_mds.py
 
 create_environment:
-	pip -m venv .venv && $(activate_env) && pip install -r requirements.txt
+	python -m venv $(VENV) && $(BIN)/pip install -r requirements.txt
