@@ -7,6 +7,7 @@
 </h1>
 
 <h4 align="center">A searchable alternative to the Shangluo Govt. Mayor's Mailbox.</h4>
+<h4 align="center"><a href="https://github.com/jaredyam/sl-mayor-mailbox/actions/workflows/scraper.yml"><img src="https://github.com/jaredyam/sl-mayor-mailbox/actions/workflows/scraper.yml/badge.svg"></a></h4>
 
 👇 Mailbox
 ----------
