@@ -1,0 +1,3 @@
+[submodule "csv-converter"]
+  path = scripts/csv-converter
+  url = https://github.com/jaredyam/csv-converter.git
