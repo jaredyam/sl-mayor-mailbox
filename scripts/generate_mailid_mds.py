@@ -2,17 +2,16 @@ import importlib
 from pathlib import Path
 import pandas as pd
 
-from utils import (LATEST_DATA, LETTER_PATH, AGENCY_PATH,
+from utils import (LATEST_DATA, LETTER_PATH, AGENCY_PATH, PROJECT_PATH,
                    get_letter_id_from_url, html_link)
-csv2markdown = importlib.import_module(
-    'csv-converter.csv_converter.csv2markdown')
+csv_converter = importlib.import_module('csv-converter.csv_converter')
 
 
 def generate_mailid_mds():
     df = pd.read_csv(LATEST_DATA)
 
     df['reply_agency'] = df['reply_agency'].apply(
-        _convert_reply_agency_to_html_link)
+        _convert_reply_agency_to_links)
 
     LETTER_PATH.mkdir(parents=True, exist_ok=True)
     for i, row in df.iterrows():
@@ -29,16 +28,18 @@ def generate_mailid_mds():
                           'reply_agency': '回复机构'})
 
         csvfile = row.to_csv(header=['Content'], index_label='Title')
-        table = csv2markdown(csvfile)
+        table = csv_converter.csv2markdown(csvfile, raw_string=True)
 
         with open(LETTER_PATH / f'{letter_id}.md', 'w') as md:
             md.write(f'# {html_link(title, url)}\n')
             md.write(table)
 
 
-def _convert_reply_agency_to_html_link(agency):
-    return r' '.join([html_link(a, f'{Path(f"../../{AGENCY_PATH}") / a}.md')
-                      for a in agency.split()])
+def _convert_reply_agency_to_links(agencies):
+    return r' '.join([html_link(
+        agency,
+        f'{Path(f"../../{AGENCY_PATH.relative_to(PROJECT_PATH)}") / agency}.md')
+        for agency in agencies.split()])
 
 
 if __name__ == '__main__':

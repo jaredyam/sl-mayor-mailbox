@@ -117,21 +117,20 @@ class Scraper:
     async def get_letter_content(self, letter_url, session):
         text = await self.get_html_text(letter_url, session)
         soup = BeautifulSoup(text, 'html.parser')
-        avaliable_titles = soup.find_all('td', class_='titlestyle1335')
-        interest_titles = ['信件编号', '来信主题', '信件内容', '来信时间',
-                           '回复内容', '回复时间', '回复人']
+        avaliable_headers = {s.text: s for s
+                             in soup.find_all('td', class_='titlestyle1335')}
+        target_headers = ['信件编号', '来信主题', '信件内容', '来信时间',
+                          '回复内容', '回复时间', '回复人']
 
         record_headers = ['letter_id', 'title', 'query', 'query_date',
                           'reply', 'reply_date', 'reply_agency']
         record = dict(zip(record_headers,
                           [None for _ in range(len(record_headers))]))
 
-        for i, it in enumerate(interest_titles):
-            for at in avaliable_titles:
-                if at.text == it:
-                    record[record_headers[i]] = at.parent.find(
-                        'td', 'contentstyle1335').text
-                    break
+        for i, th in enumerate(target_headers):
+            if th in avaliable_headers:
+                record[record_headers[i]] = avaliable_headers[th].parent.find(
+                    'td', 'contentstyle1335').text
 
         record['url'] = letter_url
         for date in ['query_date', 'reply_date']:

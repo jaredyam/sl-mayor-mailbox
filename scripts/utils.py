@@ -1,3 +1,4 @@
+import os
 from pathlib import Path
 import re
 
@@ -5,9 +6,12 @@ import requests
 from bs4 import BeautifulSoup
 
 
-LATEST_DATA = 'latest.csv'
-LETTER_PATH = Path('category') / 'letters'
-AGENCY_PATH = Path('category') / 'agencies'
+SCRIPTS_PATH = Path(os.path.realpath(__file__)).parent
+PROJECT_PATH = SCRIPTS_PATH.parent
+
+LATEST_DATA = PROJECT_PATH / 'latest.csv'
+LETTER_PATH = PROJECT_PATH / 'category/letters'
+AGENCY_PATH = PROJECT_PATH / 'category/agencies'
 
 
 def get_soup(url):
