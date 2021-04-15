@@ -7,12 +7,14 @@
 </h1>
 
 <h4 align="center">A searchable alternative to the Shangluo Govt. Mayor's Mailbox.</h4>
+<h4 align="center"><a href="https://github.com/jaredyam/sl-mayor-mailbox/actions/workflows/scraper.yml"><img src="https://github.com/jaredyam/sl-mayor-mailbox/actions/workflows/scraper.yml/badge.svg"></a></h4>
 
 👇 Mailbox
 ----------
 
-<pre><b>LAST UPDATE : 2021-04-13</b><br/><b>TOTAL MAILS :        829</b></pre>
+<pre><b>LAST UPDATE : 2021-04-15</b><br/><b>TOTAL MAILS :        830</b></pre>
 <pre>
+- <a href="category/letters/7153.md">城市森林花园建筑对生态文明建设的有效推进</a><br/>  Query Date : <b>2021-04-13</b> - Reply Date : <b>2021-04-15</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
 - <a href="category/letters/7148.md">21年特岗教师公告及笔试时间</a><br/>  Query Date : <b>2021-04-12</b> - Reply Date : <b>2021-04-13</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
 - <a href="category/letters/7147.md">建议政府公务车辆租赁新能源电动汽车</a><br/>  Query Date : <b>2021-04-12</b> - Reply Date : <b>2021-04-13</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
 - <a href="category/letters/7139.md">集中供暖什么时候实行</a><br/>  Query Date : <b>2021-04-10</b> - Reply Date : <b>2021-04-13</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
