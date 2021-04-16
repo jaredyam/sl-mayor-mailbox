@@ -1,7 +1,11 @@
 import pandas as pd
+import matplotlib as mpl
 import matplotlib.pyplot as plt
 
 from utils import LATEST_DATA
+
+
+mpl.rcParams['svg.hashsalt'] = 'trending-header'
 
 
 def plot_header_img():
