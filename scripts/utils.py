@@ -15,11 +15,8 @@ AGENCY_PATH = PROJECT_PATH / 'category/agencies'
 
 
 def get_soup(url):
-    try:
-        response = requests.get(url)
-    except requests.exceptions.ConnectionError as e:
-        raise requests.exceptions.ConnectionError(
-            'please check your network connection') from e
+    response = requests.get(url)
+    response.raise_for_status()
 
     return BeautifulSoup(response.text, 'html.parser')
 
