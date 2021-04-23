@@ -12,7 +12,7 @@
 👇 Mailbox
 ----------
 
-<pre><b>LAST UPDATE : 2021-04-22</b><br/><b>TOTAL MAILS :        830</b></pre>
+<pre><b>LAST UPDATE : 2021-04-23</b><br/><b>TOTAL MAILS :        830</b></pre>
 <pre>
 - <a href="category/letters/7153.md">城市森林花园建筑对生态文明建设的有效推进</a><br/>  Query Date : <b>2021-04-13</b> - Reply Date : <b>2021-04-15</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
 - <a href="category/letters/7148.md">21年特岗教师公告及笔试时间</a><br/>  Query Date : <b>2021-04-12</b> - Reply Date : <b>2021-04-13</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
