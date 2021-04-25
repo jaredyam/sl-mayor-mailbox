@@ -7,7 +7,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-04-24T20:14:19.870222</dc:date>
+    <dc:date>2021-04-25T20:14:06.263552</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -551,11 +551,11 @@ L 476.618182 161.144151
 L 544.254545 117.638491 
 L 611.890909 142.600755 
 L 679.527273 33.48 
-L 747.163636 147.593208 
+L 747.163636 146.166792 
 " style="fill:none;stroke:#ff053e;stroke-linecap:square;stroke-width:4;"/>
    </g>
    <g id="line2d_17">
-    <path clip-path="url(#p371792d809)" d="M 747.163636 147.593208 
+    <path clip-path="url(#p371792d809)" d="M 747.163636 146.166792 
 " style="fill:none;stroke:#ff053e;stroke-linecap:square;stroke-width:4;"/>
     <defs>
      <path d="M 0 6 
@@ -571,7 +571,7 @@ z
 " id="m761ea37a20" style="stroke:#ff053e;stroke-width:3;"/>
     </defs>
     <g clip-path="url(#p371792d809)">
-     <use style="fill:#faf82e;stroke:#ff053e;stroke-width:3;" x="747.163636" xlink:href="#m761ea37a20" y="147.593208"/>
+     <use style="fill:#faf82e;stroke:#ff053e;stroke-width:3;" x="747.163636" xlink:href="#m761ea37a20" y="146.166792"/>
     </g>
    </g>
   </g>
