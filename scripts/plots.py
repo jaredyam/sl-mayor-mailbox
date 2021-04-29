@@ -29,7 +29,8 @@ def plot_header_img():
 
     ax.set_xticks(df.index)
     ax.tick_params(colors='#777')
-    plt.savefig('imgs/year_mails_count.svg', transparent=True)
+    plt.savefig('imgs/year_mails_count.svg',
+                transparent=True, metadata={'Date': None})
 
 
 if __name__ == '__main__':
