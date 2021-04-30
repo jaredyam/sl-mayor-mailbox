@@ -12,8 +12,9 @@
 👇 Mailbox
 ----------
 
-<pre><b>LAST UPDATE : 2021-04-29</b><br/><b>TOTAL MAILS :        836</b></pre>
+<pre><b>LAST UPDATE : 2021-04-30</b><br/><b>TOTAL MAILS :        837</b></pre>
 <pre>
+- <a href="category/letters/7197.md">为何全市接种疫苗变成单位政府人员先接种？</a><br/>  Query Date : <b>2021-04-27</b> - Reply Date : <b>2021-04-27</b> - Reply Agency : <a href="category/agencies/商洛市卫生健康委员会.md">商洛市卫生健康委员会</a>
 - <a href="category/letters/7194.md">啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊</a><br/>  Query Date : <b>2021-04-26</b> - Reply Date : <b>2021-04-27</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
 - <a href="category/letters/7188.md">商洛市金陵寺镇杨口村村民违建</a><br/>  Query Date : <b>2021-04-25</b> - Reply Date : <b>2021-04-26</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
 - <a href="category/letters/7187.md">金陵寺镇杨口村违建</a><br/>  Query Date : <b>2021-04-25</b> - Reply Date : <b>2021-04-26</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
