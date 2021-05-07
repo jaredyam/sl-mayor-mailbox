@@ -13,6 +13,13 @@ class Scraper:
     BASE_URL = 'http://www.shangluo.gov.cn'
     DEFAULT_QUERY = '/zmhd/ldxxlb.jsp'
 
+    def __init__(self):
+        self.first_page_soup = get_soup(self.get_page_url(1))
+        self.total_pages = int(self.first_page_soup.find(
+            'a', class_='Next').parent.find_all('a')[-2].text)
+        self.letters_per_page = len(self.get_letter_urls_from_page_soup(
+            self.first_page_soup))
+
     def run(self):
         if not Path(LATEST_DATA).exists():
             print('first run...')
@@ -27,34 +34,34 @@ class Scraper:
         letter_urls = asyncio.run(self.collect_letter_urls())
         records = asyncio.run(self.collect_letters_content(letter_urls))
 
-        print(f'successfully saved total {len(records)} letters')
         self.to_csv(records)
 
     def update(self):
-        letter_urls = self.get_new_letter_urls()
-        records = asyncio.run(self.collect_letters_content(letter_urls))
+        letter_urls, recreate = self.get_new_letter_urls()
+        if recreate:
+            self.create()
+        else:
+            records = asyncio.run(self.collect_letters_content(letter_urls))
 
-        csvfile = open(LATEST_DATA, newline='')
-        history_records = [r for r in csv.DictReader(csvfile)]
+            csvfile = open(LATEST_DATA, newline='')
+            history_records = [r for r in csv.DictReader(csvfile)]
 
-        print(f'successfully added total {len(records)} letters')
-        self.to_csv(records + history_records)
+            self.to_csv(records + history_records)
 
     def need_update(self):
         with open(LATEST_DATA, newline='') as csvfile:
             reader = csv.DictReader(csvfile)
-            for i, row in enumerate(reader):
-                if i == 0:
-                    latest_record = row
-                    break
-        self.latest_id_from_file = get_letter_id_from_url(latest_record['url'])
+            self.saved_letters = 0
+            for row in reader:
+                self.saved_letters += 1
+                if self.saved_letters == 1:
+                    self.latest_saved_id = get_letter_id_from_url(row['url'])
 
-        first_page_soup = get_soup(self.get_page(1))
-        self.latest_id_from_site = get_letter_id_from_url(
-            first_page_soup.find('span', class_='titlestyle1333'
-                                 ).parent.get('href'))
+        self.total_letters = self.letters_per_page * (self.total_pages - 1) + len(
+            self.get_letter_urls_from_page_soup(
+                get_soup(self.get_page_url(self.total_pages))))
 
-        return not self.latest_id_from_file == self.latest_id_from_site
+        return not self.saved_letters == self.total_letters
 
     def to_csv(self, records):
         with open(LATEST_DATA, 'w', newline='') as csvfile:
@@ -63,32 +70,31 @@ class Scraper:
             for row in records:
                 writer.writerow(row)
 
-    def get_page(self,  num):
+    def get_page_url(self, num):
         return (self.BASE_URL + self.DEFAULT_QUERY + '?'
                 + f'formname1333at=54&formname1333ap={num}&formname1333ac=15&'
                 + 'urltype=tree.TreeTempUrl&wbtreeid=1112')
 
     def collect_page_urls(self):
-        soup = get_soup(self.get_page(1))
-        total_pages = soup.find(
-            'a', class_='Next').parent.find_all('a')[-2].text
-
-        return [self.get_page(i + 1) for i in range(int(total_pages))]
+        return [self.get_page_url(i + 1) for i in range(self.total_pages)]
 
     def get_new_letter_urls(self):
         new_letter_urls = []
-        current_page_soup = get_soup(self.get_page(1))
+        current_page_soup = self.first_page_soup
+        miss_letters = self.total_letters - self.saved_letters
 
-        find_latest_item_of_file = False
-        while not find_latest_item_of_file:
-            urls = self.get_letter_urls_from_page_soup(current_page_soup)
-            for url in urls:
+        found_latest_saved_id = False
+        while not found_latest_saved_id:
+            letter_urls = self.get_letter_urls_from_page_soup(
+                current_page_soup)
+            for url in letter_urls:
                 letter_id = get_letter_id_from_url(url)
-                if letter_id == self.latest_id_from_file:
-                    find_latest_item_of_file = True
+                if letter_id == self.latest_saved_id:
+                    found_latest_saved_id = True
                     break
                 else:
                     new_letter_urls.append(url)
+                    miss_letters -= 1
             else:
                 next_page_href = self.current_page_soup.find(
                     'a', class_='Next').get('href')
@@ -96,7 +102,9 @@ class Scraper:
                                              + self.DEFAULT_QUERY + '?'
                                              + next_page_href)
 
-        return new_letter_urls
+        recreate = miss_letters > 0
+
+        return new_letter_urls, recreate
 
     def get_letter_urls_from_page_soup(self, page_soup):
         main_table = page_soup.find('table', class_='winstyle1333')
