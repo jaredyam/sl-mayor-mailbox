@@ -12,7 +12,7 @@
 👇 Mailbox
 ----------
 
-<pre><b>LAST UPDATE : 2021-05-08</b><br/><b>TOTAL MAILS :        871</b></pre>
+<pre><b>LAST UPDATE : 2021-05-09</b><br/><b>TOTAL MAILS :        871</b></pre>
 <pre>
 - <a href="category/letters/7197.md">为何全市接种疫苗变成单位政府人员先接种？</a><br/>  Query Date : <b>2021-04-27</b> - Reply Date : <b>2021-04-27</b> - Reply Agency : <a href="category/agencies/商洛市卫生健康委员会.md">商洛市卫生健康委员会</a>
 - <a href="category/letters/7194.md">啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊</a><br/>  Query Date : <b>2021-04-26</b> - Reply Date : <b>2021-04-27</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
