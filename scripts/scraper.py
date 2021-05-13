@@ -123,7 +123,17 @@ class Scraper:
         return self.get_letter_urls_from_page_soup(soup)
 
     async def get_letter_content(self, letter_url, session):
-        text = await self.get_html_text(letter_url, session)
+        while True:
+            try:
+                text = await self.get_html_text(letter_url, session)
+                break
+            except (aiohttp.ServerDisconnectedError,
+                    aiohttp.ClientResponseError,
+                    aiohttp.ClientConnectorError,
+                    aiohttp.ClientOSError):
+                print(f'retry: {letter_url}...')
+                await asyncio.sleep(1)
+
         soup = BeautifulSoup(text, 'html.parser')
         avaliable_headers = {s.text: s for s
                              in soup.find_all('td', class_='titlestyle1335')}
@@ -149,8 +159,8 @@ class Scraper:
                 'reply_agency'].strip().replace('、', ' ')
 
         print(f'saved letter - query date : {record["query_date"]} - '
-              f'reply date : {record["reply_date"]}'
-              f'\ntitle : {record["title"]}\n'
+              f'reply date : {record["reply_date"]}\n'
+              f'title : {record["title"]}\n'
               f'url - {record["url"]}')
 
         return record
