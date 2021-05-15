@@ -12,7 +12,7 @@
 👇 Mailbox
 ----------
 
-<pre><b>LAST UPDATE : 2021-05-14</b><br/><b>TOTAL MAILS :        883</b></pre>
+<pre><b>LAST UPDATE : 2021-05-15</b><br/><b>TOTAL MAILS :        883</b></pre>
 <pre>
 - <a href="category/letters/7232.md">门诊慢病报销怎么申请</a><br/>  Query Date : <b>2021-05-12</b> - Reply Date : <b>2021-05-13</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
 - <a href="category/letters/7230.md">洛南县不动产登记局电话查询</a><br/>  Query Date : <b>2021-05-12</b> - Reply Date : <b>2021-05-13</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
