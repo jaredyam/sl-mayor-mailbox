@@ -12,13 +12,16 @@
 👇 Mailbox
 ----------
 
-<pre><b>LAST UPDATE : 2021-05-17</b><br/><b>TOTAL MAILS :        883</b></pre>
+<pre><b>LAST UPDATE : 2021-05-18</b><br/><b>TOTAL MAILS :        888</b></pre>
 <pre>
+- <a href="category/letters/7254.md">公立医院</a><br/>  Query Date : <b>2021-05-17</b> - Reply Date : <b>2021-05-18</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
+- <a href="category/letters/7241.md">明珠花园</a><br/>  Query Date : <b>2021-05-14</b> - Reply Date : <b>2021-05-18</b> - Reply Agency : <a href="category/agencies/商洛市住房和城乡建设局.md">商洛市住房和城乡建设局</a>
 - <a href="category/letters/7232.md">门诊慢病报销怎么申请</a><br/>  Query Date : <b>2021-05-12</b> - Reply Date : <b>2021-05-13</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
 - <a href="category/letters/7230.md">洛南县不动产登记局电话查询</a><br/>  Query Date : <b>2021-05-12</b> - Reply Date : <b>2021-05-13</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
 - <a href="category/letters/7226.md">商洛市碧桂园翡翠湾，厨房天花板漏水，存在质量问题，多次催促，物业未进行修复，请问住房和城乡建设局是否有监管权，该向那个部门反映</a><br/>  Query Date : <b>2021-05-10</b> - Reply Date : <b>2021-05-12</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
 - <a href="category/letters/7224.md">查询下联系方式</a><br/>  Query Date : <b>2021-05-10</b> - Reply Date : <b>2021-05-10</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
 - <a href="category/letters/7222.md">禁渔期内是否可以钓鱼？</a><br/>  Query Date : <b>2021-05-10</b> - Reply Date : <b>2021-05-10</b> - Reply Agency : <a href="category/agencies/商洛市农业农村局.md">商洛市农业农村局</a>
+- <a href="category/letters/7219.md">明珠花园公租房交钥匙时间</a><br/>  Query Date : <b>2021-05-08</b> - Reply Date : <b>2021-05-10</b> - Reply Agency : <a href="category/agencies/商洛市住房和城乡建设局.md">商洛市住房和城乡建设局</a>
 - <a href="category/letters/7218.md">户口迁出</a><br/>  Query Date : <b>2021-05-08</b> - Reply Date : <b>2021-05-10</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
 - <a href="category/letters/7213.md">投诉商洛市儿童医院</a><br/>  Query Date : <b>2021-05-07</b> - Reply Date : <b>2021-05-08</b> - Reply Agency : <a href="category/agencies/商洛市卫生健康委员会.md">商洛市卫生健康委员会</a>
 - <a href="category/letters/7210.md">宅基地申请条件</a><br/>  Query Date : <b>2021-05-06</b> - Reply Date : <b>2021-05-06</b> - Reply Agency : <a href="category/agencies/商洛市农业农村局.md">商洛市农业农村局</a>
@@ -41,6 +44,7 @@
 - <a href="category/letters/7149.md">关于山阳县“学府铭城”高层住宅建设侵害围居民住户权益的诉求</a><br/>  Query Date : <b>2021-04-12</b> - Reply Date : <b>2021-04-13</b> - Reply Agency : <a href="category/agencies/山阳县人民政府办公室.md">山阳县人民政府办公室</a>
 - <a href="category/letters/7148.md">21年特岗教师公告及笔试时间</a><br/>  Query Date : <b>2021-04-12</b> - Reply Date : <b>2021-04-13</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
 - <a href="category/letters/7147.md">建议政府公务车辆租赁新能源电动汽车</a><br/>  Query Date : <b>2021-04-12</b> - Reply Date : <b>2021-04-13</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
+- <a href="category/letters/7141.md">商州区公安局不作为、假作为等问题</a><br/>  Query Date : <b>2021-04-11</b> - Reply Date : <b>2021-04-21</b> - Reply Agency : <a href="category/agencies/商州区人民政府办公室心.md">商州区人民政府办公室心</a>
 - <a href="category/letters/7140.md">五保户补助被抢</a><br/>  Query Date : <b>2021-04-10</b> - Reply Date : <b>2021-04-14</b> - Reply Agency : <a href="category/agencies/商南县人民政府.md">商南县人民政府</a>
 - <a href="category/letters/7139.md">集中供暖什么时候实行</a><br/>  Query Date : <b>2021-04-10</b> - Reply Date : <b>2021-04-13</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
 - <a href="category/letters/7137.md">洛南县石门镇2020年8.6水灾受灾群众搬迁安置问题</a><br/>  Query Date : <b>2021-04-09</b> - Reply Date : <b>2021-04-13</b> - Reply Agency : <a href="category/agencies/石门镇人民政府.md">石门镇人民政府</a>
@@ -56,6 +60,7 @@
 - <a href="category/letters/7119.md">公园天下房产证办理问题</a><br/>  Query Date : <b>2021-04-07</b> - Reply Date : <b>2021-04-08</b> - Reply Agency : <a href="category/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="category/letters/7118.md">解决特高压安全隐患和程序问题</a><br/>  Query Date : <b>2021-04-07</b> - Reply Date : <b>2021-04-09</b> - Reply Agency : <a href="category/agencies/商南县人民政府.md">商南县人民政府</a>
 - <a href="category/letters/7116.md">南大门第一村，污水管网堵塞严重，恶臭无比，无人过问</a><br/>  Query Date : <b>2021-04-07</b> - Reply Date : <b>2021-04-08</b> - Reply Agency : <a href="category/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
+- <a href="category/letters/7113.md">开发商超建和少建</a><br/>  Query Date : <b>2021-04-06</b> - Reply Date : <b>2021-04-22</b> - Reply Agency : <a href="category/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="category/letters/7108.md">关于商州区东环路单行道改双行道的建议</a><br/>  Query Date : <b>2021-04-04</b> - Reply Date : <b>2021-04-06</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
 - <a href="category/letters/7106.md">希望打通腰市镇双庙子村和洛南县洛源镇最后一公里</a><br/>  Query Date : <b>2021-04-03</b> - Reply Date : <b>2021-04-06</b> - Reply Agency : <a href="category/agencies/市信息中心.md">市信息中心</a>
 - <a href="category/letters/7105.md">关于朝阳家园物业管理不善，给广大业主生命财产安全，埋下巨大隐患的投诉。</a><br/>  Query Date : <b>2021-04-03</b> - Reply Date : <b>2021-04-06</b> - Reply Agency : <a href="category/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
