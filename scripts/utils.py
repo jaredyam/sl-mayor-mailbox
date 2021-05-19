@@ -10,8 +10,8 @@ SCRIPTS_PATH = Path(os.path.realpath(__file__)).parent
 PROJECT_PATH = SCRIPTS_PATH.parent
 
 LATEST_DATA = PROJECT_PATH / 'latest.csv'
-LETTER_PATH = PROJECT_PATH / 'category/letters'
-AGENCY_PATH = PROJECT_PATH / 'category/agencies'
+MAIL_PATH = PROJECT_PATH / 'categories/mails'
+AGENCY_PATH = PROJECT_PATH / 'categories/agencies'
 
 
 def get_soup(url):
@@ -21,7 +21,7 @@ def get_soup(url):
     return BeautifulSoup(response.text, 'html.parser')
 
 
-def get_letter_id_from_url(url):
+def get_mail_id_from_url(url):
     return re.findall(r'leadermailid=(\d+)', url)[0]
 
 

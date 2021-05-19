@@ -3,8 +3,8 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-from utils import (LATEST_DATA, AGENCY_PATH, LETTER_PATH, PROJECT_PATH,
-                   get_letter_id_from_url, markdown_link)
+from utils import (LATEST_DATA, AGENCY_PATH, MAIL_PATH, PROJECT_PATH,
+                   get_mail_id_from_url, markdown_link)
 
 
 def generate_reply_agency_mds():
@@ -20,15 +20,15 @@ def generate_reply_agency_mds():
         with open(AGENCY_PATH / f'{agency}.md', 'w') as md:
             md.write(f'# {agency}\n')
 
-            letters = []
+            mails = []
             for i, row in group_rows.iterrows():
                 filepath = Path('{path}/{file}'.format(
-                    path=f'../../{LETTER_PATH.relative_to(PROJECT_PATH)}',
-                    file=f'{get_letter_id_from_url(row["url"])}.md'))
-                letters.append(f'- {markdown_link(row["title"], filepath)}')
+                    path=f'../../{MAIL_PATH.relative_to(PROJECT_PATH)}',
+                    file=f'{get_mail_id_from_url(row["url"])}.md'))
+                mails.append(f'- {markdown_link(row["title"], filepath)}')
 
-            md.write(f'__TOTAL MAILS : {len(letters)}__\n')
-            md.write('\n'.join(letters))
+            md.write(f'__TOTAL MAILS : {len(mails)}__\n')
+            md.write('\n'.join(mails))
 
     with open(AGENCY_PATH / 'README.md', 'w') as md:
         md.write(f'# 👮‍♀️ Agencies\n')

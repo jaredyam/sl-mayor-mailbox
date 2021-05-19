@@ -2,7 +2,7 @@ VENV := .venv
 BIN := $(VENV)/bin
 SCRIPT_DIR := scripts
 
-all: update README.md category/letters category/agencies
+all: update README.md categories/mails categories/agencies
 
 .PHONY: update
 update:
@@ -11,10 +11,10 @@ update:
 README.md: CONTENT.md latest.csv
 	@cat CONTENT.md > README.md && $(BIN)/python $(SCRIPT_DIR)/append_readme_table.py && $(BIN)/python $(SCRIPT_DIR)/plots.py
 
-category/letters: latest.csv
+categories/mails: latest.csv
 	@$(BIN)/python $(SCRIPT_DIR)/generate_mailid_mds.py
 
-category/agencies: latest.csv
+categories/agencies: latest.csv
 	@$(BIN)/python $(SCRIPT_DIR)/generate_reply_agency_mds.py
 
 create_environment:

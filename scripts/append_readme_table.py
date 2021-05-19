@@ -1,16 +1,16 @@
 from datetime import datetime
 import pandas as pd
 
-from utils import (LATEST_DATA, LETTER_PATH, AGENCY_PATH, PROJECT_PATH,
-                   get_letter_id_from_url, html_link)
+from utils import (LATEST_DATA, MAIL_PATH, AGENCY_PATH, PROJECT_PATH,
+                   get_mail_id_from_url, html_link)
 
 
 def create_readme_table():
     df = pd.read_csv(LATEST_DATA)
     df = df.fillna('-')
 
-    df['title'] = '<a href=\"' + str(LETTER_PATH.relative_to(PROJECT_PATH)) + \
-        '/' + df['url'].apply(get_letter_id_from_url) + '.md' + \
+    df['title'] = '<a href=\"' + str(MAIL_PATH.relative_to(PROJECT_PATH)) + \
+        '/' + df['url'].apply(get_mail_id_from_url) + '.md' + \
         '\">' + df['title'] + '</a>'
     df['reply_agency'] = df['reply_agency'
                             ].apply(_convert_reply_agency_to_links)
