@@ -15,6 +15,7 @@ class Scraper:
 
     def __init__(self):
         self.first_page_soup = get_soup(self.get_page_url(1))
+
         self.total_pages = int(self.first_page_soup.find(
             'a', class_='Next').parent.find_all('a')[-2].text)
         self.mails_per_page = len(self.get_mail_urls_from_page_soup(
@@ -22,13 +23,17 @@ class Scraper:
 
     def run(self):
         if not Path(LATEST_DATA).exists():
-            print('first run...')
+            print('first time to run...')
             self.create()
-        elif self.need_update():
-            print('start to update...')
-            self.update()
         else:
-            print('it\'s the latest version')
+            new_mail_urls, need_recreate = self.get_new_mail_urls()
+            if need_recreate:
+                self.create()
+            elif new_mail_urls is not None:
+                print('start to update...')
+                self.update(new_mail_urls)
+            else:
+                print('latest version')
 
     def create(self):
         mail_urls = asyncio.run(self.collect_mail_urls())
@@ -37,8 +42,8 @@ class Scraper:
         self.to_csv(records)
 
     def update(self):
-        mail_urls, recreate = self.get_new_mail_urls()
-        if recreate:
+        mail_urls, need_recreate = self.get_new_mail_urls()
+        if need_recreate:
             self.create()
         else:
             records = asyncio.run(self.collect_mails_content(mail_urls))
@@ -47,21 +52,6 @@ class Scraper:
             history_records = [r for r in csv.DictReader(csvfile)]
 
             self.to_csv(records + history_records)
-
-    def need_update(self):
-        with open(LATEST_DATA, newline='') as csvfile:
-            reader = csv.DictReader(csvfile)
-            self.saved_mails = 0
-            for row in reader:
-                self.saved_mails += 1
-                if self.saved_mails == 1:
-                    self.latest_saved_id = get_mail_id_from_url(row['url'])
-
-        self.total_mails = self.mails_per_page * (self.total_pages - 1) + len(
-            self.get_mail_urls_from_page_soup(
-                get_soup(self.get_page_url(self.total_pages))))
-
-        return not self.saved_mails == self.total_mails
 
     def to_csv(self, records):
         with open(LATEST_DATA, 'w', newline='') as csvfile:
@@ -79,17 +69,31 @@ class Scraper:
         return [self.get_page_url(i + 1) for i in range(self.total_pages)]
 
     def get_new_mail_urls(self):
+        with open(LATEST_DATA, newline='') as csvfile:
+            reader = csv.DictReader(csvfile)
+            latest_saved_id = get_mail_id_from_url(next(reader)['url'])
+
+            saved_mails = 1
+            for row in reader:
+                saved_mails += 1
+
+        total_mails = self.mails_per_page * (self.total_pages - 1) \
+            + len(self.get_mail_urls_from_page_soup(
+                get_soup(self.get_page_url(self.total_pages))))
+
+        miss_mails = total_mails - saved_mails
+        if not miss_mails:
+            return None, False
+
         new_mail_urls = []
         current_page_soup = self.first_page_soup
-        miss_mails = self.total_mails - self.saved_mails
 
         found_latest_saved_id = False
         while not found_latest_saved_id:
-            mail_urls = self.get_mail_urls_from_page_soup(
-                current_page_soup)
+            mail_urls = self.get_mail_urls_from_page_soup(current_page_soup)
             for url in mail_urls:
                 mail_id = get_mail_id_from_url(url)
-                if mail_id == self.latest_saved_id:
+                if mail_id == latest_saved_id:
                     found_latest_saved_id = True
                     break
                 else:
@@ -102,30 +106,30 @@ class Scraper:
                                              + self.DEFAULT_QUERY + '?'
                                              + next_page_href)
 
-        recreate = miss_mails > 0
+        # new updates before the latest saved mail
+        need_recreate = miss_mails > 0
 
-        return new_mail_urls, recreate
+        return new_mail_urls, need_recreate
 
     def get_mail_urls_from_page_soup(self, page_soup):
         main_table = page_soup.find('table', class_='winstyle1333')
         return [self.BASE_URL + item.a.get('href')
                 for item in main_table.find_all('tr')[1:]]
 
-    async def get_html_text(self, url, session):
+    async def get_soup_under_session(self, url, session):
         async with session.get(url) as response:
-            return await response.text()
+            text = await response.text()
+            return BeautifulSoup(text, 'html.parser')
 
     async def get_mail_urls(self, page_url, session):
-        text = await self.get_html_text(page_url, session)
-        soup = BeautifulSoup(text, 'html.parser')
-
+        soup = await self.get_soup_under_session(page_url, session)
         print(f'collecting mail urls from web page: {page_url}...')
         return self.get_mail_urls_from_page_soup(soup)
 
     async def get_mail_content(self, mail_url, session):
         while True:
             try:
-                text = await self.get_html_text(mail_url, session)
+                soup = await self.get_soup_under_session(mail_url, session)
                 break
             except (aiohttp.ServerDisconnectedError,
                     aiohttp.ClientResponseError,
@@ -134,8 +138,7 @@ class Scraper:
                 print(f'retry: {mail_url}...')
                 await asyncio.sleep(1)
 
-        soup = BeautifulSoup(text, 'html.parser')
-        avaliable_headers = {s.text: s for s
+        avaliable_headers = {h.text: h for h
                              in soup.find_all('td', class_='titlestyle1335')}
         target_headers = ['信件编号', '来信主题', '信件内容', '来信时间',
                           '回复内容', '回复时间', '回复人']
