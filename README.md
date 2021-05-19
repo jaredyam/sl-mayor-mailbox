@@ -12,8 +12,9 @@
 👇 Mailbox
 ----------
 
-<pre><b>LAST UPDATE : 2021-05-18</b><br/><b>TOTAL MAILS :        888</b></pre>
+<pre><b>LAST UPDATE : 2021-05-19</b><br/><b>TOTAL MAILS :        891</b></pre>
 <pre>
+- <a href="categories/mails/7267.md">事业单位单职工购房公积金贷款无法办理</a><br/>  Query Date : <b>2021-05-18</b> - Reply Date : <b>2021-05-19</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7254.md">公立医院</a><br/>  Query Date : <b>2021-05-17</b> - Reply Date : <b>2021-05-18</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7241.md">明珠花园</a><br/>  Query Date : <b>2021-05-14</b> - Reply Date : <b>2021-05-18</b> - Reply Agency : <a href="categories/agencies/商洛市住房和城乡建设局.md">商洛市住房和城乡建设局</a>
 - <a href="categories/mails/7232.md">门诊慢病报销怎么申请</a><br/>  Query Date : <b>2021-05-12</b> - Reply Date : <b>2021-05-13</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
@@ -23,7 +24,9 @@
 - <a href="categories/mails/7222.md">禁渔期内是否可以钓鱼？</a><br/>  Query Date : <b>2021-05-10</b> - Reply Date : <b>2021-05-10</b> - Reply Agency : <a href="categories/agencies/商洛市农业农村局.md">商洛市农业农村局</a>
 - <a href="categories/mails/7219.md">明珠花园公租房交钥匙时间</a><br/>  Query Date : <b>2021-05-08</b> - Reply Date : <b>2021-05-10</b> - Reply Agency : <a href="categories/agencies/商洛市住房和城乡建设局.md">商洛市住房和城乡建设局</a>
 - <a href="categories/mails/7218.md">户口迁出</a><br/>  Query Date : <b>2021-05-08</b> - Reply Date : <b>2021-05-10</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7215.md">咨询商州区妇幼保健院给职工（合同制）缴纳五险事宜。</a><br/>  Query Date : <b>2021-05-07</b> - Reply Date : <b>2021-05-08</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/7213.md">投诉商洛市儿童医院</a><br/>  Query Date : <b>2021-05-07</b> - Reply Date : <b>2021-05-08</b> - Reply Agency : <a href="categories/agencies/商洛市卫生健康委员会.md">商洛市卫生健康委员会</a>
+- <a href="categories/mails/7212.md">井字路口需设置红绿灯及照明设施</a><br/>  Query Date : <b>2021-05-07</b> - Reply Date : <b>2021-05-08</b> - Reply Agency : <a href="categories/agencies/商洛市城市管理局.md">商洛市城市管理局</a>
 - <a href="categories/mails/7210.md">宅基地申请条件</a><br/>  Query Date : <b>2021-05-06</b> - Reply Date : <b>2021-05-06</b> - Reply Agency : <a href="categories/agencies/商洛市农业农村局.md">商洛市农业农村局</a>
 - <a href="categories/mails/7208.md">307省道杨斜镇至垭口段半挂车超速</a><br/>  Query Date : <b>2021-05-04</b> - Reply Date : <b>2021-05-06</b> - Reply Agency : <a href="categories/agencies/商洛市公安局交通警察支队.md">商洛市公安局交通警察支队</a>
 - <a href="categories/mails/7197.md">为何全市接种疫苗变成单位政府人员先接种？</a><br/>  Query Date : <b>2021-04-27</b> - Reply Date : <b>2021-04-27</b> - Reply Agency : <a href="categories/agencies/商洛市卫生健康委员会.md">商洛市卫生健康委员会</a>
