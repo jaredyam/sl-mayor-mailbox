@@ -41,17 +41,13 @@ class Scraper:
 
         self.to_csv(records)
 
-    def update(self):
-        mail_urls, need_recreate = self.get_new_mail_urls()
-        if need_recreate:
-            self.create()
-        else:
-            records = asyncio.run(self.collect_mails_content(mail_urls))
+    def update(self, new_mail_urls):
+        records = asyncio.run(self.collect_mails_content(new_mail_urls))
 
-            csvfile = open(LATEST_DATA, newline='')
-            history_records = [r for r in csv.DictReader(csvfile)]
+        csvfile = open(LATEST_DATA, newline='')
+        history_records = [r for r in csv.DictReader(csvfile)]
 
-            self.to_csv(records + history_records)
+        self.to_csv(records + history_records)
 
     def to_csv(self, records):
         with open(LATEST_DATA, 'w', newline='') as csvfile:
