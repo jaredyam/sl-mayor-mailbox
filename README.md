@@ -12,8 +12,9 @@
 👇 Mailbox
 ----------
 
-<pre><b>LAST UPDATE : 2021-05-19</b><br/><b>TOTAL MAILS :        891</b></pre>
+<pre><b>LAST UPDATE : 2021-05-21</b><br/><b>TOTAL MAILS :        892</b></pre>
 <pre>
+- <a href="categories/mails/7269.md">建议班车将商州改为商洛</a><br/>  Query Date : <b>2021-05-19</b> - Reply Date : <b>2021-05-20</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7267.md">事业单位单职工购房公积金贷款无法办理</a><br/>  Query Date : <b>2021-05-18</b> - Reply Date : <b>2021-05-19</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7254.md">公立医院</a><br/>  Query Date : <b>2021-05-17</b> - Reply Date : <b>2021-05-18</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7241.md">明珠花园</a><br/>  Query Date : <b>2021-05-14</b> - Reply Date : <b>2021-05-18</b> - Reply Agency : <a href="categories/agencies/商洛市住房和城乡建设局.md">商洛市住房和城乡建设局</a>
