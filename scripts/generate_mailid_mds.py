@@ -27,8 +27,10 @@ def generate_mailid_mds():
                           'reply': '回复内容',
                           'reply_agency': '回复机构'})
 
-        csvfile = row.to_csv(header=['Content'], index_label='Title')
-        table = csv_converter.csv2markdown(csvfile, raw_string=True)
+        csv_string = row.to_csv(header=['Content'], index_label='Title')
+        table = csv_converter.csv2markdown(csv_string,
+                                           raw_string=True,
+                                           pretty=False)
 
         with open(MAIL_PATH / f'{mail_id}.md', 'w') as md:
             md.write(f'# {html_link(title, url)}\n')
