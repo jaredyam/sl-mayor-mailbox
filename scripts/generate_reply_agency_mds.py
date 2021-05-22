@@ -1,3 +1,4 @@
+import importlib
 from pathlib import Path
 
 import numpy as np
@@ -5,6 +6,7 @@ import pandas as pd
 
 from utils import (LATEST_DATA, AGENCY_PATH, MAIL_PATH, PROJECT_PATH,
                    get_mail_id_from_url, markdown_link)
+csv_converter = importlib.import_module('csv-converter.csv_converter')
 
 
 def generate_reply_agency_mds():
@@ -34,10 +36,21 @@ def generate_reply_agency_mds():
     with open(AGENCY_PATH / 'README.md', 'w') as md:
         md.write(f'# 👮‍♀️ Agencies\n')
         md.write(f'__TOTAL AGENCIES : {len(count_agency_mails.keys())}__\n')
-        for agency in sorted(count_agency_mails.keys(),
-                             key=lambda x: count_agency_mails[x],
-                             reverse=True):
-            md.write(f'- {markdown_link(agency, f"{agency}.md")}\n')
+        count_agency_mails = {markdown_link(k, f'{k}.md'): v
+                              for k, v in count_agency_mails.items()}
+        agencies_df = pd.DataFrame.from_dict(
+            count_agency_mails,
+            orient='index',
+            columns=['Number of Replied Mails']).sort_values(
+            by='Number of Replied Mails',
+            ascending=False)
+        csv_string = agencies_df.to_csv(header=['Number of Replied Mails'],
+                                        index_label='Agency')
+        table = csv_converter.csv2markdown(csv_string,
+                                           raw_string=True,
+                                           pretty=False,
+                                           alignment='cr')
+        md.write(table)
 
 
 def df_expand_list_to_rows(df, column):
