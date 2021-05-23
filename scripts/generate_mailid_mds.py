@@ -41,7 +41,7 @@ def generate_mailid_mds():
 
         with open(MAIL_PATH / f"{mail_id}.md", "w") as md:
             md.write(f"# {html_link(title, url)}\n")
-            md.write(table)
+            md.write(table + "\n")
 
 
 def _convert_reply_agency_to_links(agencies):

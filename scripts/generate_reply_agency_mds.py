@@ -42,13 +42,13 @@ def generate_reply_agency_mds():
                 mails.append(
                     f'- {html_link(row["title"], filepath)}<br/>'
                     f'  Query Date : {"<b>"+str(row["query_date"])+"</b>":<17} - '
-                    f'Reply Date : {"<b>"+str(row["reply_date"])+"</b>":<17}'
+                    f'Reply Date : {"<b>"+str(row["reply_date"])+"</b>"}'
                 )
 
             count_agency_mails[agency] = len(mails)
             md.write(f"<pre><b>TOTAL MAILS : {len(mails)}</b></pre>\n<pre>\n")
             md.write("\n".join(mails))
-            md.write("\n</pre>")
+            md.write("\n</pre>\n")
 
     with open(AGENCY_PATH / "README.md", "w") as md:
         md.write("# 👮‍♀️ Agencies\n")
@@ -65,7 +65,7 @@ def generate_reply_agency_mds():
         table = csv_converter.csv2markdown(
             csv_string, raw_string=True, pretty=False, alignment="cr"
         )
-        md.write(table)
+        md.write(table + "\n")
 
 
 def df_expand_list_to_rows(df, column):

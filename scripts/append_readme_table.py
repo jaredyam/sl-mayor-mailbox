@@ -42,7 +42,7 @@ def create_readme_table():
                 f'Reply Agency : {row["reply_agency"]}\n'
             )
 
-        md.write("</pre>")
+        md.write("</pre>\n")
 
 
 def _convert_reply_agency_to_links(agencies):
