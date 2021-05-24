@@ -29,20 +29,19 @@ def create_readme_table():
 
     df = df[["query_date", "reply_date", "title", "reply_agency"]]
 
-    with open("README.md", "a") as md:
-        md.write(
-            f"<pre><b>LAST UPDATE : {datetime.today():%Y-%m-%d}</b><br/>"
-            f"<b>TOTAL MAILS : {len(df):>10}</b></pre>\n<pre>\n"
+    print(
+        f"<pre><b>LAST UPDATE : {datetime.today():%Y-%m-%d}</b><br/>"
+        f"<b>TOTAL MAILS : {len(df):>10}</b></pre>\n<pre>"
+    )
+    for i, row in df.iterrows():
+        print(
+            f'- {row["title"]}<br/>'
+            f'  Query Date : {"<b>"+str(row["query_date"])+"</b>":<17} - '
+            f'Reply Date : {"<b>"+str(row["reply_date"])+"</b>":<17} - '
+            f'Reply Agency : {row["reply_agency"]}'
         )
-        for i, row in df.iterrows():
-            md.write(f'- {row["title"]}<br/>')
-            md.write(
-                f'  Query Date : {"<b>"+str(row["query_date"])+"</b>":<17} - '
-                f'Reply Date : {"<b>"+str(row["reply_date"])+"</b>":<17} - '
-                f'Reply Agency : {row["reply_agency"]}\n'
-            )
 
-        md.write("</pre>\n")
+    print("</pre>")
 
 
 def _convert_reply_agency_to_links(agencies):

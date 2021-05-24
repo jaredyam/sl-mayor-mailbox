@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 
-from utils import LATEST_DATA
+from utils import LATEST_DATA, PROJECT_PATH
 
 
 mpl.rcParams["svg.hashsalt"] = "trending-header"
@@ -36,7 +36,11 @@ def plot_header_img():
 
     ax.set_xticks(df.index)
     ax.tick_params(colors="#777")
-    plt.savefig("imgs/year_mails_count.svg", transparent=True, metadata={"Date": None})
+    plt.savefig(
+        PROJECT_PATH / "imgs/year_mails_count.svg",
+        transparent=True,
+        metadata={"Date": None},
+    )
 
 
 if __name__ == "__main__":
