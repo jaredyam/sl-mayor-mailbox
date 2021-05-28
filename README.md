@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-05-27</b><br/><b>TOTAL MAILS :        897</b></pre>
+<pre><b>LAST UPDATE : 2021-05-28</b><br/><b>TOTAL MAILS :        897</b></pre>
 <pre>
 - <a href="categories/mails/7269.md">建议班车将商州改为商洛</a><br/>  Query Date : <b>2021-05-19</b> - Reply Date : <b>2021-05-20</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7267.md">事业单位单职工购房公积金贷款无法办理</a><br/>  Query Date : <b>2021-05-18</b> - Reply Date : <b>2021-05-19</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
