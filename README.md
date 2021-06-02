@@ -11,9 +11,12 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-06-01</b><br/><b>TOTAL MAILS :        897</b></pre>
+<pre><b>LAST UPDATE : 2021-06-02</b><br/><b>TOTAL MAILS :        900</b></pre>
 <pre>
+- <a href="categories/mails/7314.md">关于献血证电子档案需要的手续</a><br/>  Query Date : <b>2021-05-26</b> - Reply Date : <b>2021-05-27</b> - Reply Agency : <a href="categories/agencies/商洛市卫生健康委员会.md">商洛市卫生健康委员会</a>
+- <a href="categories/mails/7298.md">通组水泥路水毁，村民出行受阻。</a><br/>  Query Date : <b>2021-05-24</b> - Reply Date : <b>2021-05-31</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7269.md">建议班车将商州改为商洛</a><br/>  Query Date : <b>2021-05-19</b> - Reply Date : <b>2021-05-20</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7268.md">生活饮用水令人忧</a><br/>  Query Date : <b>2021-05-19</b> - Reply Date : <b>2021-05-25</b> - Reply Agency : <a href="categories/agencies/中共商州区委.md">中共商州区委</a> <a href="categories/agencies/商州区人民政府.md">商州区人民政府</a>
 - <a href="categories/mails/7267.md">事业单位单职工购房公积金贷款无法办理</a><br/>  Query Date : <b>2021-05-18</b> - Reply Date : <b>2021-05-19</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7255.md">公立医院有哪些</a><br/>  Query Date : <b>2021-05-17</b> - Reply Date : <b>2021-05-18</b> - Reply Agency : <a href="categories/agencies/商洛市卫生健康委员会.md">商洛市卫生健康委员会</a>
 - <a href="categories/mails/7254.md">公立医院</a><br/>  Query Date : <b>2021-05-17</b> - Reply Date : <b>2021-05-18</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
