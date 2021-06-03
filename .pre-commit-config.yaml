@@ -5,7 +5,7 @@ repos:
     -   id: check-yaml
     -   id: end-of-file-fixer
     -   id: trailing-whitespace
-        exclude_types: [svg]
+        exclude_types: [svg, markdown]
     -   id: check-docstring-first
     -   id: check-merge-conflict
     -   id: check-ast
