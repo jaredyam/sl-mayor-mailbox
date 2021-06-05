@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-06-04</b><br/><b>TOTAL MAILS :        916</b></pre>
+<pre><b>LAST UPDATE : 2021-06-05</b><br/><b>TOTAL MAILS :        916</b></pre>
 <pre>
 - <a href="categories/mails/7331.md">创设舒适、人性化高考考场的建议</a><br/>  Query Date : <b>2021-06-02</b> - Reply Date : <b>2021-06-04</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7315.md">对商州区残联办证处服务态度和办证流程的意见和建议</a><br/>  Query Date : <b>2021-05-26</b> - Reply Date : <b>2020-05-27</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
