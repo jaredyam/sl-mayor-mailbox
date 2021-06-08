@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-06-07</b><br/><b>TOTAL MAILS :        919</b></pre>
+<pre><b>LAST UPDATE : 2021-06-08</b><br/><b>TOTAL MAILS :        919</b></pre>
 <pre>
 - <a href="categories/mails/7337.md">关于洛南县交警执法不公，不调查，只贴条子的问题</a><br/>  Query Date : <b>2021-06-03</b> - Reply Date : <b>2021-06-07</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7331.md">创设舒适、人性化高考考场的建议</a><br/>  Query Date : <b>2021-06-02</b> - Reply Date : <b>2021-06-04</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
