@@ -11,16 +11,18 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-06-10</b><br/><b>TOTAL MAILS :        919</b></pre>
+<pre><b>LAST UPDATE : 2021-06-11</b><br/><b>TOTAL MAILS :        922</b></pre>
 <pre>
+- <a href="categories/mails/7361.md">助学贷款怎么办，那里给办</a><br/>  Query Date : <b>2021-06-10</b> - Reply Date : <b>2021-06-10</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7341.md">发现几年前的献血证上，工作人员写错了我的个人信息。</a><br/>  Query Date : <b>2021-06-05</b> - Reply Date : <b>2021-06-08</b> - Reply Agency : <a href="categories/agencies/商路市卫生健康委员会.md">商路市卫生健康委员会</a>
 - <a href="categories/mails/7337.md">关于洛南县交警执法不公，不调查，只贴条子的问题</a><br/>  Query Date : <b>2021-06-03</b> - Reply Date : <b>2021-06-07</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7331.md">创设舒适、人性化高考考场的建议</a><br/>  Query Date : <b>2021-06-02</b> - Reply Date : <b>2021-06-04</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7324.md">关于组织退役军人免费学习技能</a><br/>  Query Date : <b>2021-05-31</b> - Reply Date : <b>2021-06-02</b> - Reply Agency : <a href="categories/agencies/商洛市退役军人事务局.md">商洛市退役军人事务局</a>
 - <a href="categories/mails/7320.md">建议第五幼儿园早上入园时间能否和市幼儿园7:40一样</a><br/>  Query Date : <b>2021-05-29</b> - Reply Date : <b>2021-06-03</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/7315.md">对商州区残联办证处服务态度和办证流程的意见和建议</a><br/>  Query Date : <b>2021-05-26</b> - Reply Date : <b>2020-05-27</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/7314.md">关于献血证电子档案需要的手续</a><br/>  Query Date : <b>2021-05-26</b> - Reply Date : <b>2021-05-27</b> - Reply Agency : <a href="categories/agencies/商洛市卫生健康委员会.md">商洛市卫生健康委员会</a>
+- <a href="categories/mails/7313.md">投诉宠物店</a><br/>  Query Date : <b>2021-05-26</b> - Reply Date : <b>2021-05-31</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/7311.md">特岗、幼教</a><br/>  Query Date : <b>2021-05-26</b> - Reply Date : <b>2021-06-04</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
-- <a href="categories/mails/7301.md">牛家坪小区饮水问题</a><br/>  Query Date : <b>2021-05-24</b> - Reply Date : <b>2021-06-02</b> - Reply Agency : <a href="categories/agencies/山阳县人民政府办公室.md">山阳县人民政府办公室</a>
 - <a href="categories/mails/7298.md">通组水泥路水毁，村民出行受阻。</a><br/>  Query Date : <b>2021-05-24</b> - Reply Date : <b>2021-05-31</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7287.md">商洛市事业单位招人岗位表格式问题</a><br/>  Query Date : <b>2021-05-22</b> - Reply Date : <b>2021-05-24</b> - Reply Agency : <a href="categories/agencies/商洛市人力资源和社会保障局.md">商洛市人力资源和社会保障局</a>
 - <a href="categories/mails/7281.md">塑料袋滥用</a><br/>  Query Date : <b>2021-05-21</b> - Reply Date : <b>2021-05-24</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
@@ -69,6 +71,7 @@
 - <a href="categories/mails/7170.md">老邮局悬挂破旧国旗</a><br/>  Query Date : <b>2021-04-19</b> - Reply Date : <b>2021-04-20</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/7168.md">投诉商州区大赵峪办事处（原供销合作社）违法建筑</a><br/>  Query Date : <b>2021-04-17</b> - Reply Date : <b>2021-04-23</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7161.md">同一小区不同类型业主物业费怎么收取</a><br/>  Query Date : <b>2021-04-15</b> - Reply Date : <b>2021-04-22</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7159.md">御龙新城天然气问题咨询</a><br/>  Query Date : <b>2021-04-15</b> - Reply Date : <b>2021-04-16</b> - Reply Agency : <a href="categories/agencies/洛南县城市管理局.md">洛南县城市管理局</a>
 - <a href="categories/mails/7153.md">城市森林花园建筑对生态文明建设的有效推进</a><br/>  Query Date : <b>2021-04-13</b> - Reply Date : <b>2021-04-15</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7151.md">劳动合同能否以电子合同的形式签署</a><br/>  Query Date : <b>2021-04-13</b> - Reply Date : <b>2021-04-13</b> - Reply Agency : <a href="categories/agencies/商洛市人力资源和社会保障局.md">商洛市人力资源和社会保障局</a>
 - <a href="categories/mails/7149.md">关于山阳县“学府铭城”高层住宅建设侵害围居民住户权益的诉求</a><br/>  Query Date : <b>2021-04-12</b> - Reply Date : <b>2021-04-13</b> - Reply Agency : <a href="categories/agencies/山阳县人民政府办公室.md">山阳县人民政府办公室</a>
