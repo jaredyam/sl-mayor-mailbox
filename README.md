@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-06-11</b><br/><b>TOTAL MAILS :        922</b></pre>
+<pre><b>LAST UPDATE : 2021-06-12</b><br/><b>TOTAL MAILS :        922</b></pre>
 <pre>
 - <a href="categories/mails/7361.md">助学贷款怎么办，那里给办</a><br/>  Query Date : <b>2021-06-10</b> - Reply Date : <b>2021-06-10</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7341.md">发现几年前的献血证上，工作人员写错了我的个人信息。</a><br/>  Query Date : <b>2021-06-05</b> - Reply Date : <b>2021-06-08</b> - Reply Agency : <a href="categories/agencies/商路市卫生健康委员会.md">商路市卫生健康委员会</a>
