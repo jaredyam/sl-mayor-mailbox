@@ -11,8 +11,9 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-06-15</b><br/><b>TOTAL MAILS :        923</b></pre>
+<pre><b>LAST UPDATE : 2021-06-16</b><br/><b>TOTAL MAILS :        926</b></pre>
 <pre>
+- <a href="categories/mails/7373.md">请问西安到商洛的绿巨人动车组什么时候开通？</a><br/>  Query Date : <b>2021-06-15</b> - Reply Date : <b>2021-06-16</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7371.md">商洛学院更名</a><br/>  Query Date : <b>2021-06-14</b> - Reply Date : <b>2021-06-15</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7361.md">助学贷款怎么办，那里给办</a><br/>  Query Date : <b>2021-06-10</b> - Reply Date : <b>2021-06-10</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7341.md">发现几年前的献血证上，工作人员写错了我的个人信息。</a><br/>  Query Date : <b>2021-06-05</b> - Reply Date : <b>2021-06-08</b> - Reply Agency : <a href="categories/agencies/商路市卫生健康委员会.md">商路市卫生健康委员会</a>
@@ -32,6 +33,7 @@
 - <a href="categories/mails/7269.md">建议班车将商州改为商洛</a><br/>  Query Date : <b>2021-05-19</b> - Reply Date : <b>2021-05-20</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7268.md">生活饮用水令人忧</a><br/>  Query Date : <b>2021-05-19</b> - Reply Date : <b>2021-05-25</b> - Reply Agency : <a href="categories/agencies/中共商州区委.md">中共商州区委</a> <a href="categories/agencies/商州区人民政府.md">商州区人民政府</a>
 - <a href="categories/mails/7267.md">事业单位单职工购房公积金贷款无法办理</a><br/>  Query Date : <b>2021-05-18</b> - Reply Date : <b>2021-05-19</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7263.md">方天财富小区开发商偷税漏税不开发票、不办房产证</a><br/>  Query Date : <b>2021-05-18</b> - Reply Date : <b>2021-05-19</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/7255.md">公立医院有哪些</a><br/>  Query Date : <b>2021-05-17</b> - Reply Date : <b>2021-05-18</b> - Reply Agency : <a href="categories/agencies/商洛市卫生健康委员会.md">商洛市卫生健康委员会</a>
 - <a href="categories/mails/7254.md">公立医院</a><br/>  Query Date : <b>2021-05-17</b> - Reply Date : <b>2021-05-18</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7250.md">关于竹林关镇闫荫组刘功成夫妇至今仍未脱贫</a><br/>  Query Date : <b>2021-05-15</b> - Reply Date : <b>2021-05-18</b> - Reply Agency : <a href="categories/agencies/丹凤县人民政府办公室.md">丹凤县人民政府办公室</a>
@@ -41,6 +43,7 @@
 - <a href="categories/mails/7234.md">老两口八十多岁住危房寻求帮助</a><br/>  Query Date : <b>2021-05-12</b> - Reply Date : <b>2021-05-13</b> - Reply Agency : <a href="categories/agencies/洛南县永丰镇人民政府.md">洛南县永丰镇人民政府</a>
 - <a href="categories/mails/7232.md">门诊慢病报销怎么申请</a><br/>  Query Date : <b>2021-05-12</b> - Reply Date : <b>2021-05-13</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7230.md">洛南县不动产登记局电话查询</a><br/>  Query Date : <b>2021-05-12</b> - Reply Date : <b>2021-05-13</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7229.md">方天财富开发商未办理房产证</a><br/>  Query Date : <b>2021-05-12</b> - Reply Date : <b>2021-05-13</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/7226.md">商洛市碧桂园翡翠湾，厨房天花板漏水，存在质量问题，多次催促，物业未进行修复，请问住房和城乡建设局是否有监管权，该向那个部门反映</a><br/>  Query Date : <b>2021-05-10</b> - Reply Date : <b>2021-05-12</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7224.md">查询下联系方式</a><br/>  Query Date : <b>2021-05-10</b> - Reply Date : <b>2021-05-10</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7222.md">禁渔期内是否可以钓鱼？</a><br/>  Query Date : <b>2021-05-10</b> - Reply Date : <b>2021-05-10</b> - Reply Agency : <a href="categories/agencies/商洛市农业农村局.md">商洛市农业农村局</a>
