@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-06-16</b><br/><b>TOTAL MAILS :        926</b></pre>
+<pre><b>LAST UPDATE : 2021-06-17</b><br/><b>TOTAL MAILS :        927</b></pre>
 <pre>
 - <a href="categories/mails/7373.md">请问西安到商洛的绿巨人动车组什么时候开通？</a><br/>  Query Date : <b>2021-06-15</b> - Reply Date : <b>2021-06-16</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7371.md">商洛学院更名</a><br/>  Query Date : <b>2021-06-14</b> - Reply Date : <b>2021-06-15</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
@@ -38,6 +38,7 @@
 - <a href="categories/mails/7254.md">公立医院</a><br/>  Query Date : <b>2021-05-17</b> - Reply Date : <b>2021-05-18</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7250.md">关于竹林关镇闫荫组刘功成夫妇至今仍未脱贫</a><br/>  Query Date : <b>2021-05-15</b> - Reply Date : <b>2021-05-18</b> - Reply Agency : <a href="categories/agencies/丹凤县人民政府办公室.md">丹凤县人民政府办公室</a>
 - <a href="categories/mails/7244.md">“公益惠民”补贴安装太阳能路灯</a><br/>  Query Date : <b>2021-05-14</b> - Reply Date : <b>2021-05-18</b> - Reply Agency : <a href="categories/agencies/商南县人民政府.md">商南县人民政府</a>
+- <a href="categories/mails/7242.md">所交合疗费被贪污，住院费用无法报销，我改怎么办</a><br/>  Query Date : <b>2021-05-14</b> - Reply Date : <b>2021-05-18</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
 - <a href="categories/mails/7241.md">明珠花园</a><br/>  Query Date : <b>2021-05-14</b> - Reply Date : <b>2021-05-18</b> - Reply Agency : <a href="categories/agencies/商洛市住房和城乡建设局.md">商洛市住房和城乡建设局</a>
 - <a href="categories/mails/7238.md">商州区教师2020年年终绩效未发</a><br/>  Query Date : <b>2021-05-13</b> - Reply Date : <b>2021-05-18</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/7234.md">老两口八十多岁住危房寻求帮助</a><br/>  Query Date : <b>2021-05-12</b> - Reply Date : <b>2021-05-13</b> - Reply Agency : <a href="categories/agencies/洛南县永丰镇人民政府.md">洛南县永丰镇人民政府</a>
