@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-06-17</b><br/><b>TOTAL MAILS :        927</b></pre>
+<pre><b>LAST UPDATE : 2021-06-18</b><br/><b>TOTAL MAILS :        927</b></pre>
 <pre>
 - <a href="categories/mails/7373.md">请问西安到商洛的绿巨人动车组什么时候开通？</a><br/>  Query Date : <b>2021-06-15</b> - Reply Date : <b>2021-06-16</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7371.md">商洛学院更名</a><br/>  Query Date : <b>2021-06-14</b> - Reply Date : <b>2021-06-15</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
