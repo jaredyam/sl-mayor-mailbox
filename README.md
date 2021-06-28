@@ -11,8 +11,10 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-06-27</b><br/><b>TOTAL MAILS :        929</b></pre>
+<pre><b>LAST UPDATE : 2021-06-28</b><br/><b>TOTAL MAILS :        931</b></pre>
 <pre>
+- <a href="categories/mails/7422.md">尘肺救助政策咨询</a><br/>  Query Date : <b>2021-06-27</b> - Reply Date : <b>2021-06-28</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7408.md">尘肺病相关政策</a><br/>  Query Date : <b>2021-06-24</b> - Reply Date : <b>2021-06-25</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7407.md">建议在商州城区交通拥堵路段的公交站台加装电子抓怕设备</a><br/>  Query Date : <b>2021-06-24</b> - Reply Date : <b>2021-06-25</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7373.md">请问西安到商洛的绿巨人动车组什么时候开通？</a><br/>  Query Date : <b>2021-06-15</b> - Reply Date : <b>2021-06-16</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7371.md">商洛学院更名</a><br/>  Query Date : <b>2021-06-14</b> - Reply Date : <b>2021-06-15</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
