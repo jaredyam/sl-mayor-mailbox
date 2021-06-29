@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-06-28</b><br/><b>TOTAL MAILS :        931</b></pre>
+<pre><b>LAST UPDATE : 2021-06-29</b><br/><b>TOTAL MAILS :        931</b></pre>
 <pre>
 - <a href="categories/mails/7422.md">尘肺救助政策咨询</a><br/>  Query Date : <b>2021-06-27</b> - Reply Date : <b>2021-06-28</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7408.md">尘肺病相关政策</a><br/>  Query Date : <b>2021-06-24</b> - Reply Date : <b>2021-06-25</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
