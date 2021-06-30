@@ -11,8 +11,11 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-06-29</b><br/><b>TOTAL MAILS :        931</b></pre>
+<pre><b>LAST UPDATE : 2021-06-30</b><br/><b>TOTAL MAILS :        934</b></pre>
 <pre>
+- <a href="categories/mails/7430.md">关于境外驾照更换国内驾照居住时间的问题</a><br/>  Query Date : <b>2021-06-29</b> - Reply Date : <b>2021-06-30</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7429.md">党员慰问问题</a><br/>  Query Date : <b>2021-06-29</b> - Reply Date : <b>2021-06-30</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7428.md">咨询下半年商洛市还有医疗岗位事业编制考试没有？</a><br/>  Query Date : <b>2021-06-29</b> - Reply Date : <b>2021-06-30</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7422.md">尘肺救助政策咨询</a><br/>  Query Date : <b>2021-06-27</b> - Reply Date : <b>2021-06-28</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7408.md">尘肺病相关政策</a><br/>  Query Date : <b>2021-06-24</b> - Reply Date : <b>2021-06-25</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7407.md">建议在商州城区交通拥堵路段的公交站台加装电子抓怕设备</a><br/>  Query Date : <b>2021-06-24</b> - Reply Date : <b>2021-06-25</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
