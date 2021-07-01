@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-06-30</b><br/><b>TOTAL MAILS :        934</b></pre>
+<pre><b>LAST UPDATE : 2021-07-01</b><br/><b>TOTAL MAILS :        934</b></pre>
 <pre>
 - <a href="categories/mails/7430.md">关于境外驾照更换国内驾照居住时间的问题</a><br/>  Query Date : <b>2021-06-29</b> - Reply Date : <b>2021-06-30</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7429.md">党员慰问问题</a><br/>  Query Date : <b>2021-06-29</b> - Reply Date : <b>2021-06-30</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
