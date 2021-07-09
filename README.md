@@ -11,10 +11,11 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-07-08</b><br/><b>TOTAL MAILS :        939</b></pre>
+<pre><b>LAST UPDATE : 2021-07-09</b><br/><b>TOTAL MAILS :        941</b></pre>
 <pre>
 - <a href="categories/mails/7446.md">2021年社区工作者招聘吗？</a><br/>  Query Date : <b>2021-07-03</b> - Reply Date : <b>2021-07-06</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7444.md">商州区朝阳家园小区私占公共车位现象严重，多次反映相关部门，无人处理</a><br/>  Query Date : <b>2021-07-02</b> - Reply Date : <b>2021-07-06</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
+- <a href="categories/mails/7431.md">印尼驾照更换成国内驾照的问题</a><br/>  Query Date : <b>2021-06-30</b> - Reply Date : <b>2021-07-01</b> - Reply Agency : <a href="categories/agencies/商洛市公安局交警支队.md">商洛市公安局交警支队</a>
 - <a href="categories/mails/7430.md">关于境外驾照更换国内驾照居住时间的问题</a><br/>  Query Date : <b>2021-06-29</b> - Reply Date : <b>2021-06-30</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7429.md">党员慰问问题</a><br/>  Query Date : <b>2021-06-29</b> - Reply Date : <b>2021-06-30</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7428.md">咨询下半年商洛市还有医疗岗位事业编制考试没有？</a><br/>  Query Date : <b>2021-06-29</b> - Reply Date : <b>2021-06-30</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
@@ -49,6 +50,7 @@
 - <a href="categories/mails/7255.md">公立医院有哪些</a><br/>  Query Date : <b>2021-05-17</b> - Reply Date : <b>2021-05-18</b> - Reply Agency : <a href="categories/agencies/商洛市卫生健康委员会.md">商洛市卫生健康委员会</a>
 - <a href="categories/mails/7254.md">公立医院</a><br/>  Query Date : <b>2021-05-17</b> - Reply Date : <b>2021-05-18</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7250.md">关于竹林关镇闫荫组刘功成夫妇至今仍未脱贫</a><br/>  Query Date : <b>2021-05-15</b> - Reply Date : <b>2021-05-18</b> - Reply Agency : <a href="categories/agencies/丹凤县人民政府办公室.md">丹凤县人民政府办公室</a>
+- <a href="categories/mails/7247.md">商洛公交问题</a><br/>  Query Date : <b>2021-05-15</b> - Reply Date : <b>2021-05-18</b> - Reply Agency : <a href="categories/agencies/商洛市交通运输局.md">商洛市交通运输局</a>
 - <a href="categories/mails/7244.md">“公益惠民”补贴安装太阳能路灯</a><br/>  Query Date : <b>2021-05-14</b> - Reply Date : <b>2021-05-18</b> - Reply Agency : <a href="categories/agencies/商南县人民政府.md">商南县人民政府</a>
 - <a href="categories/mails/7242.md">所交合疗费被贪污，住院费用无法报销，我改怎么办</a><br/>  Query Date : <b>2021-05-14</b> - Reply Date : <b>2021-05-18</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
 - <a href="categories/mails/7241.md">明珠花园</a><br/>  Query Date : <b>2021-05-14</b> - Reply Date : <b>2021-05-18</b> - Reply Agency : <a href="categories/agencies/商洛市住房和城乡建设局.md">商洛市住房和城乡建设局</a>
