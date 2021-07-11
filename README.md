@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-07-10</b><br/><b>TOTAL MAILS :        941</b></pre>
+<pre><b>LAST UPDATE : 2021-07-11</b><br/><b>TOTAL MAILS :        941</b></pre>
 <pre>
 - <a href="categories/mails/7446.md">2021年社区工作者招聘吗？</a><br/>  Query Date : <b>2021-07-03</b> - Reply Date : <b>2021-07-06</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7444.md">商州区朝阳家园小区私占公共车位现象严重，多次反映相关部门，无人处理</a><br/>  Query Date : <b>2021-07-02</b> - Reply Date : <b>2021-07-06</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
