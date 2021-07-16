@@ -11,9 +11,12 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-07-13</b><br/><b>TOTAL MAILS :        953</b></pre>
+<pre><b>LAST UPDATE : 2021-07-16</b><br/><b>TOTAL MAILS :        956</b></pre>
 <pre>
+- <a href="categories/mails/7493.md">劳务派遣许可证办理</a><br/>  Query Date : <b>2021-07-14</b> - Reply Date : <b>2021-07-16</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7480.md">希望事业单位遴选范围扩大至陕西其它地市</a><br/>  Query Date : <b>2021-07-12</b> - Reply Date : <b>2021-07-13</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7479.md">丹凤法院拍卖房产不给土地使用权证</a><br/>  Query Date : <b>2021-07-12</b> - Reply Date : <b>2021-07-13</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7478.md">关于洛南县政府对违法乱建处理回复不满意的投诉</a><br/>  Query Date : <b>2021-07-12</b> - Reply Date : <b>2021-07-13</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7461.md">2021年暑期大学生政府见习</a><br/>  Query Date : <b>2021-07-08</b> - Reply Date : <b>2021-07-12</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7453.md">社区道路出行交通安全问题</a><br/>  Query Date : <b>2021-07-05</b> - Reply Date : <b>2021-07-08</b> - Reply Agency : <a href="categories/agencies/丹凤县人民政府办公室.md">丹凤县人民政府办公室</a>
 - <a href="categories/mails/7449.md">在我市规定的禁渔期之外是否允许休闲性垂钓？</a><br/>  Query Date : <b>2021-07-05</b> - Reply Date : <b>2021-07-05</b> - Reply Agency : <a href="categories/agencies/商洛市农业农村局.md">商洛市农业农村局</a>
