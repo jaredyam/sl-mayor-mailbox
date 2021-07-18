@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-07-17</b><br/><b>TOTAL MAILS :        956</b></pre>
+<pre><b>LAST UPDATE : 2021-07-18</b><br/><b>TOTAL MAILS :        956</b></pre>
 <pre>
 - <a href="categories/mails/7493.md">劳务派遣许可证办理</a><br/>  Query Date : <b>2021-07-14</b> - Reply Date : <b>2021-07-16</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7480.md">希望事业单位遴选范围扩大至陕西其它地市</a><br/>  Query Date : <b>2021-07-12</b> - Reply Date : <b>2021-07-13</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
