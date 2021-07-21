@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-07-20</b><br/><b>TOTAL MAILS :        963</b></pre>
+<pre><b>LAST UPDATE : 2021-07-21</b><br/><b>TOTAL MAILS :        964</b></pre>
 <pre>
 - <a href="categories/mails/7534.md">海员护照</a><br/>  Query Date : <b>2021-07-19</b> - Reply Date : <b>2021-07-20</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7493.md">劳务派遣许可证办理</a><br/>  Query Date : <b>2021-07-14</b> - Reply Date : <b>2021-07-16</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
@@ -31,6 +31,7 @@
 - <a href="categories/mails/7428.md">咨询下半年商洛市还有医疗岗位事业编制考试没有？</a><br/>  Query Date : <b>2021-06-29</b> - Reply Date : <b>2021-06-30</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7424.md">洛南县石门镇太白岔村2020年8月洪灾害统一重建灾民房屋面积为0</a><br/>  Query Date : <b>2021-06-27</b> - Reply Date : <b>2021-06-28</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
 - <a href="categories/mails/7422.md">尘肺救助政策咨询</a><br/>  Query Date : <b>2021-06-27</b> - Reply Date : <b>2021-06-28</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7417.md">三问洛南县庵巡公路(闫河桥至庵沟口段)养护工程施工</a><br/>  Query Date : <b>2021-06-26</b> - Reply Date : <b>2021-06-28</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
 - <a href="categories/mails/7408.md">尘肺病相关政策</a><br/>  Query Date : <b>2021-06-24</b> - Reply Date : <b>2021-06-25</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7407.md">建议在商州城区交通拥堵路段的公交站台加装电子抓怕设备</a><br/>  Query Date : <b>2021-06-24</b> - Reply Date : <b>2021-06-25</b> - Reply Agency : <a href="categories/agencies/商洛市公安局交通警察支队.md">商洛市公安局交通警察支队</a>
 - <a href="categories/mails/7400.md">沙河子村自来水长期水质不达标</a><br/>  Query Date : <b>2021-06-23</b> - Reply Date : <b>2021-06-24</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
