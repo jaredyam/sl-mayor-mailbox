@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-07-25</b><br/><b>TOTAL MAILS :        968</b></pre>
+<pre><b>LAST UPDATE : 2021-07-26</b><br/><b>TOTAL MAILS :        968</b></pre>
 <pre>
 - <a href="categories/mails/7561.md">请问商洛市城管执法局及公安机机关投诉电话多少</a><br/>  Query Date : <b>2021-07-22</b> - Reply Date : <b>2021-07-23</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7553.md">商洛市统计年鉴</a><br/>  Query Date : <b>2021-07-21</b> - Reply Date : <b>2021-07-22</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
