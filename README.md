@@ -11,17 +11,22 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-07-28</b><br/><b>TOTAL MAILS :        968</b></pre>
+<pre><b>LAST UPDATE : 2021-07-29</b><br/><b>TOTAL MAILS :        973</b></pre>
 <pre>
+- <a href="categories/mails/7595.md">请问商洛印象在售楼盘产权是多少年？</a><br/>  Query Date : <b>2021-07-28</b> - Reply Date : <b>2021-07-29</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7591.md">对于柞水县米多多购物中心的举报</a><br/>  Query Date : <b>2021-07-28</b> - Reply Date : <b>2021-07-29</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7561.md">请问商洛市城管执法局及公安机机关投诉电话多少</a><br/>  Query Date : <b>2021-07-22</b> - Reply Date : <b>2021-07-23</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7553.md">商洛市统计年鉴</a><br/>  Query Date : <b>2021-07-21</b> - Reply Date : <b>2021-07-22</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7548.md">商南至西安的绿巨人动车何时运行</a><br/>  Query Date : <b>2021-07-21</b> - Reply Date : <b>2021-07-23</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7534.md">海员护照</a><br/>  Query Date : <b>2021-07-19</b> - Reply Date : <b>2021-07-20</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7527.md">关于儿童常规疫苗接种问题</a><br/>  Query Date : <b>2021-07-17</b> - Reply Date : <b>2021-07-21</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
 - <a href="categories/mails/7522.md">商洛市初中学业水平考试招生管理平台操作繁琐功能不全</a><br/>  Query Date : <b>2021-07-17</b> - Reply Date : <b>2021-07-20</b> - Reply Agency : <a href="categories/agencies/商洛市教育局.md">商洛市教育局</a>
 - <a href="categories/mails/7493.md">劳务派遣许可证办理</a><br/>  Query Date : <b>2021-07-14</b> - Reply Date : <b>2021-07-16</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7485.md">洛南县亚美小区经常停水</a><br/>  Query Date : <b>2021-07-13</b> - Reply Date : <b>2021-07-14</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
 - <a href="categories/mails/7480.md">希望事业单位遴选范围扩大至陕西其它地市</a><br/>  Query Date : <b>2021-07-12</b> - Reply Date : <b>2021-07-13</b> - Reply Agency : <a href="categories/agencies/商洛市人力资源和社会保障局.md">商洛市人力资源和社会保障局</a>
 - <a href="categories/mails/7479.md">丹凤法院拍卖房产不给土地使用权证</a><br/>  Query Date : <b>2021-07-12</b> - Reply Date : <b>2021-07-13</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7478.md">关于洛南县政府对违法乱建处理回复不满意的投诉</a><br/>  Query Date : <b>2021-07-12</b> - Reply Date : <b>2021-07-13</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7463.md">山阳县新天地小区物业私自关停电梯，百姓出行困难</a><br/>  Query Date : <b>2021-07-08</b> - Reply Date : <b>2021-07-09</b> - Reply Agency : <a href="categories/agencies/山阳县人民政府办公室.md">山阳县人民政府办公室</a>
 - <a href="categories/mails/7461.md">2021年暑期大学生政府见习</a><br/>  Query Date : <b>2021-07-08</b> - Reply Date : <b>2021-07-12</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7457.md">商洛市汽车站开票难</a><br/>  Query Date : <b>2021-07-07</b> - Reply Date : <b>2021-07-08</b> - Reply Agency : <a href="categories/agencies/商洛市交通运输局.md">商洛市交通运输局</a>
 - <a href="categories/mails/7453.md">社区道路出行交通安全问题</a><br/>  Query Date : <b>2021-07-05</b> - Reply Date : <b>2021-07-08</b> - Reply Agency : <a href="categories/agencies/丹凤县人民政府办公室.md">丹凤县人民政府办公室</a>
