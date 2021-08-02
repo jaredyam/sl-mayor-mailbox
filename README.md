@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-08-01</b><br/><b>TOTAL MAILS :        974</b></pre>
+<pre><b>LAST UPDATE : 2021-08-02</b><br/><b>TOTAL MAILS :        974</b></pre>
 <pre>
 - <a href="categories/mails/7598.md">关于公租房的问题</a><br/>  Query Date : <b>2021-07-29</b> - Reply Date : <b>2021-07-30</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7595.md">请问商洛印象在售楼盘产权是多少年？</a><br/>  Query Date : <b>2021-07-28</b> - Reply Date : <b>2021-07-29</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
