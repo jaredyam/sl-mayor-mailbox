@@ -11,11 +11,14 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-08-05</b><br/><b>TOTAL MAILS :        977</b></pre>
+<pre><b>LAST UPDATE : 2021-08-06</b><br/><b>TOTAL MAILS :        979</b></pre>
 <pre>
 - <a href="categories/mails/7598.md">关于公租房的问题</a><br/>  Query Date : <b>2021-07-29</b> - Reply Date : <b>2021-07-30</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7595.md">请问商洛印象在售楼盘产权是多少年？</a><br/>  Query Date : <b>2021-07-28</b> - Reply Date : <b>2021-07-29</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7591.md">对于柞水县米多多购物中心的举报</a><br/>  Query Date : <b>2021-07-28</b> - Reply Date : <b>2021-07-29</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7588.md">垃圾乱象何时终止</a><br/>  Query Date : <b>2021-07-27</b> - Reply Date : <b>2021-07-28</b> - Reply Agency : <a href="categories/agencies/丹凤县人民政府办公室.md">丹凤县人民政府办公室</a>
+- <a href="categories/mails/7587.md">电动自行车和摩托车停放难，让人出行不便</a><br/>  Query Date : <b>2021-07-27</b> - Reply Date : <b>2021-07-28</b> - Reply Agency : <a href="categories/agencies/丹凤县人民政府办公室.md">丹凤县人民政府办公室</a>
+- <a href="categories/mails/7583.md">捆绑式水费让人苦不堪言</a><br/>  Query Date : <b>2021-07-27</b> - Reply Date : <b>2021-07-27</b> - Reply Agency : <a href="categories/agencies/丹凤县人民政府办公室.md">丹凤县人民政府办公室</a>
 - <a href="categories/mails/7579.md">镇安县残疾人换证比登天还难</a><br/>  Query Date : <b>2021-07-26</b> - Reply Date : <b>2021-07-27</b> - Reply Agency : <a href="categories/agencies/镇安县人民政府办公室.md">镇安县人民政府办公室</a>
 - <a href="categories/mails/7575.md">农村通组水泥路质量问题</a><br/>  Query Date : <b>2021-07-25</b> - Reply Date : <b>2021-07-27</b> - Reply Agency : <a href="categories/agencies/柞水县人民政府办公室.md">柞水县人民政府办公室</a>
 - <a href="categories/mails/7561.md">请问商洛市城管执法局及公安机机关投诉电话多少</a><br/>  Query Date : <b>2021-07-22</b> - Reply Date : <b>2021-07-23</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
@@ -59,7 +62,6 @@
 - <a href="categories/mails/7365.md">调整惠民二路与312国道十字路口红绿灯设置的建议</a><br/>  Query Date : <b>2021-06-11</b> - Reply Date : <b>2021-06-15</b> - Reply Agency : <a href="categories/agencies/商洛市公安局交通警察支队.md">商洛市公安局交通警察支队</a>
 - <a href="categories/mails/7362.md">铺张浪费，大搞排场</a><br/>  Query Date : <b>2021-06-10</b> - Reply Date : <b>2021-06-15</b> - Reply Agency : <a href="categories/agencies/丹凤县人民政府办公室.md">丹凤县人民政府办公室</a>
 - <a href="categories/mails/7361.md">助学贷款怎么办，那里给办</a><br/>  Query Date : <b>2021-06-10</b> - Reply Date : <b>2021-06-10</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
-- <a href="categories/mails/7359.md">有关部门对群贤居小区业主投诉商铺违建问题的处理意见，避重就轻，从容违规行为继续存在。</a><br/>  Query Date : <b>2021-06-09</b> - Reply Date : <b>2021-06-10</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
 - <a href="categories/mails/7357.md">商州区沙河子镇井坡村道路狭窄，机动车辆无法错开，严重影响老百姓出行，求政府解决</a><br/>  Query Date : <b>2021-06-08</b> - Reply Date : <b>2021-06-10</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/7354.md">美丽乡村建设不能有漏洞</a><br/>  Query Date : <b>2021-06-08</b> - Reply Date : <b>2021-06-15</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/7345.md">为什么洛南县泰和医院至今还没有拆迁？</a><br/>  Query Date : <b>2021-06-06</b> - Reply Date : <b>2021-06-08</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
