@@ -11,8 +11,11 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-08-08</b><br/><b>TOTAL MAILS :        979</b></pre>
+<pre><b>LAST UPDATE : 2021-08-09</b><br/><b>TOTAL MAILS :        982</b></pre>
 <pre>
+- <a href="categories/mails/7630.md">完善新闻发布透明度</a><br/>  Query Date : <b>2021-08-06</b> - Reply Date : <b>2021-08-09</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7626.md">关于商洛市行政审批服务局感言</a><br/>  Query Date : <b>2021-08-06</b> - Reply Date : <b>2021-08-09</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7624.md">感恩信</a><br/>  Query Date : <b>2021-08-05</b> - Reply Date : <b>2021-08-09</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7598.md">关于公租房的问题</a><br/>  Query Date : <b>2021-07-29</b> - Reply Date : <b>2021-07-30</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7595.md">请问商洛印象在售楼盘产权是多少年？</a><br/>  Query Date : <b>2021-07-28</b> - Reply Date : <b>2021-07-29</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7591.md">对于柞水县米多多购物中心的举报</a><br/>  Query Date : <b>2021-07-28</b> - Reply Date : <b>2021-07-29</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
