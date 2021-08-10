@@ -11,8 +11,9 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-08-09</b><br/><b>TOTAL MAILS :        982</b></pre>
+<pre><b>LAST UPDATE : 2021-08-10</b><br/><b>TOTAL MAILS :        985</b></pre>
 <pre>
+- <a href="categories/mails/7637.md">幼升小问题</a><br/>  Query Date : <b>2021-08-08</b> - Reply Date : <b>2021-08-10</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7630.md">完善新闻发布透明度</a><br/>  Query Date : <b>2021-08-06</b> - Reply Date : <b>2021-08-09</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7626.md">关于商洛市行政审批服务局感言</a><br/>  Query Date : <b>2021-08-06</b> - Reply Date : <b>2021-08-09</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7624.md">感恩信</a><br/>  Query Date : <b>2021-08-05</b> - Reply Date : <b>2021-08-09</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
@@ -34,9 +35,11 @@
 - <a href="categories/mails/7494.md">以行政手段强制注射疫苗是否合法？</a><br/>  Query Date : <b>2021-07-14</b> - Reply Date : <b>2021-07-16</b> - Reply Agency : <a href="categories/agencies/市信息中心市疫情防控工作领导小组办公室疫情防控组.md">市信息中心市疫情防控工作领导小组办公室疫情防控组</a>
 - <a href="categories/mails/7493.md">劳务派遣许可证办理</a><br/>  Query Date : <b>2021-07-14</b> - Reply Date : <b>2021-07-16</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7485.md">洛南县亚美小区经常停水</a><br/>  Query Date : <b>2021-07-13</b> - Reply Date : <b>2021-07-14</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
+- <a href="categories/mails/7484.md">啊Q烤肉摊子扰民打投诉电话一直不给予处理</a><br/>  Query Date : <b>2021-07-13</b> - Reply Date : <b>2021-07-14</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/7480.md">希望事业单位遴选范围扩大至陕西其它地市</a><br/>  Query Date : <b>2021-07-12</b> - Reply Date : <b>2021-07-13</b> - Reply Agency : <a href="categories/agencies/商洛市人力资源和社会保障局.md">商洛市人力资源和社会保障局</a>
 - <a href="categories/mails/7479.md">丹凤法院拍卖房产不给土地使用权证</a><br/>  Query Date : <b>2021-07-12</b> - Reply Date : <b>2021-07-13</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7478.md">关于洛南县政府对违法乱建处理回复不满意的投诉</a><br/>  Query Date : <b>2021-07-12</b> - Reply Date : <b>2021-07-13</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7473.md">关于农村自建房屋的申请批复问题</a><br/>  Query Date : <b>2021-07-11</b> - Reply Date : <b>2021-07-12</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/7463.md">山阳县新天地小区物业私自关停电梯，百姓出行困难</a><br/>  Query Date : <b>2021-07-08</b> - Reply Date : <b>2021-07-09</b> - Reply Agency : <a href="categories/agencies/山阳县人民政府办公室.md">山阳县人民政府办公室</a>
 - <a href="categories/mails/7461.md">2021年暑期大学生政府见习</a><br/>  Query Date : <b>2021-07-08</b> - Reply Date : <b>2021-07-12</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7457.md">商洛市汽车站开票难</a><br/>  Query Date : <b>2021-07-07</b> - Reply Date : <b>2021-07-08</b> - Reply Agency : <a href="categories/agencies/商洛市交通运输局.md">商洛市交通运输局</a>
