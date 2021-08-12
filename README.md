@@ -11,8 +11,9 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-08-11</b><br/><b>TOTAL MAILS :        990</b></pre>
+<pre><b>LAST UPDATE : 2021-08-12</b><br/><b>TOTAL MAILS :        991</b></pre>
 <pre>
+- <a href="categories/mails/7649.md">核酸检测为什么没有降价</a><br/>  Query Date : <b>2021-08-11</b> - Reply Date : <b>2021-08-12</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7645.md">洛南县文化局 费宏伟 违规违纪</a><br/>  Query Date : <b>2021-08-10</b> - Reply Date : <b>2021-08-11</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7643.md">关于2021年七夕佳节办理结婚登记请求</a><br/>  Query Date : <b>2021-08-10</b> - Reply Date : <b>2021-08-10</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7637.md">幼升小问题</a><br/>  Query Date : <b>2021-08-08</b> - Reply Date : <b>2021-08-10</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
