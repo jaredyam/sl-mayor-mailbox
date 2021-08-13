@@ -11,16 +11,17 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-08-12</b><br/><b>TOTAL MAILS :        991</b></pre>
+<pre><b>LAST UPDATE : 2021-08-13</b><br/><b>TOTAL MAILS :        992</b></pre>
 <pre>
 - <a href="categories/mails/7649.md">核酸检测为什么没有降价</a><br/>  Query Date : <b>2021-08-11</b> - Reply Date : <b>2021-08-12</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7645.md">洛南县文化局 费宏伟 违规违纪</a><br/>  Query Date : <b>2021-08-10</b> - Reply Date : <b>2021-08-11</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7643.md">关于2021年七夕佳节办理结婚登记请求</a><br/>  Query Date : <b>2021-08-10</b> - Reply Date : <b>2021-08-10</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7637.md">幼升小问题</a><br/>  Query Date : <b>2021-08-08</b> - Reply Date : <b>2021-08-10</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7630.md">完善新闻发布透明度</a><br/>  Query Date : <b>2021-08-06</b> - Reply Date : <b>2021-08-09</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
-- <a href="categories/mails/7626.md">关于商洛市行政审批服务局感言</a><br/>  Query Date : <b>2021-08-06</b> - Reply Date : <b>2021-08-09</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7626.md">关于商洛市行政审批服务局感言</a><br/>  Query Date : <b>2021-08-06</b> - Reply Date : <b>2021-08-09</b> - Reply Agency : <a href="categories/agencies/国家税务总局商洛市税务局.md">国家税务总局商洛市税务局</a>
 - <a href="categories/mails/7624.md">感恩信</a><br/>  Query Date : <b>2021-08-05</b> - Reply Date : <b>2021-08-09</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7615.md">镇卫生院不为民办事借口推辞</a><br/>  Query Date : <b>2021-08-03</b> - Reply Date : <b>2021-08-04</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
+- <a href="categories/mails/7602.md">7.23腰马路水毁重建加宽工程</a><br/>  Query Date : <b>2021-08-01</b> - Reply Date : <b>2021-08-02</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/7598.md">关于公租房的问题</a><br/>  Query Date : <b>2021-07-29</b> - Reply Date : <b>2021-07-30</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7596.md">农村电网改造后从我房顶走，存在安全隐患。</a><br/>  Query Date : <b>2021-07-29</b> - Reply Date : <b>2020-07-30</b> - Reply Agency : <a href="categories/agencies/商南县人民政府.md">商南县人民政府</a>
 - <a href="categories/mails/7595.md">请问商洛印象在售楼盘产权是多少年？</a><br/>  Query Date : <b>2021-07-28</b> - Reply Date : <b>2021-07-29</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
