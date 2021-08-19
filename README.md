@@ -11,9 +11,10 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-08-18</b><br/><b>TOTAL MAILS :       1001</b></pre>
+<pre><b>LAST UPDATE : 2021-08-19</b><br/><b>TOTAL MAILS :       1003</b></pre>
 <pre>
 - <a href="categories/mails/7679.md">咨询上学</a><br/>  Query Date : <b>2021-08-17</b> - Reply Date : <b>2021-08-17</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7676.md">天然气管道安装诉求</a><br/>  Query Date : <b>2021-08-16</b> - Reply Date : <b>2021-08-19</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7659.md">建议外地在编教师回调计划</a><br/>  Query Date : <b>2021-08-12</b> - Reply Date : <b>2021-08-16</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7649.md">核酸检测为什么没有降价</a><br/>  Query Date : <b>2021-08-11</b> - Reply Date : <b>2021-08-12</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7645.md">洛南县文化局 费宏伟 违规违纪</a><br/>  Query Date : <b>2021-08-10</b> - Reply Date : <b>2021-08-11</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
@@ -22,6 +23,7 @@
 - <a href="categories/mails/7630.md">完善新闻发布透明度</a><br/>  Query Date : <b>2021-08-06</b> - Reply Date : <b>2021-08-09</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7626.md">关于商洛市行政审批服务局感言</a><br/>  Query Date : <b>2021-08-06</b> - Reply Date : <b>2021-08-09</b> - Reply Agency : <a href="categories/agencies/国家税务总局商洛市税务局.md">国家税务总局商洛市税务局</a>
 - <a href="categories/mails/7624.md">感恩信</a><br/>  Query Date : <b>2021-08-05</b> - Reply Date : <b>2021-08-09</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7620.md">市自来水公司收费问题</a><br/>  Query Date : <b>2021-08-04</b> - Reply Date : <b>2021-08-04</b> - Reply Agency : <a href="categories/agencies/商洛市城市管理局.md">商洛市城市管理局</a>
 - <a href="categories/mails/7615.md">镇卫生院不为民办事借口推辞</a><br/>  Query Date : <b>2021-08-03</b> - Reply Date : <b>2021-08-04</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
 - <a href="categories/mails/7605.md">【破坏耕地，污染环境】石料乱倒生产垃圾，破坏村民耕地，严重污染生态环境</a><br/>  Query Date : <b>2021-08-02</b> - Reply Date : <b>2021-08-02</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/7602.md">7.23腰马路水毁重建加宽工程</a><br/>  Query Date : <b>2021-08-01</b> - Reply Date : <b>2021-08-02</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
