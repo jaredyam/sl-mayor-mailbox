@@ -11,22 +11,26 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-09-01</b><br/><b>TOTAL MAILS :       1005</b></pre>
+<pre><b>LAST UPDATE : 2021-09-03</b><br/><b>TOTAL MAILS :       1010</b></pre>
 <pre>
 - <a href="categories/mails/7762.md">商洛火车站通达公交的建议</a><br/>  Query Date : <b>2021-08-30</b> - Reply Date : <b>2021-09-01</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7729.md">咨询全运会自行车比赛是否封路</a><br/>  Query Date : <b>2021-08-24</b> - Reply Date : <b>2021-08-25</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7723.md">商州区高龄补贴</a><br/>  Query Date : <b>2021-08-23</b> - Reply Date : <b>2021-08-24</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7679.md">咨询上学</a><br/>  Query Date : <b>2021-08-17</b> - Reply Date : <b>2021-08-17</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7676.md">天然气管道安装诉求</a><br/>  Query Date : <b>2021-08-16</b> - Reply Date : <b>2021-08-19</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7659.md">建议外地在编教师回调计划</a><br/>  Query Date : <b>2021-08-12</b> - Reply Date : <b>2021-08-16</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7653.md">野猪毁坏庄稼</a><br/>  Query Date : <b>2021-08-11</b> - Reply Date : <b>2021-08-13</b> - Reply Agency : <a href="categories/agencies/柞水县人民政府办公室.md">柞水县人民政府办公室</a>
 - <a href="categories/mails/7649.md">核酸检测为什么没有降价</a><br/>  Query Date : <b>2021-08-11</b> - Reply Date : <b>2021-08-12</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
-- <a href="categories/mails/7645.md">洛南县文化局 费宏伟 违规违纪</a><br/>  Query Date : <b>2021-08-10</b> - Reply Date : <b>2021-08-11</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7647.md">要求山阳县退伍军人事务局退回多交的养老保险费</a><br/>  Query Date : <b>2021-08-10</b> - Reply Date : <b>2021-08-13</b> - Reply Agency : <a href="categories/agencies/山阳县人民政府办公室.md">山阳县人民政府办公室</a>
 - <a href="categories/mails/7643.md">关于2021年七夕佳节办理结婚登记请求</a><br/>  Query Date : <b>2021-08-10</b> - Reply Date : <b>2021-08-10</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7638.md">山阳县教育局变相强制接种疫苗</a><br/>  Query Date : <b>2021-08-08</b> - Reply Date : <b>2021-08-09</b> - Reply Agency : <a href="categories/agencies/山阳县人民政府办公室.md">山阳县人民政府办公室</a>
 - <a href="categories/mails/7637.md">幼升小问题</a><br/>  Query Date : <b>2021-08-08</b> - Reply Date : <b>2021-08-10</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7630.md">完善新闻发布透明度</a><br/>  Query Date : <b>2021-08-06</b> - Reply Date : <b>2021-08-09</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7626.md">关于商洛市行政审批服务局感言</a><br/>  Query Date : <b>2021-08-06</b> - Reply Date : <b>2021-08-09</b> - Reply Agency : <a href="categories/agencies/国家税务总局商洛市税务局.md">国家税务总局商洛市税务局</a>
 - <a href="categories/mails/7624.md">感恩信</a><br/>  Query Date : <b>2021-08-05</b> - Reply Date : <b>2021-08-09</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7620.md">市自来水公司收费问题</a><br/>  Query Date : <b>2021-08-04</b> - Reply Date : <b>2021-08-04</b> - Reply Agency : <a href="categories/agencies/商洛市城市管理局.md">商洛市城市管理局</a>
 - <a href="categories/mails/7615.md">镇卫生院不为民办事借口推辞</a><br/>  Query Date : <b>2021-08-03</b> - Reply Date : <b>2021-08-04</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
+- <a href="categories/mails/7612.md">柞水天然气公司乱收入户费、捆绑销售燃气灶等霸王条款</a><br/>  Query Date : <b>2021-08-03</b> - Reply Date : <b>2021-08-04</b> - Reply Agency : <a href="categories/agencies/柞水县人民政府办公室.md">柞水县人民政府办公室</a>
 - <a href="categories/mails/7605.md">【破坏耕地，污染环境】石料乱倒生产垃圾，破坏村民耕地，严重污染生态环境</a><br/>  Query Date : <b>2021-08-02</b> - Reply Date : <b>2021-08-02</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/7602.md">7.23腰马路水毁重建加宽工程</a><br/>  Query Date : <b>2021-08-01</b> - Reply Date : <b>2021-08-02</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/7598.md">关于公租房的问题</a><br/>  Query Date : <b>2021-07-29</b> - Reply Date : <b>2021-07-30</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
@@ -54,6 +58,7 @@
 - <a href="categories/mails/7493.md">劳务派遣许可证办理</a><br/>  Query Date : <b>2021-07-14</b> - Reply Date : <b>2021-07-16</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7485.md">洛南县亚美小区经常停水</a><br/>  Query Date : <b>2021-07-13</b> - Reply Date : <b>2021-07-14</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
 - <a href="categories/mails/7484.md">啊Q烤肉摊子扰民打投诉电话一直不给予处理</a><br/>  Query Date : <b>2021-07-13</b> - Reply Date : <b>2021-07-14</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
+- <a href="categories/mails/7482.md">2020年度退役士兵一次性创业补助</a><br/>  Query Date : <b>2021-07-12</b> - Reply Date : <b>2021-07-14</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/7480.md">希望事业单位遴选范围扩大至陕西其它地市</a><br/>  Query Date : <b>2021-07-12</b> - Reply Date : <b>2021-07-13</b> - Reply Agency : <a href="categories/agencies/商洛市人力资源和社会保障局.md">商洛市人力资源和社会保障局</a>
 - <a href="categories/mails/7479.md">丹凤法院拍卖房产不给土地使用权证</a><br/>  Query Date : <b>2021-07-12</b> - Reply Date : <b>2021-07-13</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7478.md">关于洛南县政府对违法乱建处理回复不满意的投诉</a><br/>  Query Date : <b>2021-07-12</b> - Reply Date : <b>2021-07-13</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
