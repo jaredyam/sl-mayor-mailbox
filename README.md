@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-09-09</b><br/><b>TOTAL MAILS :       1011</b></pre>
+<pre><b>LAST UPDATE : 2021-09-10</b><br/><b>TOTAL MAILS :       1011</b></pre>
 <pre>
 - <a href="categories/mails/7796.md">公务员退休死亡抚恤金丧葬费办理流程</a><br/>  Query Date : <b>2021-09-06</b> - Reply Date : <b>2021-09-08</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7762.md">商洛火车站通达公交的建议</a><br/>  Query Date : <b>2021-08-30</b> - Reply Date : <b>2021-09-01</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
