@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-09-15</b><br/><b>TOTAL MAILS :       1025</b></pre>
+<pre><b>LAST UPDATE : 2021-09-16</b><br/><b>TOTAL MAILS :       1026</b></pre>
 <pre>
 - <a href="categories/mails/7828.md">景村公交车无法正常运行</a><br/>  Query Date : <b>2021-09-11</b> - Reply Date : <b>2021-09-13</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
 - <a href="categories/mails/7796.md">公务员退休死亡抚恤金丧葬费办理流程</a><br/>  Query Date : <b>2021-09-06</b> - Reply Date : <b>2021-09-08</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
@@ -52,6 +52,7 @@
 - <a href="categories/mails/7591.md">对于柞水县米多多购物中心的举报</a><br/>  Query Date : <b>2021-07-28</b> - Reply Date : <b>2021-07-29</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7588.md">垃圾乱象何时终止</a><br/>  Query Date : <b>2021-07-27</b> - Reply Date : <b>2021-07-28</b> - Reply Agency : <a href="categories/agencies/丹凤县人民政府办公室.md">丹凤县人民政府办公室</a>
 - <a href="categories/mails/7587.md">电动自行车和摩托车停放难，让人出行不便</a><br/>  Query Date : <b>2021-07-27</b> - Reply Date : <b>2021-07-28</b> - Reply Agency : <a href="categories/agencies/丹凤县人民政府办公室.md">丹凤县人民政府办公室</a>
+- <a href="categories/mails/7584.md">电梯备用电源</a><br/>  Query Date : <b>2021-07-27</b> - Reply Date : <b>2021-07-27</b> - Reply Agency : <a href="categories/agencies/丹凤县人民政府办公室.md">丹凤县人民政府办公室</a>
 - <a href="categories/mails/7583.md">捆绑式水费让人苦不堪言</a><br/>  Query Date : <b>2021-07-27</b> - Reply Date : <b>2021-07-27</b> - Reply Agency : <a href="categories/agencies/丹凤县人民政府办公室.md">丹凤县人民政府办公室</a>
 - <a href="categories/mails/7579.md">镇安县残疾人换证比登天还难</a><br/>  Query Date : <b>2021-07-26</b> - Reply Date : <b>2021-07-27</b> - Reply Agency : <a href="categories/agencies/镇安县人民政府办公室.md">镇安县人民政府办公室</a>
 - <a href="categories/mails/7577.md">高层居民楼常年存储经营危化液化气，巨大安全隐患</a><br/>  Query Date : <b>2021-07-26</b> - Reply Date : <b>2021-07-27</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
