@@ -11,8 +11,9 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-09-21</b><br/><b>TOTAL MAILS :       1026</b></pre>
+<pre><b>LAST UPDATE : 2021-09-22</b><br/><b>TOTAL MAILS :       1027</b></pre>
 <pre>
+- <a href="categories/mails/7844.md">泰宇时代天地房产证何时能够办理</a><br/>  Query Date : <b>2021-09-15</b> - Reply Date : <b>2021-09-18</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7828.md">景村公交车无法正常运行</a><br/>  Query Date : <b>2021-09-11</b> - Reply Date : <b>2021-09-13</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
 - <a href="categories/mails/7796.md">公务员退休死亡抚恤金丧葬费办理流程</a><br/>  Query Date : <b>2021-09-06</b> - Reply Date : <b>2021-09-08</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7787.md">疫情防控封堵路生产生活影响</a><br/>  Query Date : <b>2021-09-05</b> - Reply Date : <b>2021-09-09</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
