@@ -11,8 +11,9 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-10-03</b><br/><b>TOTAL MAILS :       1042</b></pre>
+<pre><b>LAST UPDATE : 2021-10-04</b><br/><b>TOTAL MAILS :       1043</b></pre>
 <pre>
+- <a href="categories/mails/7955.md">九品阁大酒店严重污染环境</a><br/>  Query Date : <b>2021-10-03</b> - Reply Date : <b>2021-10-04</b> - Reply Agency : <a href="categories/agencies/市政务信息服务中心.md">市政务信息服务中心</a>
 - <a href="categories/mails/7931.md">咨询商州区创业补贴流程和如何申请</a><br/>  Query Date : <b>2021-09-29</b> - Reply Date : <b>2021-09-30</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7872.md">商洛共享电动车的安全隐患（逆行、闯红灯、乱停乱放）</a><br/>  Query Date : <b>2021-09-19</b> - Reply Date : <b>2021-09-23</b> - Reply Agency : <a href="categories/agencies/商洛市公安局交通警察支队.md">商洛市公安局交通警察支队</a>
 - <a href="categories/mails/7847.md">商洛市有没有对500平方米以下工程不再办理消防审核备案手续的政策？</a><br/>  Query Date : <b>2021-09-15</b> - Reply Date : <b>2021-09-22</b> - Reply Agency : <a href="categories/agencies/商洛市住房和城乡建设局.md">商洛市住房和城乡建设局</a>
