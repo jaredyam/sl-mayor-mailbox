@@ -11,11 +11,18 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-10-12</b><br/><b>TOTAL MAILS :       1046</b></pre>
+<pre><b>LAST UPDATE : 2021-10-14</b><br/><b>TOTAL MAILS :       1054</b></pre>
 <pre>
+- <a href="categories/mails/8021.md">如何知道市长有没有收到信？</a><br/>  Query Date : <b>2021-10-13</b> - Reply Date : <b>2021-10-14</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/8014.md">大学生函调</a><br/>  Query Date : <b>2021-10-13</b> - Reply Date : <b>2021-10-14</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7970.md">举报水污染被打击报复</a><br/>  Query Date : <b>2021-10-07</b> - Reply Date : <b>2021-10-08</b> - Reply Agency : <a href="categories/agencies/柞水县人民政府办公室.md">柞水县人民政府办公室</a>
 - <a href="categories/mails/7965.md">天然气检修</a><br/>  Query Date : <b>2021-10-05</b> - Reply Date : <b>2021-10-08</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7955.md">九品阁大酒店严重污染环境</a><br/>  Query Date : <b>2021-10-03</b> - Reply Date : <b>2021-10-04</b> - Reply Agency : <a href="categories/agencies/市政务信息服务中心.md">市政务信息服务中心</a>
 - <a href="categories/mails/7931.md">咨询商州区创业补贴流程和如何申请</a><br/>  Query Date : <b>2021-09-29</b> - Reply Date : <b>2021-09-30</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7928.md">连续强降雨造成的道路中断和身命财产威胁</a><br/>  Query Date : <b>2021-09-28</b> - Reply Date : <b>2021-09-30</b> - Reply Agency : <a href="categories/agencies/镇安县人民政府办公室.md">镇安县人民政府办公室</a>
+- <a href="categories/mails/7925.md">关于商州城区电动车乱象问题的建议</a><br/>  Query Date : <b>2021-09-28</b> - Reply Date : <b>2021-09-28</b> - Reply Agency : <a href="categories/agencies/商洛市公安局交通警察支队.md">商洛市公安局交通警察支队</a>
+- <a href="categories/mails/7916.md">新一届政府为何大幅度降低医保报销标准</a><br/>  Query Date : <b>2021-09-27</b> - Reply Date : <b>2021-09-28</b> - Reply Agency : <a href="categories/agencies/商洛市医疗保障局.md">商洛市医疗保障局</a>
+- <a href="categories/mails/7897.md">镇安的高中教育问题令人堪忧（镇安县中是处级单位，本县解决不了）</a><br/>  Query Date : <b>2021-09-24</b> - Reply Date : <b>2021-09-26</b> - Reply Agency : <a href="categories/agencies/镇安县人民政府办公室.md">镇安县人民政府办公室</a>
 - <a href="categories/mails/7891.md">刘齐锋破坏水利设施</a><br/>  Query Date : <b>2021-09-24</b> - Reply Date : <b>2021-09-24</b> - Reply Agency : <a href="categories/agencies/柞水县人民政府办公室.md">柞水县人民政府办公室</a>
 - <a href="categories/mails/7882.md">麻坪镇孤山村通村大桥</a><br/>  Query Date : <b>2021-09-22</b> - Reply Date : <b>2021-09-24</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
 - <a href="categories/mails/7872.md">商洛共享电动车的安全隐患（逆行、闯红灯、乱停乱放）</a><br/>  Query Date : <b>2021-09-19</b> - Reply Date : <b>2021-09-23</b> - Reply Agency : <a href="categories/agencies/商洛市公安局交通警察支队.md">商洛市公安局交通警察支队</a>
@@ -26,6 +33,7 @@
 - <a href="categories/mails/7827.md">教师职称认定</a><br/>  Query Date : <b>2021-09-11</b> - Reply Date : <b>2021-09-13</b> - Reply Agency : <a href="categories/agencies/商洛市教育局.md">商洛市教育局</a>
 - <a href="categories/mails/7826.md">教师职称</a><br/>  Query Date : <b>2021-09-11</b> - Reply Date : <b>2021-09-13</b> - Reply Agency : <a href="categories/agencies/商洛市教育局.md">商洛市教育局</a>
 - <a href="categories/mails/7824.md">乡村道路建设</a><br/>  Query Date : <b>2021-09-10</b> - Reply Date : <b>2021-09-10</b> - Reply Agency : <a href="categories/agencies/镇安县人民政府办公室.md">镇安县人民政府办公室</a>
+- <a href="categories/mails/7822.md">关于落实“两边一补齐”打通断头路助力乡村振兴</a><br/>  Query Date : <b>2021-09-10</b> - Reply Date : <b>2021-09-16</b> - Reply Agency : <a href="categories/agencies/镇安县人民政府办公室.md">镇安县人民政府办公室</a>
 - <a href="categories/mails/7796.md">公务员退休死亡抚恤金丧葬费办理流程</a><br/>  Query Date : <b>2021-09-06</b> - Reply Date : <b>2021-09-08</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7787.md">疫情防控封堵路生产生活影响</a><br/>  Query Date : <b>2021-09-05</b> - Reply Date : <b>2021-09-09</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
 - <a href="categories/mails/7784.md">关于万达停车场北岗外市政道路塌陷无人修复的投诉</a><br/>  Query Date : <b>2021-09-05</b> - Reply Date : <b>2021-09-06</b> - Reply Agency : <a href="categories/agencies/商洛市城市管理局.md">商洛市城市管理局</a>
