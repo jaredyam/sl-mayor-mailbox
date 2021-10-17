@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-10-16</b><br/><b>TOTAL MAILS :       1054</b></pre>
+<pre><b>LAST UPDATE : 2021-10-17</b><br/><b>TOTAL MAILS :       1054</b></pre>
 <pre>
 - <a href="categories/mails/8021.md">如何知道市长有没有收到信？</a><br/>  Query Date : <b>2021-10-13</b> - Reply Date : <b>2021-10-14</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8014.md">大学生函调</a><br/>  Query Date : <b>2021-10-13</b> - Reply Date : <b>2021-10-14</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
