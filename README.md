@@ -11,13 +11,14 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-10-20</b><br/><b>TOTAL MAILS :       1060</b></pre>
+<pre><b>LAST UPDATE : 2021-10-22</b><br/><b>TOTAL MAILS :       1061</b></pre>
 <pre>
 - <a href="categories/mails/8055.md">红十字会救护员培训如何报名</a><br/>  Query Date : <b>2021-10-18</b> - Reply Date : <b>2021-10-19</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8053.md">商洛红十字会救护员培训</a><br/>  Query Date : <b>2021-10-18</b> - Reply Date : <b>2021-10-19</b> - Reply Agency : <a href="categories/agencies/商洛市红十字会.md">商洛市红十字会</a>
 - <a href="categories/mails/8021.md">如何知道市长有没有收到信？</a><br/>  Query Date : <b>2021-10-13</b> - Reply Date : <b>2021-10-14</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8018.md">商洛市小学社团活动是否教育资源是否平等</a><br/>  Query Date : <b>2021-10-13</b> - Reply Date : <b>2021-10-15</b> - Reply Agency : <a href="categories/agencies/商洛市教育局.md">商洛市教育局</a>
 - <a href="categories/mails/8014.md">大学生函调</a><br/>  Query Date : <b>2021-10-13</b> - Reply Date : <b>2021-10-14</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/7987.md">板桥镇蒲峪乡自来水什么年代才能通</a><br/>  Query Date : <b>2021-10-09</b> - Reply Date : <b>2021-10-12</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/7970.md">举报水污染被打击报复</a><br/>  Query Date : <b>2021-10-07</b> - Reply Date : <b>2021-10-08</b> - Reply Agency : <a href="categories/agencies/柞水县人民政府办公室.md">柞水县人民政府办公室</a>
 - <a href="categories/mails/7965.md">天然气检修</a><br/>  Query Date : <b>2021-10-05</b> - Reply Date : <b>2021-10-08</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7964.md">开发商违规售卖房屋</a><br/>  Query Date : <b>2021-10-05</b> - Reply Date : <b>2021-10-08</b> - Reply Agency : <a href="categories/agencies/丹凤县人民政府办公室.md">丹凤县人民政府办公室</a>
