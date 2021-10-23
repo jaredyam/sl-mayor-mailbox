@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-10-22</b><br/><b>TOTAL MAILS :       1061</b></pre>
+<pre><b>LAST UPDATE : 2021-10-23</b><br/><b>TOTAL MAILS :       1061</b></pre>
 <pre>
 - <a href="categories/mails/8055.md">红十字会救护员培训如何报名</a><br/>  Query Date : <b>2021-10-18</b> - Reply Date : <b>2021-10-19</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8053.md">商洛红十字会救护员培训</a><br/>  Query Date : <b>2021-10-18</b> - Reply Date : <b>2021-10-19</b> - Reply Agency : <a href="categories/agencies/商洛市红十字会.md">商洛市红十字会</a>
