@@ -11,8 +11,9 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-10-24</b><br/><b>TOTAL MAILS :       1061</b></pre>
+<pre><b>LAST UPDATE : 2021-10-25</b><br/><b>TOTAL MAILS :       1062</b></pre>
 <pre>
+- <a href="categories/mails/8085.md">咨询商鞅广场的改造升级问题</a><br/>  Query Date : <b>2021-10-22</b> - Reply Date : <b>2021-10-25</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8055.md">红十字会救护员培训如何报名</a><br/>  Query Date : <b>2021-10-18</b> - Reply Date : <b>2021-10-19</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8053.md">商洛红十字会救护员培训</a><br/>  Query Date : <b>2021-10-18</b> - Reply Date : <b>2021-10-19</b> - Reply Agency : <a href="categories/agencies/商洛市红十字会.md">商洛市红十字会</a>
 - <a href="categories/mails/8021.md">如何知道市长有没有收到信？</a><br/>  Query Date : <b>2021-10-13</b> - Reply Date : <b>2021-10-14</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
