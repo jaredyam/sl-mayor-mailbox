@@ -11,8 +11,9 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-10-27</b><br/><b>TOTAL MAILS :       1070</b></pre>
+<pre><b>LAST UPDATE : 2021-10-29</b><br/><b>TOTAL MAILS :       1074</b></pre>
 <pre>
+- <a href="categories/mails/8101.md">商洛市供电电力历史博物馆无法联络</a><br/>  Query Date : <b>2021-10-26</b> - Reply Date : <b>2021-10-27</b> - Reply Agency : <a href="categories/agencies/国网陕西省电力公司商洛供电公司.md">国网陕西省电力公司商洛供电公司</a>
 - <a href="categories/mails/8085.md">咨询商鞅广场的改造升级问题</a><br/>  Query Date : <b>2021-10-22</b> - Reply Date : <b>2021-10-25</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8083.md">老年人白内障“光明工程”</a><br/>  Query Date : <b>2021-10-22</b> - Reply Date : <b>2021-10-25</b> - Reply Agency : <a href="categories/agencies/商洛市残疾人联合会.md">商洛市残疾人联合会</a>
 - <a href="categories/mails/8055.md">红十字会救护员培训如何报名</a><br/>  Query Date : <b>2021-10-18</b> - Reply Date : <b>2021-10-19</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
@@ -23,6 +24,7 @@
 - <a href="categories/mails/8014.md">大学生函调</a><br/>  Query Date : <b>2021-10-13</b> - Reply Date : <b>2021-10-14</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8012.md">宅基地腾退</a><br/>  Query Date : <b>2021-10-12</b> - Reply Date : <b>2021-10-14</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/7999.md">独生子女政策</a><br/>  Query Date : <b>2021-10-11</b> - Reply Date : <b>2021-10-12</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
+- <a href="categories/mails/7991.md">希望能改善庙湾村的村容村貌及人居环境</a><br/>  Query Date : <b>2021-10-10</b> - Reply Date : <b>2021-10-12</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
 - <a href="categories/mails/7987.md">板桥镇蒲峪乡自来水什么年代才能通</a><br/>  Query Date : <b>2021-10-09</b> - Reply Date : <b>2021-10-12</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/7986.md">咨询大修基金费用缴纳</a><br/>  Query Date : <b>2021-10-09</b> - Reply Date : <b>2021-10-12</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/7970.md">举报水污染被打击报复</a><br/>  Query Date : <b>2021-10-07</b> - Reply Date : <b>2021-10-08</b> - Reply Agency : <a href="categories/agencies/柞水县人民政府办公室.md">柞水县人民政府办公室</a>
@@ -37,7 +39,9 @@
 - <a href="categories/mails/7924.md">桂圆新村6号楼，漏雨屋顶破烂不堪，物业不作为，旧楼改造范围文件中包括此楼。也迟迟不见行动，雨天连续，我们已无法正常生活！</a><br/>  Query Date : <b>2021-09-28</b> - Reply Date : <b>2021-09-28</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/7916.md">新一届政府为何大幅度降低医保报销标准</a><br/>  Query Date : <b>2021-09-27</b> - Reply Date : <b>2021-09-28</b> - Reply Agency : <a href="categories/agencies/商洛市医疗保障局.md">商洛市医疗保障局</a>
 - <a href="categories/mails/7904.md">南宽坪镇后坡村民私下买卖土地违规建房殴打邻居</a><br/>  Query Date : <b>2021-09-25</b> - Reply Date : <b>2021-09-26</b> - Reply Agency : <a href="categories/agencies/山阳县人民政府办公室.md">山阳县人民政府办公室</a>
+- <a href="categories/mails/7900.md">灾后用水问题反馈地址</a><br/>  Query Date : <b>2021-09-25</b> - Reply Date : <b>2021-09-26</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
 - <a href="categories/mails/7897.md">镇安的高中教育问题令人堪忧（镇安县中是处级单位，本县解决不了）</a><br/>  Query Date : <b>2021-09-24</b> - Reply Date : <b>2021-09-26</b> - Reply Agency : <a href="categories/agencies/镇安县人民政府办公室.md">镇安县人民政府办公室</a>
+- <a href="categories/mails/7896.md">镇安县交警大队协警违规执法</a><br/>  Query Date : <b>2021-09-24</b> - Reply Date : <b>2021-09-26</b> - Reply Agency : <a href="categories/agencies/镇安县人民政府.md">镇安县人民政府</a>
 - <a href="categories/mails/7891.md">刘齐锋破坏水利设施</a><br/>  Query Date : <b>2021-09-24</b> - Reply Date : <b>2021-09-24</b> - Reply Agency : <a href="categories/agencies/柞水县人民政府办公室.md">柞水县人民政府办公室</a>
 - <a href="categories/mails/7882.md">麻坪镇孤山村通村大桥</a><br/>  Query Date : <b>2021-09-22</b> - Reply Date : <b>2021-09-24</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
 - <a href="categories/mails/7872.md">商洛共享电动车的安全隐患（逆行、闯红灯、乱停乱放）</a><br/>  Query Date : <b>2021-09-19</b> - Reply Date : <b>2021-09-23</b> - Reply Agency : <a href="categories/agencies/商洛市公安局交通警察支队.md">商洛市公安局交通警察支队</a>
