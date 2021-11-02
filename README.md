@@ -11,8 +11,9 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-11-01</b><br/><b>TOTAL MAILS :       1076</b></pre>
+<pre><b>LAST UPDATE : 2021-11-02</b><br/><b>TOTAL MAILS :       1077</b></pre>
 <pre>
+- <a href="categories/mails/8113.md">县级县以下医疗卫生机构招聘医学类本科生有关问题</a><br/>  Query Date : <b>2021-10-29</b> - Reply Date : <b>2021-11-02</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8101.md">商洛市供电电力历史博物馆无法联络</a><br/>  Query Date : <b>2021-10-26</b> - Reply Date : <b>2021-10-27</b> - Reply Agency : <a href="categories/agencies/国网陕西省电力公司商洛供电公司.md">国网陕西省电力公司商洛供电公司</a>
 - <a href="categories/mails/8085.md">咨询商鞅广场的改造升级问题</a><br/>  Query Date : <b>2021-10-22</b> - Reply Date : <b>2021-10-25</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8083.md">老年人白内障“光明工程”</a><br/>  Query Date : <b>2021-10-22</b> - Reply Date : <b>2021-10-25</b> - Reply Agency : <a href="categories/agencies/商洛市残疾人联合会.md">商洛市残疾人联合会</a>
