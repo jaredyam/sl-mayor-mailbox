@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-11-05</b><br/><b>TOTAL MAILS :       1080</b></pre>
+<pre><b>LAST UPDATE : 2021-11-06</b><br/><b>TOTAL MAILS :       1080</b></pre>
 <pre>
 - <a href="categories/mails/8139.md">商鞅大道管理问题</a><br/>  Query Date : <b>2021-11-03</b> - Reply Date : <b>2021-11-05</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8137.md">养老保险关系转移</a><br/>  Query Date : <b>2021-11-03</b> - Reply Date : <b>2021-11-04</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
