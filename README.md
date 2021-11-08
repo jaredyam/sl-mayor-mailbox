@@ -11,8 +11,9 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-11-07</b><br/><b>TOTAL MAILS :       1080</b></pre>
+<pre><b>LAST UPDATE : 2021-11-08</b><br/><b>TOTAL MAILS :       1086</b></pre>
 <pre>
+- <a href="categories/mails/8157.md">建言献策</a><br/>  Query Date : <b>2021-11-07</b> - Reply Date : <b>2021-11-08</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8139.md">商鞅大道管理问题</a><br/>  Query Date : <b>2021-11-03</b> - Reply Date : <b>2021-11-05</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8137.md">养老保险关系转移</a><br/>  Query Date : <b>2021-11-03</b> - Reply Date : <b>2021-11-04</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8134.md">服务期未到能辞职重新考吗</a><br/>  Query Date : <b>2021-11-03</b> - Reply Date : <b>2021-11-05</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
@@ -21,9 +22,13 @@
 - <a href="categories/mails/8085.md">咨询商鞅广场的改造升级问题</a><br/>  Query Date : <b>2021-10-22</b> - Reply Date : <b>2021-10-25</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8083.md">老年人白内障“光明工程”</a><br/>  Query Date : <b>2021-10-22</b> - Reply Date : <b>2021-10-25</b> - Reply Agency : <a href="categories/agencies/商洛市残疾人联合会.md">商洛市残疾人联合会</a>
 - <a href="categories/mails/8081.md">农村污水处理工程污水井盖位置设在住宅大门口问题的反应</a><br/>  Query Date : <b>2021-10-22</b> - Reply Date : <b>2021-10-25</b> - Reply Agency : <a href="categories/agencies/丹凤县人民政府办公室.md">丹凤县人民政府办公室</a>
+- <a href="categories/mails/8072.md">商洛市区羽毛球场馆问题</a><br/>  Query Date : <b>2021-10-21</b> - Reply Date : <b>2021-10-25</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
+- <a href="categories/mails/8062.md">公园天下小区户表改造</a><br/>  Query Date : <b>2021-10-19</b> - Reply Date : <b>2021-10-20</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/8055.md">红十字会救护员培训如何报名</a><br/>  Query Date : <b>2021-10-18</b> - Reply Date : <b>2021-10-19</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8053.md">商洛红十字会救护员培训</a><br/>  Query Date : <b>2021-10-18</b> - Reply Date : <b>2021-10-19</b> - Reply Agency : <a href="categories/agencies/商洛市红十字会.md">商洛市红十字会</a>
+- <a href="categories/mails/8051.md">洛南皇城广场综合体广告牌问题</a><br/>  Query Date : <b>2021-10-18</b> - Reply Date : <b>2021-10-18</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
 - <a href="categories/mails/8049.md">安全生产监督不力，商州区第一小学师生身处险地。</a><br/>  Query Date : <b>2021-10-18</b> - Reply Date : <b>2021-10-18</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
+- <a href="categories/mails/8037.md">受灾困难群安置咨询</a><br/>  Query Date : <b>2021-10-15</b> - Reply Date : <b>2021-10-20</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/8021.md">如何知道市长有没有收到信？</a><br/>  Query Date : <b>2021-10-13</b> - Reply Date : <b>2021-10-14</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8018.md">商洛市小学社团活动是否教育资源是否平等</a><br/>  Query Date : <b>2021-10-13</b> - Reply Date : <b>2021-10-15</b> - Reply Agency : <a href="categories/agencies/商洛市教育局.md">商洛市教育局</a>
 - <a href="categories/mails/8014.md">大学生函调</a><br/>  Query Date : <b>2021-10-13</b> - Reply Date : <b>2021-10-14</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
@@ -44,6 +49,7 @@
 - <a href="categories/mails/7925.md">关于商州城区电动车乱象问题的建议</a><br/>  Query Date : <b>2021-09-28</b> - Reply Date : <b>2021-09-28</b> - Reply Agency : <a href="categories/agencies/商洛市公安局交通警察支队.md">商洛市公安局交通警察支队</a>
 - <a href="categories/mails/7924.md">桂圆新村6号楼，漏雨屋顶破烂不堪，物业不作为，旧楼改造范围文件中包括此楼。也迟迟不见行动，雨天连续，我们已无法正常生活！</a><br/>  Query Date : <b>2021-09-28</b> - Reply Date : <b>2021-09-28</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/7916.md">新一届政府为何大幅度降低医保报销标准</a><br/>  Query Date : <b>2021-09-27</b> - Reply Date : <b>2021-09-28</b> - Reply Agency : <a href="categories/agencies/商洛市医疗保障局.md">商洛市医疗保障局</a>
+- <a href="categories/mails/7906.md">危房影响安全、环境卫生数年处理不了</a><br/>  Query Date : <b>2021-09-25</b> - Reply Date : <b>2021-09-26</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/7904.md">南宽坪镇后坡村民私下买卖土地违规建房殴打邻居</a><br/>  Query Date : <b>2021-09-25</b> - Reply Date : <b>2021-09-26</b> - Reply Agency : <a href="categories/agencies/山阳县人民政府办公室.md">山阳县人民政府办公室</a>
 - <a href="categories/mails/7900.md">灾后用水问题反馈地址</a><br/>  Query Date : <b>2021-09-25</b> - Reply Date : <b>2021-09-26</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
 - <a href="categories/mails/7897.md">镇安的高中教育问题令人堪忧（镇安县中是处级单位，本县解决不了）</a><br/>  Query Date : <b>2021-09-24</b> - Reply Date : <b>2021-09-26</b> - Reply Agency : <a href="categories/agencies/镇安县人民政府办公室.md">镇安县人民政府办公室</a>
