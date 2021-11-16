@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-11-15</b><br/><b>TOTAL MAILS :       1090</b></pre>
+<pre><b>LAST UPDATE : 2021-11-16</b><br/><b>TOTAL MAILS :       1090</b></pre>
 <pre>
 - <a href="categories/mails/8172.md">关于北新街邮政银行欺骗客户购买基金产品的投诉</a><br/>  Query Date : <b>2021-11-10</b> - Reply Date : <b>2021-11-15</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8169.md">关于在事业单位考试中增加教师岗位的建议</a><br/>  Query Date : <b>2021-11-09</b> - Reply Date : <b>2021-11-15</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
