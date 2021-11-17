@@ -11,8 +11,9 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-11-16</b><br/><b>TOTAL MAILS :       1090</b></pre>
+<pre><b>LAST UPDATE : 2021-11-17</b><br/><b>TOTAL MAILS :       1092</b></pre>
 <pre>
+- <a href="categories/mails/8199.md">申请统计年鉴</a><br/>  Query Date : <b>2021-11-16</b> - Reply Date : <b>2021-11-17</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8172.md">关于北新街邮政银行欺骗客户购买基金产品的投诉</a><br/>  Query Date : <b>2021-11-10</b> - Reply Date : <b>2021-11-15</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8169.md">关于在事业单位考试中增加教师岗位的建议</a><br/>  Query Date : <b>2021-11-09</b> - Reply Date : <b>2021-11-15</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8157.md">建言献策</a><br/>  Query Date : <b>2021-11-07</b> - Reply Date : <b>2021-11-08</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
@@ -22,6 +23,7 @@
 - <a href="categories/mails/8113.md">县级县以下医疗卫生机构招聘医学类本科生有关问题</a><br/>  Query Date : <b>2021-10-29</b> - Reply Date : <b>2021-11-02</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8110.md">不动产登记流程不按省住建厅要求办理</a><br/>  Query Date : <b>2021-10-29</b> - Reply Date : <b>2021-10-29</b> - Reply Agency : <a href="categories/agencies/商洛市自然资源局.md">商洛市自然资源局</a>
 - <a href="categories/mails/8101.md">商洛市供电电力历史博物馆无法联络</a><br/>  Query Date : <b>2021-10-26</b> - Reply Date : <b>2021-10-27</b> - Reply Agency : <a href="categories/agencies/国网陕西省电力公司商洛供电公司.md">国网陕西省电力公司商洛供电公司</a>
+- <a href="categories/mails/8100.md">危桥修建</a><br/>  Query Date : <b>2021-10-25</b> - Reply Date : <b>2021-10-27</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
 - <a href="categories/mails/8085.md">咨询商鞅广场的改造升级问题</a><br/>  Query Date : <b>2021-10-22</b> - Reply Date : <b>2021-10-25</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8083.md">老年人白内障“光明工程”</a><br/>  Query Date : <b>2021-10-22</b> - Reply Date : <b>2021-10-25</b> - Reply Agency : <a href="categories/agencies/商洛市残疾人联合会.md">商洛市残疾人联合会</a>
 - <a href="categories/mails/8081.md">农村污水处理工程污水井盖位置设在住宅大门口问题的反应</a><br/>  Query Date : <b>2021-10-22</b> - Reply Date : <b>2021-10-25</b> - Reply Agency : <a href="categories/agencies/丹凤县人民政府办公室.md">丹凤县人民政府办公室</a>
