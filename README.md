@@ -11,12 +11,16 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-11-18</b><br/><b>TOTAL MAILS :       1095</b></pre>
+<pre><b>LAST UPDATE : 2021-11-19</b><br/><b>TOTAL MAILS :       1099</b></pre>
 <pre>
 - <a href="categories/mails/8199.md">申请统计年鉴</a><br/>  Query Date : <b>2021-11-16</b> - Reply Date : <b>2021-11-17</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/8186.md">修路赔偿咨询</a><br/>  Query Date : <b>2021-11-11</b> - Reply Date : <b>2021-11-12</b> - Reply Agency : <a href="categories/agencies/镇安县人民政府办公室.md">镇安县人民政府办公室</a>
 - <a href="categories/mails/8172.md">关于北新街邮政银行欺骗客户购买基金产品的投诉</a><br/>  Query Date : <b>2021-11-10</b> - Reply Date : <b>2021-11-15</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8169.md">关于在事业单位考试中增加教师岗位的建议</a><br/>  Query Date : <b>2021-11-09</b> - Reply Date : <b>2021-11-15</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/8168.md">请求明确高层次引进人才服务期限</a><br/>  Query Date : <b>2021-11-09</b> - Reply Date : <b>2021-11-11</b> - Reply Agency : <a href="categories/agencies/商洛市人力资源和社会保障局.md">商洛市人力资源和社会保障局</a>
+- <a href="categories/mails/8159.md">村民小组道路硬化问题</a><br/>  Query Date : <b>2021-11-08</b> - Reply Date : <b>2021-11-08</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
 - <a href="categories/mails/8157.md">建言献策</a><br/>  Query Date : <b>2021-11-07</b> - Reply Date : <b>2021-11-08</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/8152.md">屋顶漏水严重，无法居住。</a><br/>  Query Date : <b>2021-11-06</b> - Reply Date : <b>2021-11-08</b> - Reply Agency : <a href="categories/agencies/商洛市机关事务管理局.md">商洛市机关事务管理局</a>
 - <a href="categories/mails/8139.md">商鞅大道管理问题</a><br/>  Query Date : <b>2021-11-03</b> - Reply Date : <b>2021-11-05</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8137.md">养老保险关系转移</a><br/>  Query Date : <b>2021-11-03</b> - Reply Date : <b>2021-11-04</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8134.md">服务期未到能辞职重新考吗</a><br/>  Query Date : <b>2021-11-03</b> - Reply Date : <b>2021-11-05</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
