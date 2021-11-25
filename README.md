@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-11-24</b><br/><b>TOTAL MAILS :       1099</b></pre>
+<pre><b>LAST UPDATE : 2021-11-25</b><br/><b>TOTAL MAILS :       1099</b></pre>
 <pre>
 - <a href="categories/mails/8199.md">申请统计年鉴</a><br/>  Query Date : <b>2021-11-16</b> - Reply Date : <b>2021-11-17</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8186.md">修路赔偿咨询</a><br/>  Query Date : <b>2021-11-11</b> - Reply Date : <b>2021-11-12</b> - Reply Agency : <a href="categories/agencies/镇安县人民政府办公室.md">镇安县人民政府办公室</a>
