@@ -11,8 +11,10 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-11-25</b><br/><b>TOTAL MAILS :       1099</b></pre>
+<pre><b>LAST UPDATE : 2021-11-26</b><br/><b>TOTAL MAILS :       1103</b></pre>
 <pre>
+- <a href="categories/mails/8236.md">车辆管理所摩托车驾驶证问题</a><br/>  Query Date : <b>2021-11-22</b> - Reply Date : <b>2021-11-25</b> - Reply Agency : <a href="categories/agencies/商洛市公安局交通警察支队.md">商洛市公安局交通警察支队</a>
+- <a href="categories/mails/8214.md">投诉“商南县试马镇观音堂村移民小区私搭乱建”一事</a><br/>  Query Date : <b>2021-11-19</b> - Reply Date : <b>2021-11-22</b> - Reply Agency : <a href="categories/agencies/商南县人民政府办公室.md">商南县人民政府办公室</a>
 - <a href="categories/mails/8199.md">申请统计年鉴</a><br/>  Query Date : <b>2021-11-16</b> - Reply Date : <b>2021-11-17</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8186.md">修路赔偿咨询</a><br/>  Query Date : <b>2021-11-11</b> - Reply Date : <b>2021-11-12</b> - Reply Agency : <a href="categories/agencies/镇安县人民政府办公室.md">镇安县人民政府办公室</a>
 - <a href="categories/mails/8172.md">关于北新街邮政银行欺骗客户购买基金产品的投诉</a><br/>  Query Date : <b>2021-11-10</b> - Reply Date : <b>2021-11-15</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
@@ -20,10 +22,12 @@
 - <a href="categories/mails/8168.md">请求明确高层次引进人才服务期限</a><br/>  Query Date : <b>2021-11-09</b> - Reply Date : <b>2021-11-11</b> - Reply Agency : <a href="categories/agencies/商洛市人力资源和社会保障局.md">商洛市人力资源和社会保障局</a>
 - <a href="categories/mails/8159.md">村民小组道路硬化问题</a><br/>  Query Date : <b>2021-11-08</b> - Reply Date : <b>2021-11-08</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
 - <a href="categories/mails/8157.md">建言献策</a><br/>  Query Date : <b>2021-11-07</b> - Reply Date : <b>2021-11-08</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/8153.md">柞水县惠达广场物业以未交公摊电费为由拒收供暖费用</a><br/>  Query Date : <b>2021-11-06</b> - Reply Date : <b>2021-11-08</b> - Reply Agency : <a href="categories/agencies/柞水县人民政府办公室.md">柞水县人民政府办公室</a>
 - <a href="categories/mails/8152.md">屋顶漏水严重，无法居住。</a><br/>  Query Date : <b>2021-11-06</b> - Reply Date : <b>2021-11-08</b> - Reply Agency : <a href="categories/agencies/商洛市机关事务管理局.md">商洛市机关事务管理局</a>
 - <a href="categories/mails/8139.md">商鞅大道管理问题</a><br/>  Query Date : <b>2021-11-03</b> - Reply Date : <b>2021-11-05</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8137.md">养老保险关系转移</a><br/>  Query Date : <b>2021-11-03</b> - Reply Date : <b>2021-11-04</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8134.md">服务期未到能辞职重新考吗</a><br/>  Query Date : <b>2021-11-03</b> - Reply Date : <b>2021-11-05</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/8133.md">户籍问题，合法户籍变“空户”</a><br/>  Query Date : <b>2021-11-03</b> - Reply Date : <b>2021-11-04</b> - Reply Agency : <a href="categories/agencies/商洛市公安局.md">商洛市公安局</a>
 - <a href="categories/mails/8113.md">县级县以下医疗卫生机构招聘医学类本科生有关问题</a><br/>  Query Date : <b>2021-10-29</b> - Reply Date : <b>2021-11-02</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8112.md">乡镇医院看病是否开具发票，农合疗是否报销</a><br/>  Query Date : <b>2021-10-29</b> - Reply Date : <b>2021-11-01</b> - Reply Agency : <a href="categories/agencies/商洛市医疗保障局.md">商洛市医疗保障局</a>
 - <a href="categories/mails/8110.md">不动产登记流程不按省住建厅要求办理</a><br/>  Query Date : <b>2021-10-29</b> - Reply Date : <b>2021-10-29</b> - Reply Agency : <a href="categories/agencies/商洛市自然资源局.md">商洛市自然资源局</a>
