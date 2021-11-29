@@ -11,8 +11,9 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-11-28</b><br/><b>TOTAL MAILS :       1103</b></pre>
+<pre><b>LAST UPDATE : 2021-11-29</b><br/><b>TOTAL MAILS :       1104</b></pre>
 <pre>
+- <a href="categories/mails/8259.md">居民用电户表改造问题</a><br/>  Query Date : <b>2021-11-26</b> - Reply Date : <b>2021-11-29</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/8236.md">车辆管理所摩托车驾驶证问题</a><br/>  Query Date : <b>2021-11-22</b> - Reply Date : <b>2021-11-25</b> - Reply Agency : <a href="categories/agencies/商洛市公安局交通警察支队.md">商洛市公安局交通警察支队</a>
 - <a href="categories/mails/8214.md">投诉“商南县试马镇观音堂村移民小区私搭乱建”一事</a><br/>  Query Date : <b>2021-11-19</b> - Reply Date : <b>2021-11-22</b> - Reply Agency : <a href="categories/agencies/商南县人民政府办公室.md">商南县人民政府办公室</a>
 - <a href="categories/mails/8199.md">申请统计年鉴</a><br/>  Query Date : <b>2021-11-16</b> - Reply Date : <b>2021-11-17</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
