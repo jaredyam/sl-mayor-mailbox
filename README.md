@@ -11,8 +11,9 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-11-30</b><br/><b>TOTAL MAILS :       1107</b></pre>
+<pre><b>LAST UPDATE : 2021-12-02</b><br/><b>TOTAL MAILS :       1111</b></pre>
 <pre>
+- <a href="categories/mails/8285.md">2020年政府网站工作年度报表</a><br/>  Query Date : <b>2021-12-01</b> - Reply Date : <b>2021-12-02</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8262.md">香菊地产东城首府房产证不办理</a><br/>  Query Date : <b>2021-11-27</b> - Reply Date : <b>2021-11-30</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8261.md">希望尽快办理房产证</a><br/>  Query Date : <b>2021-11-26</b> - Reply Date : <b>2021-11-30</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8259.md">居民用电户表改造问题</a><br/>  Query Date : <b>2021-11-26</b> - Reply Date : <b>2021-11-29</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
@@ -20,9 +21,11 @@
 - <a href="categories/mails/8214.md">投诉“商南县试马镇观音堂村移民小区私搭乱建”一事</a><br/>  Query Date : <b>2021-11-19</b> - Reply Date : <b>2021-11-22</b> - Reply Agency : <a href="categories/agencies/商南县人民政府办公室.md">商南县人民政府办公室</a>
 - <a href="categories/mails/8199.md">申请统计年鉴</a><br/>  Query Date : <b>2021-11-16</b> - Reply Date : <b>2021-11-17</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8186.md">修路赔偿咨询</a><br/>  Query Date : <b>2021-11-11</b> - Reply Date : <b>2021-11-12</b> - Reply Agency : <a href="categories/agencies/镇安县人民政府办公室.md">镇安县人民政府办公室</a>
+- <a href="categories/mails/8175.md">丹江河边路灯问题</a><br/>  Query Date : <b>2021-11-10</b> - Reply Date : <b>2021-11-11</b> - Reply Agency : <a href="categories/agencies/商洛市城市管理局.md">商洛市城市管理局</a>
 - <a href="categories/mails/8172.md">关于北新街邮政银行欺骗客户购买基金产品的投诉</a><br/>  Query Date : <b>2021-11-10</b> - Reply Date : <b>2021-11-15</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8169.md">关于在事业单位考试中增加教师岗位的建议</a><br/>  Query Date : <b>2021-11-09</b> - Reply Date : <b>2021-11-15</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8168.md">请求明确高层次引进人才服务期限</a><br/>  Query Date : <b>2021-11-09</b> - Reply Date : <b>2021-11-11</b> - Reply Agency : <a href="categories/agencies/商洛市人力资源和社会保障局.md">商洛市人力资源和社会保障局</a>
+- <a href="categories/mails/8167.md">建议加装护栏</a><br/>  Query Date : <b>2021-11-09</b> - Reply Date : <b>2021-11-11</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/8159.md">村民小组道路硬化问题</a><br/>  Query Date : <b>2021-11-08</b> - Reply Date : <b>2021-11-08</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
 - <a href="categories/mails/8157.md">建言献策</a><br/>  Query Date : <b>2021-11-07</b> - Reply Date : <b>2021-11-08</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8153.md">柞水县惠达广场物业以未交公摊电费为由拒收供暖费用</a><br/>  Query Date : <b>2021-11-06</b> - Reply Date : <b>2021-11-08</b> - Reply Agency : <a href="categories/agencies/柞水县人民政府办公室.md">柞水县人民政府办公室</a>
@@ -49,6 +52,7 @@
 - <a href="categories/mails/8051.md">洛南皇城广场综合体广告牌问题</a><br/>  Query Date : <b>2021-10-18</b> - Reply Date : <b>2021-10-18</b> - Reply Agency : <a href="categories/agencies/洛南县人民政府办公室.md">洛南县人民政府办公室</a>
 - <a href="categories/mails/8049.md">安全生产监督不力，商州区第一小学师生身处险地。</a><br/>  Query Date : <b>2021-10-18</b> - Reply Date : <b>2021-10-18</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/8037.md">受灾困难群安置咨询</a><br/>  Query Date : <b>2021-10-15</b> - Reply Date : <b>2021-10-20</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
+- <a href="categories/mails/8025.md">2021年泰宇时代天地小区供暖问题</a><br/>  Query Date : <b>2021-10-14</b> - Reply Date : <b>2021-10-15</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/8021.md">如何知道市长有没有收到信？</a><br/>  Query Date : <b>2021-10-13</b> - Reply Date : <b>2021-10-14</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8018.md">商洛市小学社团活动是否教育资源是否平等</a><br/>  Query Date : <b>2021-10-13</b> - Reply Date : <b>2021-10-15</b> - Reply Agency : <a href="categories/agencies/商洛市教育局.md">商洛市教育局</a>
 - <a href="categories/mails/8014.md">大学生函调</a><br/>  Query Date : <b>2021-10-13</b> - Reply Date : <b>2021-10-14</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
