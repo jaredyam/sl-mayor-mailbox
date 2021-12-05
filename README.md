@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-12-04</b><br/><b>TOTAL MAILS :       1111</b></pre>
+<pre><b>LAST UPDATE : 2021-12-05</b><br/><b>TOTAL MAILS :       1111</b></pre>
 <pre>
 - <a href="categories/mails/8285.md">2020年政府网站工作年度报表</a><br/>  Query Date : <b>2021-12-01</b> - Reply Date : <b>2021-12-02</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8262.md">香菊地产东城首府房产证不办理</a><br/>  Query Date : <b>2021-11-27</b> - Reply Date : <b>2021-11-30</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
