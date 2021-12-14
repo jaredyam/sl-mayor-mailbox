@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-12-13</b><br/><b>TOTAL MAILS :       1114</b></pre>
+<pre><b>LAST UPDATE : 2021-12-14</b><br/><b>TOTAL MAILS :       1114</b></pre>
 <pre>
 - <a href="categories/mails/8344.md">新能源汽车购置优惠政策</a><br/>  Query Date : <b>2021-12-13</b> - Reply Date : <b>2021-12-13</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8291.md">商州区  第十五小学</a><br/>  Query Date : <b>2021-12-02</b> - Reply Date : <b>2021-12-07</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
