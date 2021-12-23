@@ -11,9 +11,11 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-12-22</b><br/><b>TOTAL MAILS :       1125</b></pre>
+<pre><b>LAST UPDATE : 2021-12-23</b><br/><b>TOTAL MAILS :       1127</b></pre>
 <pre>
 - <a href="categories/mails/8388.md">城乡居民医疗保险无法缴纳 显示登记信息异常</a><br/>  Query Date : <b>2021-12-22</b> - Reply Date : <b>2021-12-22</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/8378.md">是否可以适度调配车辆接送商洛考生前往西安进行研究生考试</a><br/>  Query Date : <b>2021-12-21</b> - Reply Date : <b>2021-12-23</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/8376.md">考研</a><br/>  Query Date : <b>2021-12-20</b> - Reply Date : <b>2021-12-23</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8344.md">新能源汽车购置优惠政策</a><br/>  Query Date : <b>2021-12-13</b> - Reply Date : <b>2021-12-13</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8318.md">棚户区安置房可以买卖吗？</a><br/>  Query Date : <b>2021-12-07</b> - Reply Date : <b>2021-12-08</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/8291.md">商州区  第十五小学</a><br/>  Query Date : <b>2021-12-02</b> - Reply Date : <b>2021-12-07</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
@@ -397,7 +399,7 @@
 - <a href="categories/mails/6709.md">关于2020寒假大学生见习安排</a><br/>  Query Date : <b>2020-12-17</b> - Reply Date : <b>2020-12-17</b> - Reply Agency : <a href="categories/agencies/市信息办.md">市信息办</a>
 - <a href="categories/mails/6704.md">警察是不是为了创收而贴单子，晚上21.42分，我在没有影响正常同行的情况下，他也没有正常的违法告知给我贴单子</a><br/>  Query Date : <b>2020-12-15</b> - Reply Date : <b>2020-12-16</b> - Reply Agency : <a href="categories/agencies/市信息办.md">市信息办</a>
 - <a href="categories/mails/6701.md">网络不通，无人维修及管理</a><br/>  Query Date : <b>2020-12-15</b> - Reply Date : <b>2020-12-15</b> - Reply Agency : <a href="categories/agencies/市信息办.md">市信息办</a>
-- <a href="categories/mails/6694.md">建议307省道柞水磨沟峡口进行陡坡落石安全隐患整治</a><br/>  Query Date : <b>2020-12-10</b> - Reply Date : <b>2020-12-11</b> - Reply Agency : <a href="categories/agencies/商洛公路管理局.md">商洛公路管理局</a>
+- <a href="categories/mails/6694.md">建议307省道柞水磨沟峡口进行陡坡落石安全隐患整治</a><br/>  Query Date : <b>2020-12-10</b> - Reply Date : <b>2020-12-14</b> - Reply Agency : <a href="categories/agencies/商洛公路管理局.md">商洛公路管理局</a>
 - <a href="categories/mails/6689.md">关于丹凤人民政府网站，县长信箱办结率低，时效低的反馈</a><br/>  Query Date : <b>2020-12-09</b> - Reply Date : <b>2020-12-10</b> - Reply Agency : <a href="categories/agencies/丹凤县人民政府办公室.md">丹凤县人民政府办公室</a>
 - <a href="categories/mails/6687.md">商洛北服务区驾驶人休息时，开罚单</a><br/>  Query Date : <b>2020-12-08</b> - Reply Date : <b>2020-12-10</b> - Reply Agency : <a href="categories/agencies/市信息办.md">市信息办</a>
 - <a href="categories/mails/6686.md">政策咨询不到，求助</a><br/>  Query Date : <b>2020-12-08</b> - Reply Date : <b>2020-12-08</b> - Reply Agency : <a href="categories/agencies/商洛市人力资源和社会保障局.md">商洛市人力资源和社会保障局</a>
@@ -571,7 +573,7 @@
 - <a href="categories/mails/5940.md">关于疫情补贴通知</a><br/>  Query Date : <b>2020-05-31</b> - Reply Date : <b>2020-06-01</b> - Reply Agency : <a href="categories/agencies/市信息办.md">市信息办</a>
 - <a href="categories/mails/5936.md">60岁到龄，陕西养老保险APP上可以申请到龄养老金待遇</a><br/>  Query Date : <b>2020-05-31</b> - Reply Date : <b>2020-06-01</b> - Reply Agency : <a href="categories/agencies/市信息办.md">市信息办</a>
 - <a href="categories/mails/5935.md">是扶贫还是欺骗</a><br/>  Query Date : <b>2020-05-31</b> - Reply Date : <b>2020-06-30</b> - Reply Agency : <a href="categories/agencies/市信息办.md">市信息办</a>
-- <a href="categories/mails/5926.md">请求恢复12路公交车运行</a><br/>  Query Date : <b>2020-05-29</b> - Reply Date : <b>2020-06-01</b> - Reply Agency : <a href="categories/agencies/市信息办.md">市信息办</a>
+- <a href="categories/mails/5926.md">请求恢复12路公交车运行</a><br/>  Query Date : <b>2020-05-29</b> - Reply Date : <b>2020-06-03</b> - Reply Agency : <a href="categories/agencies/市信息办.md">市信息办</a>
 - <a href="categories/mails/5921.md">电动车黄色临牌是否需要驾照</a><br/>  Query Date : <b>2020-05-28</b> - Reply Date : <b>2020-05-29</b> - Reply Agency : <a href="categories/agencies/商洛市公安局交通警察支队.md">商洛市公安局交通警察支队</a>
 - <a href="categories/mails/5915.md">毕业档案调回存放手续</a><br/>  Query Date : <b>2020-05-27</b> - Reply Date : <b>2020-05-28</b> - Reply Agency : <a href="categories/agencies/市信息办.md">市信息办</a>
 - <a href="categories/mails/5913.md">关于商洛市地情网恢复问题</a><br/>  Query Date : <b>2020-05-27</b> - Reply Date : <b>2020-05-28</b> - Reply Agency : <a href="categories/agencies/市信息办.md">市信息办</a>
