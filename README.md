@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-12-25</b><br/><b>TOTAL MAILS :       1132</b></pre>
+<pre><b>LAST UPDATE : 2021-12-26</b><br/><b>TOTAL MAILS :       1132</b></pre>
 <pre>
 - <a href="categories/mails/8388.md">城乡居民医疗保险无法缴纳 显示登记信息异常</a><br/>  Query Date : <b>2021-12-22</b> - Reply Date : <b>2021-12-22</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8378.md">是否可以适度调配车辆接送商洛考生前往西安进行研究生考试</a><br/>  Query Date : <b>2021-12-21</b> - Reply Date : <b>2021-12-23</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
