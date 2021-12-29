@@ -11,16 +11,19 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2021-12-28</b><br/><b>TOTAL MAILS :       1132</b></pre>
+<pre><b>LAST UPDATE : 2021-12-29</b><br/><b>TOTAL MAILS :       1135</b></pre>
 <pre>
 - <a href="categories/mails/8388.md">城乡居民医疗保险无法缴纳 显示登记信息异常</a><br/>  Query Date : <b>2021-12-22</b> - Reply Date : <b>2021-12-22</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8378.md">是否可以适度调配车辆接送商洛考生前往西安进行研究生考试</a><br/>  Query Date : <b>2021-12-21</b> - Reply Date : <b>2021-12-23</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8376.md">考研</a><br/>  Query Date : <b>2021-12-20</b> - Reply Date : <b>2021-12-23</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/8360.md">西背街机动车随意停放严重影响通行</a><br/>  Query Date : <b>2021-12-16</b> - Reply Date : <b>2021-12-17</b> - Reply Agency : <a href="categories/agencies/商洛市公安局交通警察支队.md">商洛市公安局交通警察支队</a>
 - <a href="categories/mails/8348.md">江滨路与东新路丁字路口红绿灯的时间设置问题</a><br/>  Query Date : <b>2021-12-13</b> - Reply Date : <b>2021-12-15</b> - Reply Agency : <a href="categories/agencies/商洛市公安局交通警察支队.md">商洛市公安局交通警察支队</a>
 - <a href="categories/mails/8346.md">网上购票难</a><br/>  Query Date : <b>2021-12-13</b> - Reply Date : <b>2021-12-13</b> - Reply Agency : <a href="categories/agencies/商洛市交通运输局.md">商洛市交通运输局</a>
 - <a href="categories/mails/8344.md">新能源汽车购置优惠政策</a><br/>  Query Date : <b>2021-12-13</b> - Reply Date : <b>2021-12-13</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/8340.md">住宅楼楼下住户随意搭建雨蓬威胁安全影响休息</a><br/>  Query Date : <b>2021-12-12</b> - Reply Date : <b>2021-12-13</b> - Reply Agency : <a href="categories/agencies/商南县人民政府.md">商南县人民政府</a>
 - <a href="categories/mails/8318.md">棚户区安置房可以买卖吗？</a><br/>  Query Date : <b>2021-12-07</b> - Reply Date : <b>2021-12-08</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/8317.md">急~牧护关灾后重建问题</a><br/>  Query Date : <b>2021-12-07</b> - Reply Date : <b>2021-12-08</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
+- <a href="categories/mails/8314.md">排水渠延长盖板，以防人员安全</a><br/>  Query Date : <b>2021-12-07</b> - Reply Date : <b>2021-12-08</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/8293.md">丹凤县国土局非法贱卖国有土地</a><br/>  Query Date : <b>2021-12-02</b> - Reply Date : <b>2021-12-03</b> - Reply Agency : <a href="categories/agencies/商洛市自然资源局.md">商洛市自然资源局</a>
 - <a href="categories/mails/8291.md">商州区  第十五小学</a><br/>  Query Date : <b>2021-12-02</b> - Reply Date : <b>2021-12-07</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8287.md">三胎政策</a><br/>  Query Date : <b>2021-12-01</b> - Reply Date : <b>2021-12-02</b> - Reply Agency : <a href="categories/agencies/商洛市卫生健康委委员会.md">商洛市卫生健康委委员会</a>
