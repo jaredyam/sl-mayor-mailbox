@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2022-01-03</b><br/><b>TOTAL MAILS :       1136</b></pre>
+<pre><b>LAST UPDATE : 2022-01-04</b><br/><b>TOTAL MAILS :       1136</b></pre>
 <pre>
 - <a href="categories/mails/8416.md">灵活就业人员医保何时出台政策并可以网上缴费</a><br/>  Query Date : <b>2021-12-28</b> - Reply Date : <b>2021-12-30</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8388.md">城乡居民医疗保险无法缴纳 显示登记信息异常</a><br/>  Query Date : <b>2021-12-22</b> - Reply Date : <b>2021-12-22</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
