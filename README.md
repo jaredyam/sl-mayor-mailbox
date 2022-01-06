@@ -11,8 +11,9 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2022-01-04</b><br/><b>TOTAL MAILS :       1136</b></pre>
+<pre><b>LAST UPDATE : 2022-01-06</b><br/><b>TOTAL MAILS :       1138</b></pre>
 <pre>
+- <a href="categories/mails/8461.md">快过年了，各位领导们，洛南移民搬迁款迟迟不到位，能否给一个说法</a><br/>  Query Date : <b>2022-01-05</b> - Reply Date : <b>2022-01-06</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8416.md">灵活就业人员医保何时出台政策并可以网上缴费</a><br/>  Query Date : <b>2021-12-28</b> - Reply Date : <b>2021-12-30</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8388.md">城乡居民医疗保险无法缴纳 显示登记信息异常</a><br/>  Query Date : <b>2021-12-22</b> - Reply Date : <b>2021-12-22</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8378.md">是否可以适度调配车辆接送商洛考生前往西安进行研究生考试</a><br/>  Query Date : <b>2021-12-21</b> - Reply Date : <b>2021-12-23</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
@@ -25,6 +26,7 @@
 - <a href="categories/mails/8318.md">棚户区安置房可以买卖吗？</a><br/>  Query Date : <b>2021-12-07</b> - Reply Date : <b>2021-12-08</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/8317.md">急~牧护关灾后重建问题</a><br/>  Query Date : <b>2021-12-07</b> - Reply Date : <b>2021-12-08</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/8314.md">排水渠延长盖板，以防人员安全</a><br/>  Query Date : <b>2021-12-07</b> - Reply Date : <b>2021-12-08</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
+- <a href="categories/mails/8295.md">北环路一号大桥家装护网</a><br/>  Query Date : <b>2021-12-03</b> - Reply Date : <b>2021-12-06</b> - Reply Agency : <a href="categories/agencies/商洛市交通运输局.md">商洛市交通运输局</a>
 - <a href="categories/mails/8293.md">丹凤县国土局非法贱卖国有土地</a><br/>  Query Date : <b>2021-12-02</b> - Reply Date : <b>2021-12-03</b> - Reply Agency : <a href="categories/agencies/商洛市自然资源局.md">商洛市自然资源局</a>
 - <a href="categories/mails/8291.md">商州区  第十五小学</a><br/>  Query Date : <b>2021-12-02</b> - Reply Date : <b>2021-12-07</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8287.md">三胎政策</a><br/>  Query Date : <b>2021-12-01</b> - Reply Date : <b>2021-12-02</b> - Reply Agency : <a href="categories/agencies/商洛市卫生健康委委员会.md">商洛市卫生健康委委员会</a>
