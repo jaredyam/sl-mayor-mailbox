@@ -11,11 +11,12 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2022-01-10</b><br/><b>TOTAL MAILS :       1139</b></pre>
+<pre><b>LAST UPDATE : 2022-01-11</b><br/><b>TOTAL MAILS :       1140</b></pre>
 <pre>
 - <a href="categories/mails/8461.md">快过年了，各位领导们，洛南移民搬迁款迟迟不到位，能否给一个说法</a><br/>  Query Date : <b>2022-01-05</b> - Reply Date : <b>2022-01-06</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8460.md">预算问题</a><br/>  Query Date : <b>2022-01-05</b> - Reply Date : <b>2022-01-07</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8416.md">灵活就业人员医保何时出台政策并可以网上缴费</a><br/>  Query Date : <b>2021-12-28</b> - Reply Date : <b>2021-12-30</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/8403.md">慢性病申请批复及外地住院报销请求帮助事项</a><br/>  Query Date : <b>2021-12-26</b> - Reply Date : <b>2021-12-29</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/8388.md">城乡居民医疗保险无法缴纳 显示登记信息异常</a><br/>  Query Date : <b>2021-12-22</b> - Reply Date : <b>2021-12-22</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8378.md">是否可以适度调配车辆接送商洛考生前往西安进行研究生考试</a><br/>  Query Date : <b>2021-12-21</b> - Reply Date : <b>2021-12-23</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8376.md">考研</a><br/>  Query Date : <b>2021-12-20</b> - Reply Date : <b>2021-12-23</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
