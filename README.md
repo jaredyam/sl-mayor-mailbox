@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2022-01-11</b><br/><b>TOTAL MAILS :       1140</b></pre>
+<pre><b>LAST UPDATE : 2022-01-12</b><br/><b>TOTAL MAILS :       1143</b></pre>
 <pre>
 - <a href="categories/mails/8461.md">快过年了，各位领导们，洛南移民搬迁款迟迟不到位，能否给一个说法</a><br/>  Query Date : <b>2022-01-05</b> - Reply Date : <b>2022-01-06</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8460.md">预算问题</a><br/>  Query Date : <b>2022-01-05</b> - Reply Date : <b>2022-01-07</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
@@ -25,9 +25,12 @@
 - <a href="categories/mails/8346.md">网上购票难</a><br/>  Query Date : <b>2021-12-13</b> - Reply Date : <b>2021-12-13</b> - Reply Agency : <a href="categories/agencies/商洛市交通运输局.md">商洛市交通运输局</a>
 - <a href="categories/mails/8344.md">新能源汽车购置优惠政策</a><br/>  Query Date : <b>2021-12-13</b> - Reply Date : <b>2021-12-13</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8340.md">住宅楼楼下住户随意搭建雨蓬威胁安全影响休息</a><br/>  Query Date : <b>2021-12-12</b> - Reply Date : <b>2021-12-13</b> - Reply Agency : <a href="categories/agencies/商南县人民政府.md">商南县人民政府</a>
+- <a href="categories/mails/8321.md">关于嘉园国际小区绿州物业公司在小区东门外侧道路违规搭建的投诉</a><br/>  Query Date : <b>2021-12-08</b> - Reply Date : <b>2021-12-10</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/8318.md">棚户区安置房可以买卖吗？</a><br/>  Query Date : <b>2021-12-07</b> - Reply Date : <b>2021-12-08</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/8317.md">急~牧护关灾后重建问题</a><br/>  Query Date : <b>2021-12-07</b> - Reply Date : <b>2021-12-08</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/8314.md">排水渠延长盖板，以防人员安全</a><br/>  Query Date : <b>2021-12-07</b> - Reply Date : <b>2021-12-08</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
+- <a href="categories/mails/8309.md">山阳城区天然气限供何时了冬季取暖怎么办</a><br/>  Query Date : <b>2021-12-06</b> - Reply Date : <b>2021-12-07</b> - Reply Agency : <a href="categories/agencies/山阳县人民政府办公室.md">山阳县人民政府办公室</a>
+- <a href="categories/mails/8298.md">燃气热水器的收取备案费是否合规</a><br/>  Query Date : <b>2021-12-03</b> - Reply Date : <b>2021-12-07</b> - Reply Agency : <a href="categories/agencies/山阳县人民政府办公室.md">山阳县人民政府办公室</a>
 - <a href="categories/mails/8295.md">北环路一号大桥家装护网</a><br/>  Query Date : <b>2021-12-03</b> - Reply Date : <b>2021-12-06</b> - Reply Agency : <a href="categories/agencies/商洛市交通运输局.md">商洛市交通运输局</a>
 - <a href="categories/mails/8293.md">丹凤县国土局非法贱卖国有土地</a><br/>  Query Date : <b>2021-12-02</b> - Reply Date : <b>2021-12-03</b> - Reply Agency : <a href="categories/agencies/商洛市自然资源局.md">商洛市自然资源局</a>
 - <a href="categories/mails/8291.md">商州区  第十五小学</a><br/>  Query Date : <b>2021-12-02</b> - Reply Date : <b>2021-12-07</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
