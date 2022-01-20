@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2022-01-19</b><br/><b>TOTAL MAILS :       1144</b></pre>
+<pre><b>LAST UPDATE : 2022-01-20</b><br/><b>TOTAL MAILS :       1145</b></pre>
 <pre>
 - <a href="categories/mails/8536.md">春节大学生返乡</a><br/>  Query Date : <b>2022-01-15</b> - Reply Date : <b>2022-01-17</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8461.md">快过年了，各位领导们，洛南移民搬迁款迟迟不到位，能否给一个说法</a><br/>  Query Date : <b>2022-01-05</b> - Reply Date : <b>2022-01-06</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
@@ -47,6 +47,7 @@
 - <a href="categories/mails/8235.md">龟山大道的活动板房</a><br/>  Query Date : <b>2021-11-22</b> - Reply Date : <b>2021-11-25</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/8214.md">投诉“商南县试马镇观音堂村移民小区私搭乱建”一事</a><br/>  Query Date : <b>2021-11-19</b> - Reply Date : <b>2021-11-22</b> - Reply Agency : <a href="categories/agencies/商南县人民政府办公室.md">商南县人民政府办公室</a>
 - <a href="categories/mails/8199.md">申请统计年鉴</a><br/>  Query Date : <b>2021-11-16</b> - Reply Date : <b>2021-11-17</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/8192.md">团结路出行问题</a><br/>  Query Date : <b>2021-11-15</b> - Reply Date : <b>2021-11-15</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/8186.md">修路赔偿咨询</a><br/>  Query Date : <b>2021-11-11</b> - Reply Date : <b>2021-11-12</b> - Reply Agency : <a href="categories/agencies/镇安县人民政府办公室.md">镇安县人民政府办公室</a>
 - <a href="categories/mails/8175.md">丹江河边路灯问题</a><br/>  Query Date : <b>2021-11-10</b> - Reply Date : <b>2021-11-11</b> - Reply Agency : <a href="categories/agencies/商洛市城市管理局.md">商洛市城市管理局</a>
 - <a href="categories/mails/8172.md">关于北新街邮政银行欺骗客户购买基金产品的投诉</a><br/>  Query Date : <b>2021-11-10</b> - Reply Date : <b>2021-11-15</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
