@@ -11,8 +11,9 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2022-01-26</b><br/><b>TOTAL MAILS :       1147</b></pre>
+<pre><b>LAST UPDATE : 2022-01-27</b><br/><b>TOTAL MAILS :       1148</b></pre>
 <pre>
+- <a href="categories/mails/8633.md">关于2022年全国卫生资格考试现场确认时间</a><br/>  Query Date : <b>2022-01-26</b> - Reply Date : <b>2022-01-27</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8536.md">春节大学生返乡</a><br/>  Query Date : <b>2022-01-15</b> - Reply Date : <b>2022-01-17</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8461.md">快过年了，各位领导们，洛南移民搬迁款迟迟不到位，能否给一个说法</a><br/>  Query Date : <b>2022-01-05</b> - Reply Date : <b>2022-01-06</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8460.md">预算问题</a><br/>  Query Date : <b>2022-01-05</b> - Reply Date : <b>2022-01-07</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
