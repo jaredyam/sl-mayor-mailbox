@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2022-01-28</b><br/><b>TOTAL MAILS :       1149</b></pre>
+<pre><b>LAST UPDATE : 2022-01-29</b><br/><b>TOTAL MAILS :       1152</b></pre>
 <pre>
 - <a href="categories/mails/8640.md">无房证明怎么开</a><br/>  Query Date : <b>2022-01-27</b> - Reply Date : <b>2022-01-28</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8633.md">关于2022年全国卫生资格考试现场确认时间</a><br/>  Query Date : <b>2022-01-26</b> - Reply Date : <b>2022-01-27</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
@@ -25,6 +25,7 @@
 - <a href="categories/mails/8378.md">是否可以适度调配车辆接送商洛考生前往西安进行研究生考试</a><br/>  Query Date : <b>2021-12-21</b> - Reply Date : <b>2021-12-23</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8376.md">考研</a><br/>  Query Date : <b>2021-12-20</b> - Reply Date : <b>2021-12-23</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8360.md">西背街机动车随意停放严重影响通行</a><br/>  Query Date : <b>2021-12-16</b> - Reply Date : <b>2021-12-17</b> - Reply Agency : <a href="categories/agencies/商洛市公安局交通警察支队.md">商洛市公安局交通警察支队</a>
+- <a href="categories/mails/8351.md">商洛中心医院出院医保不能结算</a><br/>  Query Date : <b>2021-12-14</b> - Reply Date : <b>2021-12-15</b> - Reply Agency : <a href="categories/agencies/商洛市医疗保障局.md">商洛市医疗保障局</a>
 - <a href="categories/mails/8348.md">江滨路与东新路丁字路口红绿灯的时间设置问题</a><br/>  Query Date : <b>2021-12-13</b> - Reply Date : <b>2021-12-15</b> - Reply Agency : <a href="categories/agencies/商洛市公安局交通警察支队.md">商洛市公安局交通警察支队</a>
 - <a href="categories/mails/8346.md">网上购票难</a><br/>  Query Date : <b>2021-12-13</b> - Reply Date : <b>2021-12-13</b> - Reply Agency : <a href="categories/agencies/商洛市交通运输局.md">商洛市交通运输局</a>
 - <a href="categories/mails/8344.md">新能源汽车购置优惠政策</a><br/>  Query Date : <b>2021-12-13</b> - Reply Date : <b>2021-12-13</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
@@ -48,6 +49,7 @@
 - <a href="categories/mails/8245.md">商州区高级中学北门出口北环出口以及16路，19路公交线路延伸</a><br/>  Query Date : <b>2021-11-23</b> - Reply Date : <b>2021-11-25</b> - Reply Agency : <a href="categories/agencies/商洛市交通运输局.md">商洛市交通运输局</a> <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/8236.md">车辆管理所摩托车驾驶证问题</a><br/>  Query Date : <b>2021-11-22</b> - Reply Date : <b>2021-11-25</b> - Reply Agency : <a href="categories/agencies/商洛市公安局交通警察支队.md">商洛市公安局交通警察支队</a>
 - <a href="categories/mails/8235.md">龟山大道的活动板房</a><br/>  Query Date : <b>2021-11-22</b> - Reply Date : <b>2021-11-25</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
+- <a href="categories/mails/8216.md">商洛市政府何时能出台自己的物业收费管理标准</a><br/>  Query Date : <b>2021-11-19</b> - Reply Date : <b>2021-11-22</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8214.md">投诉“商南县试马镇观音堂村移民小区私搭乱建”一事</a><br/>  Query Date : <b>2021-11-19</b> - Reply Date : <b>2021-11-22</b> - Reply Agency : <a href="categories/agencies/商南县人民政府办公室.md">商南县人民政府办公室</a>
 - <a href="categories/mails/8199.md">申请统计年鉴</a><br/>  Query Date : <b>2021-11-16</b> - Reply Date : <b>2021-11-17</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8192.md">团结路出行问题</a><br/>  Query Date : <b>2021-11-15</b> - Reply Date : <b>2021-11-15</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
@@ -66,6 +68,7 @@
 - <a href="categories/mails/8137.md">养老保险关系转移</a><br/>  Query Date : <b>2021-11-03</b> - Reply Date : <b>2021-11-04</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8134.md">服务期未到能辞职重新考吗</a><br/>  Query Date : <b>2021-11-03</b> - Reply Date : <b>2021-11-05</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8133.md">户籍问题，合法户籍变“空户”</a><br/>  Query Date : <b>2021-11-03</b> - Reply Date : <b>2021-11-04</b> - Reply Agency : <a href="categories/agencies/商洛市公安局.md">商洛市公安局</a>
+- <a href="categories/mails/8132.md">关于商南县2022年农村合疗缴费对象和暂住证办理</a><br/>  Query Date : <b>2021-11-03</b> - Reply Date : <b>2021-11-04</b> - Reply Agency : <a href="categories/agencies/商洛市医疗保障局.md">商洛市医疗保障局</a>
 - <a href="categories/mails/8113.md">县级县以下医疗卫生机构招聘医学类本科生有关问题</a><br/>  Query Date : <b>2021-10-29</b> - Reply Date : <b>2021-11-02</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8112.md">乡镇医院看病是否开具发票，农合疗是否报销</a><br/>  Query Date : <b>2021-10-29</b> - Reply Date : <b>2021-11-01</b> - Reply Agency : <a href="categories/agencies/商洛市医疗保障局.md">商洛市医疗保障局</a>
 - <a href="categories/mails/8110.md">不动产登记流程不按省住建厅要求办理</a><br/>  Query Date : <b>2021-10-29</b> - Reply Date : <b>2021-10-29</b> - Reply Agency : <a href="categories/agencies/商洛市自然资源局.md">商洛市自然资源局</a>
