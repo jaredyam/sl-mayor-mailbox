@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2022-01-31</b><br/><b>TOTAL MAILS :       1155</b></pre>
+<pre><b>LAST UPDATE : 2022-02-01</b><br/><b>TOTAL MAILS :       1155</b></pre>
 <pre>
 - <a href="categories/mails/8645.md">从境外在外省口岸已隔离14天，返商是否还需要隔离</a><br/>  Query Date : <b>2022-01-29</b> - Reply Date : <b>2022-01-30</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8644.md">关于2022年一月29日工农路、州城路段私家车乱停乱放现象的投诉</a><br/>  Query Date : <b>2022-01-29</b> - Reply Date : <b>2022-01-29</b> - Reply Agency : <a href="categories/agencies/商洛市公安局交警支队商州大队.md">商洛市公安局交警支队商州大队</a>
