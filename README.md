@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2022-03-01</b><br/><b>TOTAL MAILS :       1162</b></pre>
+<pre><b>LAST UPDATE : 2022-03-02</b><br/><b>TOTAL MAILS :       1163</b></pre>
 <pre>
 - <a href="categories/mails/8719.md">房产证面积变小以前多交的物业费退不退</a><br/>  Query Date : <b>2022-02-21</b> - Reply Date : <b>2022-02-22</b> - Reply Agency : <a href="categories/agencies/彭珊.md">彭珊</a>
 - <a href="categories/mails/8672.md">商洛2022马拉松举办日期</a><br/>  Query Date : <b>2022-02-09</b> - Reply Date : <b>2022-02-11</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
@@ -23,6 +23,7 @@
 - <a href="categories/mails/8644.md">关于2022年一月29日工农路、州城路段私家车乱停乱放现象的投诉</a><br/>  Query Date : <b>2022-01-29</b> - Reply Date : <b>2022-01-29</b> - Reply Agency : <a href="categories/agencies/商洛市公安局交警支队商州大队.md">商洛市公安局交警支队商州大队</a>
 - <a href="categories/mails/8640.md">无房证明怎么开</a><br/>  Query Date : <b>2022-01-27</b> - Reply Date : <b>2022-01-28</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8633.md">关于2022年全国卫生资格考试现场确认时间</a><br/>  Query Date : <b>2022-01-26</b> - Reply Date : <b>2022-01-27</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
+- <a href="categories/mails/8559.md">时代华城安和物业乱收取暖空置费，不给业办理房产证，投诉无门。</a><br/>  Query Date : <b>2022-01-17</b> - Reply Date : <b>2022-01-18</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8536.md">春节大学生返乡</a><br/>  Query Date : <b>2022-01-15</b> - Reply Date : <b>2022-01-17</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8461.md">快过年了，各位领导们，洛南移民搬迁款迟迟不到位，能否给一个说法</a><br/>  Query Date : <b>2022-01-05</b> - Reply Date : <b>2022-01-06</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8460.md">预算问题</a><br/>  Query Date : <b>2022-01-05</b> - Reply Date : <b>2022-01-07</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
