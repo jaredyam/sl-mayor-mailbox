@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2022-03-19</b><br/><b>TOTAL MAILS :       1167</b></pre>
+<pre><b>LAST UPDATE : 2022-03-20</b><br/><b>TOTAL MAILS :       1167</b></pre>
 <pre>
 - <a href="categories/mails/8812.md">陕西公务员省考防疫问题</a><br/>  Query Date : <b>2022-03-11</b> - Reply Date : <b>2022-03-11</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8803.md">事业编考试职位表格式问题</a><br/>  Query Date : <b>2022-03-09</b> - Reply Date : <b>2022-03-10</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
