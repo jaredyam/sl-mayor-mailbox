@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2022-03-23</b><br/><b>TOTAL MAILS :       1170</b></pre>
+<pre><b>LAST UPDATE : 2022-03-24</b><br/><b>TOTAL MAILS :       1170</b></pre>
 <pre>
 - <a href="categories/mails/8829.md">电箱警报噪音扰民</a><br/>  Query Date : <b>2022-03-15</b> - Reply Date : <b>2022-03-17</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8823.md">为啥丹凤县和商南县不互通班车？</a><br/>  Query Date : <b>2022-03-14</b> - Reply Date : <b>2022-03-15</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
