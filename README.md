@@ -11,8 +11,9 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2022-04-11</b><br/><b>TOTAL MAILS :       1173</b></pre>
+<pre><b>LAST UPDATE : 2022-04-12</b><br/><b>TOTAL MAILS :       1174</b></pre>
 <pre>
+- <a href="categories/mails/9003.md">居家防控出入证以及生活问题</a><br/>  Query Date : <b>2022-04-11</b> - Reply Date : <b>2022-04-12</b> - Reply Agency : <a href="categories/agencies/商州区人民政府办公室.md">商州区人民政府办公室</a>
 - <a href="categories/mails/8999.md">工作计划</a><br/>  Query Date : <b>2022-04-11</b> - Reply Date : <b>2022-04-11</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8996.md">出院患者交通问题</a><br/>  Query Date : <b>2022-04-10</b> - Reply Date : <b>2022-04-11</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/8913.md">关于东新路孩子上小学学区划分</a><br/>  Query Date : <b>2022-03-29</b> - Reply Date : <b>2022-03-30</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
