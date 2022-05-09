@@ -553,11 +553,11 @@ L 503.672727 146.058261
 L 564.545455 160.027826 
 L 625.418182 96.753913 
 L 686.290909 33.48 
-L 747.163636 184.68 
+L 747.163636 184.26913 
 " style="fill:none;stroke:#ff053e;stroke-linecap:square;stroke-width:4;"/>
    </g>
    <g id="line2d_17">
-    <path clip-path="url(#p371792d809)" d="M 747.163636 184.68 
+    <path clip-path="url(#p371792d809)" d="M 747.163636 184.26913 
 " style="fill:none;stroke:#ff053e;stroke-linecap:square;stroke-width:4;"/>
     <defs>
      <path d="M 0 6 
@@ -573,7 +573,7 @@ z
 " id="m761ea37a20" style="stroke:#ff053e;stroke-width:3;"/>
     </defs>
     <g clip-path="url(#p371792d809)">
-     <use style="fill:#faf82e;stroke:#ff053e;stroke-width:3;" x="747.163636" xlink:href="#m761ea37a20" y="184.68"/>
+     <use style="fill:#faf82e;stroke:#ff053e;stroke-width:3;" x="747.163636" xlink:href="#m761ea37a20" y="184.26913"/>
     </g>
    </g>
   </g>
