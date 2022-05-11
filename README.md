@@ -11,7 +11,7 @@
 
 👇 Mailbox
 ----------
-<pre><b>LAST UPDATE : 2022-05-10</b><br/><b>TOTAL MAILS :       1178</b></pre>
+<pre><b>LAST UPDATE : 2022-05-11</b><br/><b>TOTAL MAILS :       1178</b></pre>
 <pre>
 - <a href="categories/mails/9157.md">咨询两次无果就投诉吧  医疗报帐 后续问题</a><br/>  Query Date : <b>2022-05-09</b> - Reply Date : <b>2022-05-09</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
 - <a href="categories/mails/9101.md">咨询商洛市及各县区2021年度进出口数据</a><br/>  Query Date : <b>2022-04-27</b> - Reply Date : <b>2022-04-28</b> - Reply Agency : <a href="categories/agencies/市信息中心.md">市信息中心</a>
